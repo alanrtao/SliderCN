@@ -87,6 +87,9 @@ with open(err_log, mode='w') as log_file:
                         log_curr_error(f'Character explicitly forbidden: `{bc}`')
                 
                 for c in rec.translation:
+                    # skip whitespaces
+                    if c.lstrip() == '':
+                        continue
                     if char_not_in_fonts(c):
                         log_curr_error(f'Character not supported by font `{c}`')
                 
