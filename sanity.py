@@ -8,14 +8,11 @@ from dataclasses import dataclass
 
 font_latin = 'fusion-pixel-12px-proportional-latin.ttf'
 font_zh = 'fusion-pixel-12px-proportional-zh_hans.ttf'
+err_log = './errors.log'
 
 parent = path.realpath(path.dirname(__file__))
-
 header_row_count = 4 # format comments, config name, config val, column names
-
 ban_characters = '。；，“”‘’……'
-
-err_log = './errors.log'
 
 @dataclass
 class Record:
