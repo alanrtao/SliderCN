@@ -153,7 +153,7 @@ elif mode == 'scan':
                         log_curr_error('Missing translation (translation column empty).')
                         continue
 
-                    if rec.orig.lstrip() != '' and rec.orig == rec.translation:
+                    if re.search(f'[a-zA-Z]', rec.orig) is not None and rec.orig == rec.translation:
                         log_curr_error('Missing translation (translation column autofilled).')
                     
                     for bc in ban_characters:
