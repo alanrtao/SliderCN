@@ -166,6 +166,14 @@ END /home/atau/Desktop/简体中文/Credits_scene.csv
 =====================
 BEGIN /home/atau/Desktop/简体中文/Desert_scene.csv
 =====================
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['<#ff9040>', '</color>']
+95
+Original:
+  feel free to give yourself the "Scroll of Realigning" in the cheats menu
+Translation:
+  the <#ff9040>Scroll of Realigning</color> must be inside! its said you can control the world with it.
 =====================
 END /home/atau/Desktop/简体中文/Desert_scene.csv
 =====================
@@ -254,24 +262,34 @@ END /home/atau/Desktop/简体中文/IntroCutscene_scene.csv
 =====================
 BEGIN /home/atau/Desktop/简体中文/Jungle_scene.csv
 =====================
+Difference between tags in orig and translation
+Original tags: ['</var>', '<var>']
+Translation tags: []
+34
+Original:
+  <var>jungleUIHintText</var>
+Translation:
+  Researcher, I think you've done it! We've discovered all the recipes!
 =====================
 END /home/atau/Desktop/简体中文/Jungle_scene.csv
 =====================
 =====================
 BEGIN /home/atau/Desktop/简体中文/MagiTech_scene.csv
 =====================
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</wavy>', '<wavy>']
+314
+Original:
+  You want my magic gem? One of my most prized possessions... You have it for a price...
+Translation:
+  Of <wavy>$1,000,000!</wavy> Good luck coming up with that money, chump!
 =====================
 END /home/atau/Desktop/简体中文/MagiTech_scene.csv
 =====================
 =====================
 BEGIN /home/atau/Desktop/简体中文/MainMenu_scene.csv
 =====================
-Character not supported by font `​`
-11
-Original:
-  ​
-Translation:
-  ​
 Character explicitly forbidden: `。`
 22
 Original:

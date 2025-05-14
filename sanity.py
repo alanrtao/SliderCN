@@ -79,6 +79,7 @@ elif mode == 'scan':
     from textwrap import indent
     from fontTools.ttLib import TTFont
     from dataclasses import dataclass
+    import re
         
     @dataclass
     class Record:
@@ -106,7 +107,11 @@ elif mode == 'scan':
     def char_not_in_fonts(c: str) -> bool:
         for f in fonts.keys():
             if char_in_font(c, f): return False
-        return True
+        return 
+    
+    def get_tags(s: str) -> list[str]:
+        tags = re.findall(r'<.*?>', s)
+        return sorted(tags)
 
     with open(err_log, mode='w') as log_file:
         def printdup(*args, **kwargs) -> None:
@@ -158,7 +163,13 @@ elif mode == 'scan':
                             continue
                         if char_not_in_fonts(c):
                             log_curr_error(f'Character not supported by font `{c}`')
-                    
+
+                    tags = get_tags(rec.orig)
+                    tags_ = get_tags(rec.translation)
+                    if tags != tags_:
+                        log_curr_error(f'Difference between tags in orig and translation\nOriginal tags: {tags}\nTranslation tags: {tags_}')
+
+
                 
                 printdup(f'=====================')
                 printdup(f'END {csv_path}')
