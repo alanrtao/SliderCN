@@ -48,7 +48,7 @@ if mode == 'split':
                     row_out.append(str(col.value))
             w.writerow(row_out)
 
-        with open(path.realpath(f'./{s_name}.csv'), mode='w') as f:
+        with open(path.realpath(f'./{s_name}.csv'), mode='w', encoding='utf-8') as f:
             f.write(out.getvalue())
         
         
@@ -65,7 +65,7 @@ elif mode == 'combine':
     for i, (csv_name, csv_path) in enumerate(sorted(csv_paths.items(), key=lambda x: x[0])):
         print(i, csv_name, csv_path)
         ws: Worksheet = w.create_sheet(csv_name, index=i)
-        with open(csv_path) as f:
+        with open(csv_path, encoding='utf-8') as f:
             r = csv.reader(f)
             for row in r:
                 ws.append(row)
@@ -113,7 +113,7 @@ elif mode == 'scan':
         tags = re.findall(r'<.*?>', s)
         return sorted(tags)
 
-    with open(err_log, mode='w') as log_file:
+    with open(err_log, mode='w', encoding='utf-8') as log_file:
         def printdup(*args, **kwargs) -> None:
             print(*args, **kwargs)
             print(*args, **kwargs, file=log_file)
@@ -129,7 +129,7 @@ elif mode == 'scan':
         cmaps = []
 
         for csv_path in sorted(csv_paths.values()):
-            with open(csv_path) as csv_file:
+            with open(csv_path, encoding='utf-8') as csv_file:
                 printdup(f'=====================')
                 printdup(f'BEGIN {csv_path}')
                 printdup(f'=====================')
@@ -179,7 +179,7 @@ elif mode == 'scan':
                 printdup(f'=====================')
             
     for font, desc in fonts.items():
-        with open(f'{desc.path}.log', mode='w') as w:
+        with open(f'{desc.path}.log', mode='w', encoding='utf-8') as w:
             for u in sorted(desc.usage):
                 print(u, end='', file=w)
 
