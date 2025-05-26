@@ -21,7 +21,14 @@ substitute_characters = {
     '…': '...',
     '：': ':',
     '；': ';',
-    '——': '--'
+    '——': '--',
+    '！': '!',
+    '【': '[',
+    '】': ']',
+    '（': '(',
+    '）': ')',
+    '？': '?',
+    '～': '~'
 }
 
 locale_name = '简体中文'
@@ -67,7 +74,7 @@ if mode == 'split':
 
                     v = v.strip()
 
-                    row_out.append()
+                    row_out.append(v)
             w.writerow(row_out)
 
         with open(path.realpath(f'./{s_name}.csv'), mode='w', encoding='utf-8-sig', newline='') as f:

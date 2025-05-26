@@ -1,176 +1,23 @@
-=====================
-BEGIN /home/atau/Desktop/简体中文/ArtifactCanvas_prefab.csv
-=====================
-=====================
-END /home/atau/Desktop/简体中文/ArtifactCanvas_prefab.csv
+﻿=====================
+BEGIN E:\_src\Localizations\简体中文\ArtifactCanvas_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Caves_scene.csv
+END E:\_src\Localizations\简体中文\ArtifactCanvas_prefab.csv
 =====================
-Character explicitly forbidden: `：`
-0
-Original:
-  DANGER: Light
-  Sensitive Fungi.
-Translation:
-  注意：大量
-  感光真菌！
-Character explicitly forbidden: `，`
-10
-Original:
-  I was doing maintenance on the power cause the line got chewed out. When a RAT showed up and started squeakin' about. Gave me a lil' jump and I tripped. Flipped the switch and doors shut, and dropped my keys. Then that darn RAT took 'em! And now here I am. In a bit of a tickle one might say.
-Translation:
-  我在附近维修电缆——它们被什么抓坏了——然后突然！突然一只[老鼠]窜出来然后叫来叫去——我惊得一跳然后绊倒了！然...然后碰到了开关——开关把门关上了，然后我钥匙不知道丢在哪里——肯定被[老鼠]抓走了——老鼠——然后我现在就在抓里——
-Character explicitly forbidden: `，`
-12
-Original:
-  Anyways I'd owe you a lunch if you got me my keys back.
-Translation:
-  总之——找到钥匙我请你吃饭，好伙计.
-Character explicitly forbidden: `，`
-14
-Original:
-  Anyway, let me know if you find my keys.
-Translation:
-  总之，找到钥匙跟我说一声——说一声.
-Character explicitly forbidden: `，`
-16
-Original:
-  Thanks for grabbing it, don't know what I would do without ya. Really, I don't know how I could thank you enough. Oh! I owe you a lunch, don't I? Haha well I can share some of what I brought today if you want. It's homemade pickles! And no, I don't mean tickles. That would be weird. Let me know if you want to try one, they're super juicy! No? Okay... well anyways thanks for all your help.
-Translation:
-  谢谢你找到它——没了你的帮助我真的不知道该怎么办.真的，我不知道我该怎么谢谢你——哦！我欠你一顿饭！哈哈我从家里带了鸡爪——你随便吃——家常鸡爪，当然不是鸡“抓”，那就太奇怪了——
-  你不想要么？额...随便吧——谢谢你的帮助.
-Character explicitly forbidden: `，`
-18
-Original:
-  Heyo thanks a ton, really.
-Translation:
-  嘿呦～多谢了，真的.
-Character explicitly forbidden: `，`
-19
-Original:
-  The Factory foreman would've been ON ME if it wasn't fixed.
-Translation:
-  要是这玩意修不好，工头肯定又要骂我...
-Character explicitly forbidden: `，`
-21
-Original:
-  I'd show you in, but I can't quite see the door.
-Translation:
-  我应该带你介绍这里，但是我啥也看不见...
-Character explicitly forbidden: `，`
-33
-Original:
-  There's a path to Canopy Town behind Bob's Tavern but... that's way too far for us.
-Translation:
-  有一条绕过鲍勃酒馆后面一直到树冠园区的小路，但是太远了.
-Character explicitly forbidden: `，`
-36
-Original:
-  Something about them holds a lot of power. Good for fuel and whatever.
-Translation:
-  好像矿石和什么能量有关，他们用它提炼燃料.
-Character explicitly forbidden: `，`
-38
-Original:
-  Great work man, I'll vote you for employee of the month.
-Translation:
-  太棒了，我投你为最佳员工.
-Character explicitly forbidden: `，`
-41
-Original:
-  try turning on the power station, the key should be nearby
-Translation:
-  看看能不能给电站通电，电站的钥匙应该在附近.
-Character explicitly forbidden: `，`
-45
-Original:
-  try turning on the power station, the key should be nearby
-Translation:
-  看看能不能给电站通电，电站的钥匙应该在附近.
-Character explicitly forbidden: `，`
-54
-Original:
-  im gonna continue my search for more glyphs in these caves. keep an eye out!
-Translation:
-  我要继续寻找洞穴里的字符了，你也注意安全！
-Character explicitly forbidden: `，`
-57
-Original:
-  oh well! im gonna continue my search for more glyphs in these caves. keep an eye out!
-Translation:
-  我要继续寻找洞穴里的字符了，你也注意安全！
-Character explicitly forbidden: `，`
-64
-Original:
-  this is fantastic news! if we find where these relics are, we can prob fix the entire world!
-Translation:
-  真是好消息！如果我们能找到这些遗物，说不定能拯救世界！
-Character explicitly forbidden: `，`
-67
-Original:
-  start packing the camping equipment chad, were going to the desert!
-Translation:
-  大碴！快收拾好东西，我们出发去沙漠～
-Character explicitly forbidden: `，`
-73
-Original:
-  Jimbobby is stuck behind the door to the Crystal Mines!
-Translation:
-  几米包被堵在门的另一边，在水晶矿那里.
-Character explicitly forbidden: `，`
-77
-Original:
-  The rats done! But so is the wire.
-Translation:
-  老鼠死了，但是电缆也坏了...
-Character explicitly forbidden: `，`
-88
-Original:
-  Sorry would you mind telling me again, I wasn't paying attention...
-Translation:
-  额...你再解释一遍，我刚刚
-Character explicitly forbidden: `，`
-90
-Original:
-  I can't believe this fungi is so obtrusive. It's unwordly.
-Translation:
-  这种真菌哪里都长满了，让人意想不到.
-Missing translation (translation column autofilled).
-98
-Original:
-  This piker don't know when to quit!
-Translation:
-  This piker don't know when to quit!
+=====================
+BEGIN E:\_src\Localizations\简体中文\Caves_scene.csv
+=====================
 Missing translation (translation column autofilled).
 100
 Original:
   boom goes here (not working)
 Translation:
   boom goes here (not working)
-Character explicitly forbidden: `，`
-104
-Original:
-  I was inspecting this light for repairs, when poof! The whole cavern went dark.
-Translation:
-  我刚才在检修这里的灯泡，然后它们突然全都黑掉了！
-Character explicitly forbidden: `，`
-105
-Original:
-  If you can find some wire cutters and a wrench, I can get this bulb back on.
-Translation:
-  如果你能找到我落下的[剪线钳]和[扳手]，我就能修好这个灯泡.
-Character explicitly forbidden: `，`
-106
-Original:
-  Woah, you found my wrench and wire cutters already! Let me fix this real quick...
-Translation:
-  哇，你找到了！我这就把灯泡修好...
 =====================
-END /home/atau/Desktop/简体中文/Caves_scene.csv
+END E:\_src\Localizations\简体中文\Caves_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Credits_scene.csv
+BEGIN E:\_src\Localizations\简体中文\Credits_scene.csv
 =====================
 Missing translation (translation column autofilled).
 2
@@ -267,7 +114,6 @@ Original:
   Sudarshan Srinivasan
   Vu Nguyen
   Rithvik Maladi
-
 Translation:
   Kate Tran 
   Jimmy Huang
@@ -275,7 +121,6 @@ Translation:
   Sudarshan Srinivasan
   Vu Nguyen
   Rithvik Maladi
-
 Missing translation (translation column autofilled).
 30
 Original:
@@ -298,14 +143,12 @@ Original:
   Aneesh Boreda
   Kenneth Wang
   Muskaan Gupta
-
 Translation:
   Koushik Thiyagarajan
   Kristian Chappell
   Aneesh Boreda
   Kenneth Wang
   Muskaan Gupta
-
 Missing translation (translation column autofilled).
 36
 Original:
@@ -335,10 +178,10 @@ Original:
 Translation:
   Max Zhang
 =====================
-END /home/atau/Desktop/简体中文/Credits_scene.csv
+END E:\_src\Localizations\简体中文\Credits_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Desert_scene.csv
+BEGIN E:\_src\Localizations\简体中文\Desert_scene.csv
 =====================
 Missing translation (translation column autofilled).
 0
@@ -433,9 +276,9 @@ Translation:
 Missing translation (translation column autofilled).
 18
 Original:
-  Hey thanks for waking me up… I tend to sleep in...
+  Hey thanks for waking me up... I tend to sleep in...
 Translation:
-  Hey thanks for waking me up… I tend to sleep in...
+  Hey thanks for waking me up... I tend to sleep in...
 Missing translation (translation column autofilled).
 19
 Original:
@@ -861,9 +704,9 @@ Translation:
 Missing translation (translation column autofilled).
 115
 Original:
-  I'd be swimming in de'Nile if I said I knew where they were. 
+  I'd be swimming in de'Nile if I said I knew where they were.
 Translation:
-  I'd be swimming in de'Nile if I said I knew where they were. 
+  I'd be swimming in de'Nile if I said I knew where they were.
 Missing translation (translation column autofilled).
 116
 Original:
@@ -1191,9 +1034,9 @@ Translation:
 Missing translation (translation column autofilled).
 174
 Original:
-  Rahaha that bone is perfect! 
+  Rahaha that bone is perfect!
 Translation:
-  Rahaha that bone is perfect! 
+  Rahaha that bone is perfect!
 Missing translation (translation column autofilled).
 175
 Original:
@@ -1383,9 +1226,9 @@ Translation:
 Missing translation (translation column autofilled).
 206
 Original:
-  No personnel without the proper amount of shades can enter the VIP lounge. 
+  No personnel without the proper amount of shades can enter the VIP lounge.
 Translation:
-  No personnel without the proper amount of shades can enter the VIP lounge. 
+  No personnel without the proper amount of shades can enter the VIP lounge.
 Missing translation (translation column autofilled).
 207
 Original:
@@ -1479,9 +1322,9 @@ Translation:
 Missing translation (translation column autofilled).
 222
 Original:
-  Ha, a 9! You need an 11 to win now! 
+  Ha, a 9! You need an 11 to win now!
 Translation:
-  Ha, a 9! You need an 11 to win now! 
+  Ha, a 9! You need an 11 to win now!
 Missing translation (translation column autofilled).
 223
 Original:
@@ -1701,9 +1544,9 @@ Translation:
 Missing translation (translation column autofilled).
 260
 Original:
-  I know I wasn't hallucinating that dude, I could feel the heat from here. And it was already hot outside! 
+  I know I wasn't hallucinating that dude, I could feel the heat from here. And it was already hot outside!
 Translation:
-  I know I wasn't hallucinating that dude, I could feel the heat from here. And it was already hot outside! 
+  I know I wasn't hallucinating that dude, I could feel the heat from here. And it was already hot outside!
 Missing translation (translation column autofilled).
 261
 Original:
@@ -1987,52 +1830,22 @@ Original:
 Translation:
   Use the Scroll Scrap to Move the Middle Tile
 =====================
-END /home/atau/Desktop/简体中文/Desert_scene.csv
+END E:\_src\Localizations\简体中文\Desert_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/DollyCanvas_prefab.csv
+BEGIN E:\_src\Localizations\简体中文\DollyCanvas_prefab.csv
 =====================
 =====================
-END /home/atau/Desktop/简体中文/DollyCanvas_prefab.csv
+END E:\_src\Localizations\简体中文\DollyCanvas_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/EndOfGame_scene.csv
-=====================
-Character explicitly forbidden: `，`
-2
-Original:
-  This is the end of the game. Goodbye.
-Translation:
-  游戏结束了，拜拜~
-Character explicitly forbidden: `，`
-3
-Original:
-  This is the end of the game. Goodbye.
-Translation:
-  游戏结束了，拜拜~
-Character explicitly forbidden: `，`
-4
-Original:
-  This is the end of the game. Goodbye.
-Translation:
-  游戏结束了，拜拜~
-Character explicitly forbidden: `，`
-5
-Original:
-  This is the end of the game. Goodbye.
-Translation:
-  游戏结束了，拜拜~
-Character explicitly forbidden: `，`
-6
-Original:
-  This is the end of the game. Goodbye.
-Translation:
-  游戏结束了，拜拜~
-=====================
-END /home/atau/Desktop/简体中文/EndOfGame_scene.csv
+BEGIN E:\_src\Localizations\简体中文\EndOfGame_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Factory_scene.csv
+END E:\_src\Localizations\简体中文\EndOfGame_scene.csv
+=====================
+=====================
+BEGIN E:\_src\Localizations\简体中文\Factory_scene.csv
 =====================
 Missing translation (translation column autofilled).
 0
@@ -2241,9 +2054,9 @@ Translation:
 Missing translation (translation column autofilled).
 34
 Original:
-  Anyway, I have these buoys, it would be great if you could- 
+  Anyway, I have these buoys, it would be great if you could-
 Translation:
-  Anyway, I have these buoys, it would be great if you could- 
+  Anyway, I have these buoys, it would be great if you could-
 Missing translation (translation column autofilled).
 35
 Original:
@@ -2301,9 +2114,9 @@ Translation:
 Missing translation (translation column autofilled).
 44
 Original:
-  It still needs: 
+  It still needs:
 Translation:
-  It still needs: 
+  It still needs:
 Missing translation (translation column autofilled).
 45
 Original:
@@ -2380,10 +2193,8 @@ Missing translation (translation column autofilled).
 57
 Original:
   I can't wait for this rocket ship to finish!!!!!
-
 Translation:
   I can't wait for this rocket ship to finish!!!!!
-
 Missing translation (translation column autofilled).
 58
 Original:
@@ -3436,10 +3247,8 @@ Missing translation (translation column autofilled).
 238
 Original:
   I'd check north of the Chloro Caves. Follow the rail line East.
-
 Translation:
   I'd check north of the Chloro Caves. Follow the rail line East.
-
 Missing translation (translation column autofilled).
 239
 Original:
@@ -3747,44 +3556,16 @@ Original:
 Translation:
   Time to fix up things in the Crystal Mines, eh?
 =====================
-END /home/atau/Desktop/简体中文/Factory_scene.csv
+END E:\_src\Localizations\简体中文\Factory_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/IntroCutscene_scene.csv
-=====================
-Character explicitly forbidden: `，`
-1
-Original:
-  In ages past, man held the power to remake the world.
-Translation:
-  很久以前，人们用神器掌控万物.
-Character explicitly forbidden: `，`
-2
-Original:
-  Societies rose and fell, centered around a relic of unimaginable power.
-Translation:
-  历经一代代王朝兴衰，神器最终竟被遗失、忘记了.
-Character explicitly forbidden: `，`
-4
-Original:
-  The world has moved on, 
-  into a brighter future.
-Translation:
-  作为一个探险家，
-  你对神器一无所知
-Character explicitly forbidden: `，`
-6
-Original:
-  And all thanks to 
-  your little cat...
-Translation:
-  突然间，
-  天旋地转！
-=====================
-END /home/atau/Desktop/简体中文/IntroCutscene_scene.csv
+BEGIN E:\_src\Localizations\简体中文\IntroCutscene_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Jungle_scene.csv
+END E:\_src\Localizations\简体中文\IntroCutscene_scene.csv
+=====================
+=====================
+BEGIN E:\_src\Localizations\简体中文\Jungle_scene.csv
 =====================
 Missing translation (translation column autofilled).
 0
@@ -5257,10 +5038,10 @@ Original:
 Translation:
   Tourists: Beware of Gentrification
 =====================
-END /home/atau/Desktop/简体中文/Jungle_scene.csv
+END E:\_src\Localizations\简体中文\Jungle_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/MagiTech_scene.csv
+BEGIN E:\_src\Localizations\简体中文\MagiTech_scene.csv
 =====================
 Missing translation (translation column autofilled).
 0
@@ -6093,9 +5874,9 @@ Translation:
 Missing translation (translation column autofilled).
 145
 Original:
-  I propose we team up! Knowledge is the true sign of class. 
+  I propose we team up! Knowledge is the true sign of class.
 Translation:
-  I propose we team up! Knowledge is the true sign of class. 
+  I propose we team up! Knowledge is the true sign of class.
 Missing translation (translation column autofilled).
 146
 Original:
@@ -6405,9 +6186,9 @@ Translation:
 Missing translation (translation column autofilled).
 200
 Original:
-  But these stupid fungi are still in my way. 
+  But these stupid fungi are still in my way.
 Translation:
-  But these stupid fungi are still in my way. 
+  But these stupid fungi are still in my way.
 Missing translation (translation column autofilled).
 201
 Original:
@@ -6543,9 +6324,9 @@ Translation:
 Missing translation (translation column autofilled).
 225
 Original:
-  Two burgers? Just for me? 
+  Two burgers? Just for me?
 Translation:
-  Two burgers? Just for me? 
+  Two burgers? Just for me?
 Missing translation (translation column autofilled).
 226
 Original:
@@ -6983,9 +6764,9 @@ Translation:
 Missing translation (translation column autofilled).
 310
 Original:
-  I went to the burger unveiling, but some ruffian stole it! That dastardly criminal should pay for his crimes. 
+  I went to the burger unveiling, but some ruffian stole it! That dastardly criminal should pay for his crimes.
 Translation:
-  I went to the burger unveiling, but some ruffian stole it! That dastardly criminal should pay for his crimes. 
+  I went to the burger unveiling, but some ruffian stole it! That dastardly criminal should pay for his crimes.
 Missing translation (translation column autofilled).
 311
 Original:
@@ -7763,20 +7544,11 @@ Original:
 Translation:
   I wonder if they'd let me "borrow" some of those gems...
 =====================
-END /home/atau/Desktop/简体中文/MagiTech_scene.csv
+END E:\_src\Localizations\简体中文\MagiTech_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/MainMenu_scene.csv
+BEGIN E:\_src\Localizations\简体中文\MainMenu_scene.csv
 =====================
-Character explicitly forbidden: `。`
-22
-Original:
-  Warning! Cheats cannot be undone!
-  We have a guide with lots of hints too.
-  Feel free to use these if you get stuck.
-Translation:
-  注意！使用“作弊”后无法返回原本剧情进程。
-  您也可以只看我们的提示。
 Missing translation (translation column autofilled).
 30
 Original:
@@ -7784,160 +7556,64 @@ Original:
 Translation:
   Village
 Missing translation (translation column autofilled).
-66
-Original:
-  1280 x 720
-Translation:
-  1280 x 720
-Missing translation (translation column autofilled).
 67
 Original:
-  1280 x 800
+  1280 x 720
 Translation:
-  1280 x 800
+  1280 x 720
 Missing translation (translation column autofilled).
 68
 Original:
-  1366 x 768
+  1280 x 800
 Translation:
-  1366 x 768
+  1280 x 800
 Missing translation (translation column autofilled).
 69
 Original:
-  1920 x 1080
+  1366 x 768
 Translation:
-  1920 x 1080
+  1366 x 768
 Missing translation (translation column autofilled).
 70
 Original:
+  1920 x 1080
+Translation:
+  1920 x 1080
+Missing translation (translation column autofilled).
+71
+Original:
   2560 x 1440
 Translation:
   2560 x 1440
 =====================
-END /home/atau/Desktop/简体中文/MainMenu_scene.csv
+END E:\_src\Localizations\简体中文\MainMenu_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/MilitaryAlien Variant_prefab.csv
+BEGIN E:\_src\Localizations\简体中文\MilitaryAlien Variant_prefab.csv
 =====================
 =====================
-END /home/atau/Desktop/简体中文/MilitaryAlien Variant_prefab.csv
+END E:\_src\Localizations\简体中文\MilitaryAlien Variant_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/MilitaryAlly_prefab.csv
+BEGIN E:\_src\Localizations\简体中文\MilitaryAlly_prefab.csv
 =====================
 =====================
-END /home/atau/Desktop/简体中文/MilitaryAlly_prefab.csv
+END E:\_src\Localizations\简体中文\MilitaryAlly_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Military_scene.csv
+BEGIN E:\_src\Localizations\简体中文\Military_scene.csv
 =====================
-Character explicitly forbidden: `，`
-17
-Original:
-  Heh, we didn't even need them anyway.
-Translation:
-  额，好像并不需要补给...
-Character explicitly forbidden: `，`
-43
-Original:
-  I wish the Commander would just give up already.
-Translation:
-  要我说，老大应该舍弃这个星球...
-Character explicitly forbidden: `，`
-44
-Original:
-  3 times is a bit excessive don't you think?
-Translation:
-  我们已经试图入侵三次了，不是么？
-Character explicitly forbidden: `，`
-47
-Original:
-  For real, I missed my kid's graduation from Shlarmbok the other week.
-Translation:
-  真的，我错过了儿子的毕业典礼！它可是沙喇耳波大学的尖子生～
-Missing translation (translation column autofilled).
-86
-Original:
-  Take this!
-Translation:
-  Take this!
-Character explicitly forbidden: `，`
-96
-Original:
-  We're going to be going back soon too. Hopefully we didn't cause you humans too much trouble.
-Translation:
-  我们马上就要回去了，希望和你们人类以后可以和平相处.
-Character explicitly forbidden: `，`
-100
-Original:
-  We're going to be going back soon too. Hopefully we didn't cause you humans too much trouble.
-Translation:
-  我们马上就要回去了，希望和你们人类以后可以和平相处.
-Missing translation (translation column autofilled).
-105
-Original:
-  oh nah
-Translation:
-  oh nah
-Missing translation (translation column autofilled).
-136
-Original:
-  Son, we need to WIN. These no good aliens are trying to take our land, and I WILL NOT LET THAT HAPPEN.
-Translation:
-  Son, we need to WIN. These no good aliens are trying to take our land, and I WILL NOT LET THAT HAPPEN.
-Missing translation (translation column autofilled).
-138
-Original:
-  This table is where we simulate their attacks.
-Translation:
-  This table is where we simulate their attacks.
 Missing translation (translation column autofilled).
 142
 Original:
   <var>MilitaryCommanderHint</var>
 Translation:
   <var>MilitaryCommanderHint</var>
-Missing translation (translation column autofilled).
-146
-Original:
-  They better think again next time they try and invade us.
-Translation:
-  They better think again next time they try and invade us.
-Missing translation (translation column autofilled).
-150
-Original:
-  Rats...
-Translation:
-  Rats...
-Missing translation (translation column autofilled).
-164
-Original:
-  I'm here to control the simulation.
-Translation:
-  I'm here to control the simulation.
-Missing translation (translation column autofilled).
-173
-Original:
-  Recon is telling us that the aliens usually target the nearest robot. Ties broken randomly.
-Translation:
-  Recon is telling us that the aliens usually target the nearest robot. Ties broken randomly.
-Missing translation (translation column autofilled).
-176
-Original:
-  At the end of a wave, you might be able to find some time to move bad tiles out of the way.
-Translation:
-  At the end of a wave, you might be able to find some time to move bad tiles out of the way.
-Missing translation (translation column autofilled).
-177
-Original:
-  Do your best to keep your allies alive. Every unit matters in the end!
-Translation:
-  Do your best to keep your allies alive. Every unit matters in the end!
 =====================
-END /home/atau/Desktop/简体中文/Military_scene.csv
+END E:\_src\Localizations\简体中文\Military_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Mountain_scene.csv
+BEGIN E:\_src\Localizations\简体中文\Mountain_scene.csv
 =====================
 Missing translation (translation column autofilled).
 0
@@ -7984,9 +7660,9 @@ Translation:
 Missing translation (translation column autofilled).
 7
 Original:
-  Ah shoot, my f-f-fingers are still f-frozen. 
+  Ah shoot, my f-f-fingers are still f-frozen.
 Translation:
-  Ah shoot, my f-f-fingers are still f-frozen. 
+  Ah shoot, my f-f-fingers are still f-frozen.
 Missing translation (translation column autofilled).
 8
 Original:
@@ -8128,9 +7804,9 @@ Translation:
 Missing translation (translation column autofilled).
 31
 Original:
-  Alroight, now we're in buisness. 
+  Alroight, now we're in buisness.
 Translation:
-  Alroight, now we're in buisness. 
+  Alroight, now we're in buisness.
 Missing translation (translation column autofilled).
 32
 Original:
@@ -8196,9 +7872,9 @@ Translation:
 Missing translation (translation column autofilled).
 42
 Original:
-  my boss had a new one but she's totally vanished bro. 
+  my boss had a new one but she's totally vanished bro.
 Translation:
-  my boss had a new one but she's totally vanished bro. 
+  my boss had a new one but she's totally vanished bro.
 Missing translation (translation column autofilled).
 43
 Original:
@@ -8208,21 +7884,21 @@ Translation:
 Missing translation (translation column autofilled).
 44
 Original:
-  you did it my dude. 
+  you did it my dude.
 Translation:
-  you did it my dude. 
+  you did it my dude.
 Missing translation (translation column autofilled).
 45
 Original:
-  you should tell that crystal scientist lady about this 
+  you should tell that crystal scientist lady about this
 Translation:
-  you should tell that crystal scientist lady about this 
+  you should tell that crystal scientist lady about this
 Missing translation (translation column autofilled).
 46
 Original:
-  go enjoy making that goooooo. or whatever they do there. 
+  go enjoy making that goooooo. or whatever they do there.
 Translation:
-  go enjoy making that goooooo. or whatever they do there. 
+  go enjoy making that goooooo. or whatever they do there.
 Missing translation (translation column autofilled).
 47
 Original:
@@ -8778,9 +8454,9 @@ Translation:
 Missing translation (translation column autofilled).
 142
 Original:
-  You found a minecart! 
+  You found a minecart!
 Translation:
-  You found a minecart! 
+  You found a minecart!
 Missing translation (translation column autofilled).
 143
 Original:
@@ -9010,9 +8686,9 @@ Translation:
 Missing translation (translation column autofilled).
 192
 Original:
-  If you find something hot enough to blow these up, let me know. 
+  If you find something hot enough to blow these up, let me know.
 Translation:
-  If you find something hot enough to blow these up, let me know. 
+  If you find something hot enough to blow these up, let me know.
 Missing translation (translation column autofilled).
 193
 Original:
@@ -9046,9 +8722,9 @@ Translation:
 Missing translation (translation column autofilled).
 198
 Original:
-  I mean uh... thanks for clearing that up. 
+  I mean uh... thanks for clearing that up.
 Translation:
-  I mean uh... thanks for clearing that up. 
+  I mean uh... thanks for clearing that up.
 Missing translation (translation column autofilled).
 199
 Original:
@@ -9126,9 +8802,9 @@ Translation:
 Missing translation (translation column autofilled).
 211
 Original:
-  Oh, but you can drop them down that ice patch. They seem to be fine with just gravity. 
+  Oh, but you can drop them down that ice patch. They seem to be fine with just gravity.
 Translation:
-  Oh, but you can drop them down that ice patch. They seem to be fine with just gravity. 
+  Oh, but you can drop them down that ice patch. They seem to be fine with just gravity.
 Missing translation (translation column autofilled).
 212
 Original:
@@ -9240,9 +8916,9 @@ Translation:
 Missing translation (translation column autofilled).
 230
 Original:
-  Don't worry I think we can fix it haha! We just need to get another Crystal. 
+  Don't worry I think we can fix it haha! We just need to get another Crystal.
 Translation:
-  Don't worry I think we can fix it haha! We just need to get another Crystal. 
+  Don't worry I think we can fix it haha! We just need to get another Crystal.
 Missing translation (translation column autofilled).
 231
 Original:
@@ -9342,9 +9018,9 @@ Translation:
 Missing translation (translation column autofilled).
 247
 Original:
-  Hey, you actually brought me some crystals! 
+  Hey, you actually brought me some crystals!
 Translation:
-  Hey, you actually brought me some crystals! 
+  Hey, you actually brought me some crystals!
 Missing translation (translation column autofilled).
 248
 Original:
@@ -9396,9 +9072,9 @@ Translation:
 Missing translation (translation column autofilled).
 256
 Original:
-  If you ever need anything else, just let me know. 
+  If you ever need anything else, just let me know.
 Translation:
-  If you ever need anything else, just let me know. 
+  If you ever need anything else, just let me know.
 Missing translation (translation column autofilled).
 257
 Original:
@@ -9514,83 +9190,23 @@ Original:
 Translation:
   That's why we trade. I'll finish up the extraction tank, you get me some crystals.
 =====================
-END /home/atau/Desktop/简体中文/Mountain_scene.csv
+END E:\_src\Localizations\简体中文\Mountain_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Ocean_scene.csv
+BEGIN E:\_src\Localizations\简体中文\Ocean_scene.csv
 =====================
-Character explicitly forbidden: `，`
-0
-Original:
-  Argh! I can't believe I crashed me ship! Ye can have this as thanks.
-Translation:
-  淦！我分心捞起纸片，结果撞上小岛了...
-Character explicitly forbidden: `。`
-3
-Original:
-  Where's me crew... They better have not jumped ship to the Jungle.
-Translation:
-  我的好船员们都到哪里了！他们最好不要跳票到雨林男爵那里。
 Missing translation (translation column autofilled).
 6
 Original:
   Argh, I knew we didn't have the guts to sail to The Veil.
 Translation:
   Argh, I knew we didn't have the guts to sail to The Veil.
-Character explicitly forbidden: `，`
-19
-Original:
-  Argh, a 7! Better luck next time matey.
-Translation:
-  7！嘻嘻，下次好运吧伙计.
 Missing translation (translation column autofilled).
 20
 Original:
   What. Whadya mean ye roll aint finished.
 Translation:
   What. Whadya mean ye roll aint finished.
-Character explicitly forbidden: `，`
-25
-Original:
-  I didn't see any cheats, so here's yer prize.
-Translation:
-  没看到作弊，奖品只能归你了...
-Character explicitly forbidden: `，`
-26
-Original:
-  Yar... elevens be no fun, I keep losing!
-Translation:
-  输了一天了，我不玩了...
-Character explicitly forbidden: `：`
-27
-Original:
-  My old man left to explore the foggy seas. His FINAL words to me were <wavy>"North then West."</wavy>
-Translation:
-  老爹的船开进了大雾里就再没有过消息，他最后跟我说：<wavy>“北方然后西方”</wavy>
-Character explicitly forbidden: `，`
-27
-Original:
-  My old man left to explore the foggy seas. His FINAL words to me were <wavy>"North then West."</wavy>
-Translation:
-  老爹的船开进了大雾里就再没有过消息，他最后跟我说：<wavy>“北方然后西方”</wavy>
-Character explicitly forbidden: `。`
-28
-Original:
-  So inpirational. I wonder when he'll come back.
-Translation:
-  真是感人，我想他一定能回来。
-Character explicitly forbidden: `，`
-28
-Original:
-  So inpirational. I wonder when he'll come back.
-Translation:
-  真是感人，我想他一定能回来。
-Character explicitly forbidden: `，`
-29
-Original:
-  He told me not to search for him cause my "memory sucks." 
-Translation:
-  他告诉我不要来找他，因为我脑子不好使
 Missing translation (translation column autofilled).
 31
 Original:
@@ -9618,9 +9234,9 @@ Translation:
 Missing translation (translation column autofilled).
 35
 Original:
-  You better not touch my coconuts behind the tavern!! 
+  You better not touch my coconuts behind the tavern!!
 Translation:
-  You better not touch my coconuts behind the tavern!! 
+  You better not touch my coconuts behind the tavern!!
 Missing translation (translation column autofilled).
 36
 Original:
@@ -9663,90 +9279,12 @@ Original:
   What's The Veil like?
 Translation:
   What's The Veil like?
-Character explicitly forbidden: `，`
-47
-Original:
-  Really making a name for yourself, huh?
-Translation:
-  你简直要出名了，小子.
 Missing translation (translation column autofilled).
 49
 Original:
   Just gotta put it all together.
 Translation:
   Just gotta put it all together.
-Character explicitly forbidden: `。`
-53
-Original:
-  Be quick, I won't stay here long.
-Translation:
-  麻利点，我要走了。
-Character explicitly forbidden: `，`
-53
-Original:
-  Be quick, I won't stay here long.
-Translation:
-  麻利点，我要走了。
-Character explicitly forbidden: `。`
-56
-Original:
-  Here's your gluten-full breadge as promised.
-Translation:
-  给你的全麸质面包，伙计。
-Character explicitly forbidden: `，`
-56
-Original:
-  Here's your gluten-full breadge as promised.
-Translation:
-  给你的全麸质面包，伙计。
-Character explicitly forbidden: `，`
-57
-Original:
-  Enjoy the gluten-full breadge.
-Translation:
-  来，全麸质面包！
-Character explicitly forbidden: `，`
-58
-Original:
-  Ooh, fresh meat!
-Translation:
-  哦，新鲜的肉！
-Character explicitly forbidden: `，`
-60
-Original:
-  A 7! Reminds me of that time Catbeard rolled a 7 when we played on his ship.
-Translation:
-  上次我在猫胡子船上玩11点，他投了一个7.
-Character explicitly forbidden: `，`
-68
-Original:
-  Go talk to Bob, he'll help you on your quest!
-Translation:
-  去找鲍勃，他能祝你一臂之力！
-Character explicitly forbidden: `，`
-69
-Original:
-  Heyyy nice <#2e44f0>anchor</color>!
-Translation:
-  哦，不错的<#2e44f0>船锚</color>！
-Character explicitly forbidden: `：`
-71
-Original:
-  Starting your quest I see, use all your tools well!
-Translation:
-  看你像是新手~注意：好好使用你的工具~
-Character explicitly forbidden: `，`
-74
-Original:
-  Just take things one step at a time, and let Bob know if you're stuck!
-Translation:
-  一步一个脚印，不会了可以去找鲍勃.
-Character explicitly forbidden: `，`
-75
-Original:
-  And don't forget about your <#2e44f0>anchor</color>!
-Translation:
-  哦，不要忘了你的<#2e44f0>船锚</color>！
 Missing translation (translation column autofilled).
 78
 Original:
@@ -9906,9 +9444,9 @@ Translation:
 Missing translation (translation column autofilled).
 107
 Original:
-  None of the spells I've learned are strong enough... they're all counting on me... 
+  None of the spells I've learned are strong enough... they're all counting on me...
 Translation:
-  None of the spells I've learned are strong enough... they're all counting on me... 
+  None of the spells I've learned are strong enough... they're all counting on me...
 Missing translation (translation column autofilled).
 108
 Original:
@@ -9982,6 +9520,12 @@ Original:
 Translation:
   Well would you look at that, looks like the tide has pushed everything back in place!
 Missing translation (translation column autofilled).
+120
+Original:
+  Don't have much to give, but this was my finest catch of the day.
+Translation:
+  Don't have much to give, but this was my finest catch of the day.
+Missing translation (translation column autofilled).
 121
 Original:
   Mind spreading out my buoys again?
@@ -10012,23 +9556,23 @@ Original:
 Translation:
   There we go.
 Missing translation (translation column autofilled).
+126
+Original:
+  Don't have much to give, but this was my finest catch of the day.
+Translation:
+  Don't have much to give, but this was my finest catch of the day.
+Missing translation (translation column autofilled).
 127
 Original:
   Thanks again pal, one day I'll teach you how to fish.
 Translation:
   Thanks again pal, one day I'll teach you how to fish.
-Character explicitly forbidden: `，`
-138
+Missing translation (translation column autofilled).
+128
 Original:
-  We will be reunited soon, my love...
+  What's up Big Tuna?
 Translation:
-  我的爱人，我们很快就会重逢~
-Character explicitly forbidden: `，`
-139
-Original:
-  We will be reunited soon, my love...
-Translation:
-  我的爱人，我们很快就会重逢~
+  What's up Big Tuna?
 Missing translation (translation column autofilled).
 140
 Original:
@@ -10041,60 +9585,6 @@ Original:
   Begone anchorless animal...
 Translation:
   Begone anchorless animal...
-Character explicitly forbidden: `。`
-142
-Original:
-  It's been ages since I've felt Juliet's warmth... I should text her...
-Translation:
-  多久没有感到朱丽叶的温暖...我应该给她写信。
-Character explicitly forbidden: `，`
-143
-Original:
-  Aghast I am! Art thou leaving me on read, Juliet?
-Translation:
-  哦，朱丽叶！你竟然”已读不回“？
-Character explicitly forbidden: `，`
-145
-Original:
-  Go forth, my message!
-Translation:
-  去吧，我的信~
-Character explicitly forbidden: `；`
-147
-Original:
-  I must send this message, yet I cannot; <var>oceanRomeoReason</var>
-Translation:
-  我必须送出这封信，但我却不能够；<var>oceanRomeoReason</var>
-Character explicitly forbidden: `，`
-147
-Original:
-  I must send this message, yet I cannot; <var>oceanRomeoReason</var>
-Translation:
-  我必须送出这封信，但我却不能够；<var>oceanRomeoReason</var>
-Character explicitly forbidden: `，`
-148
-Original:
-  You; Clear the way! I need open water for this message to float across.
-Translation:
-  必须清出一条水路，信件才能飘过去.
-Character explicitly forbidden: `。`
-150
-Original:
-  I fear two shakes of the sea may be too much for this poor vessel.
-Translation:
-  我怕信件经受不住”两次”海浪。
-Character explicitly forbidden: `，`
-151
-Original:
-  Stop looking at that tablet, help me!
-Translation:
-  别看你那个石板了，帮帮我！
-Character explicitly forbidden: `，`
-152
-Original:
-  Juliet, give me a sign!
-Translation:
-  朱丽叶，请给我回信...
 Missing translation (translation column autofilled).
 154
 Original:
@@ -10161,6 +9651,12 @@ Original:
   <credits/> Credits
 Translation:
   <credits/> Credits
+Missing translation (translation column autofilled).
+181
+Original:
+  Exit
+Translation:
+  Exit
 Missing translation (translation column autofilled).
 182
 Original:
@@ -10414,12 +9910,6 @@ Original:
 Translation:
   > He takes large strides, his massive figure easily pushing the tavern doors open.
 Missing translation (translation column autofilled).
-225
-Original:
-  > You sneak a peak through the window.
-Translation:
-  > You sneak a peak through the window.
-Missing translation (translation column autofilled).
 226
 Original:
   *CHOP, CHOP, CHOP*
@@ -10521,66 +10011,12 @@ Original:
   Pierre the fisherman has his buoys in a mess. Can't say this is the first time either.
 Translation:
   Pierre the fisherman has his buoys in a mess. Can't say this is the first time either.
-Character explicitly forbidden: `。`
-248
-Original:
-  The plains to the east, now a hot-zone full of our nation's military.
-Translation:
-  东部平原，现在枪林弹雨，有很多军队的人。
-Character explicitly forbidden: `，`
-248
-Original:
-  The plains to the east, now a hot-zone full of our nation's military.
-Translation:
-  东部平原，现在枪林弹雨，有很多军队的人。
-Character explicitly forbidden: `，`
-249
-Original:
-  I'm not sure what's happening, but word is it has to do with The Cataclysm.
-Translation:
-  我也不清楚为什么，估计也是和大灾变有关吧.
-Character explicitly forbidden: `，`
-250
-Original:
-  If your cat really is there, then you'll have to go the long way around. Head north to Canopy Town, then east to the Factory. Then you should have access the military zone.
-Translation:
-  如果你的猫猫确实在那里，那你有一大段路要走了...先去北边的树冠园区，然后去东边的工厂，从那里才能进入平原.
-Character explicitly forbidden: `。`
-252
-Original:
-  Some tell tall tales of strange happenings, things that can't be explained. I don't believe a word of it.
-Translation:
-  总是有很多关于沙漠的离奇故事...不过我一个也不信。
-Character explicitly forbidden: `。`
-253
-Original:
-  Business has taken a hit recently, with The Cataclysm and all that, but we're still afloat. Talk to some of the customers here, you might learn something!
-Translation:
-  最近生意不太好了，但是勉强还行。去和顾客们聊聊，说不定能打听到什么消息。
-Character explicitly forbidden: `，`
-253
-Original:
-  Business has taken a hit recently, with The Cataclysm and all that, but we're still afloat. Talk to some of the customers here, you might learn something!
-Translation:
-  最近生意不太好了，但是勉强还行。去和顾客们聊聊，说不定能打听到什么消息。
 Missing translation (translation column autofilled).
 254
 Original:
   There's a treacherous patch of foggy sea down south we call "The Veil". Who knows what the mist may be hiding.
 Translation:
   There's a treacherous patch of foggy sea down south we call "The Veil". Who knows what the mist may be hiding.
-Character explicitly forbidden: `。`
-255
-Original:
-  Tales tell of a song of THREE pairs of verses needed to navigate it. Think it started with "West, South,", but I forgot the rest.
-Translation:
-  传说靠”三句歌谣“可以穿过大雾。第一句好像是”西然后南“，不过剩下的我忘了。
-Character explicitly forbidden: `，`
-255
-Original:
-  Tales tell of a song of THREE pairs of verses needed to navigate it. Think it started with "West, South,", but I forgot the rest.
-Translation:
-  传说靠”三句歌谣“可以穿过大雾。第一句好像是”西然后南“，不过剩下的我忘了。
 Missing translation (translation column autofilled).
 257
 Original:
@@ -10642,20 +10078,11 @@ Original:
 Translation:
   I wanted to stay close to the sea and my people. Can't say I'm not lucky to have lived the life I have.
 =====================
-END /home/atau/Desktop/简体中文/Ocean_scene.csv
+END E:\_src\Localizations\简体中文\Ocean_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/UICanvas_prefab.csv
+BEGIN E:\_src\Localizations\简体中文\UICanvas_prefab.csv
 =====================
-Character explicitly forbidden: `。`
-10
-Original:
-  Warning! Cheats cannot be undone!
-  We have a guide with lots of hints too.
-  Feel free to use these if you get stuck.
-Translation:
-  注意！使用“作弊”后无法返回原本剧情进程。
-  您也可以只看我们的提示。
 Missing translation (translation column autofilled).
 18
 Original:
@@ -10665,1139 +10092,105 @@ Translation:
 Missing translation (translation column autofilled).
 54
 Original:
-  1280 x 720
+  Smooth High FPS
 Translation:
-  1280 x 720
+  Smooth High FPS
 Missing translation (translation column autofilled).
 55
 Original:
-  1280 x 800
+  1280 x 720
 Translation:
-  1280 x 800
+  1280 x 720
 Missing translation (translation column autofilled).
 56
 Original:
-  1366 x 768
+  1280 x 800
 Translation:
-  1366 x 768
+  1280 x 800
 Missing translation (translation column autofilled).
 57
 Original:
-  1920 x 1080
+  1366 x 768
 Translation:
-  1920 x 1080
+  1366 x 768
 Missing translation (translation column autofilled).
 58
 Original:
+  1920 x 1080
+Translation:
+  1920 x 1080
+Missing translation (translation column autofilled).
+59
+Original:
   2560 x 1440
 Translation:
   2560 x 1440
 =====================
-END /home/atau/Desktop/简体中文/UICanvas_prefab.csv
+END E:\_src\Localizations\简体中文\UICanvas_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/UIEffects_prefab.csv
-=====================
-Character explicitly forbidden: `：`
-0
-Original:
-  Warning: Interfering inputs between controller and keyboard. You might need to disconnect one.
-Translation:
-  注意：收到手柄与键盘同时输入，为最佳游玩体验请只用一种输入方式！
-Character explicitly forbidden: `，`
-0
-Original:
-  Warning: Interfering inputs between controller and keyboard. You might need to disconnect one.
-Translation:
-  注意：收到手柄与键盘同时输入，为最佳游玩体验请只用一种输入方式！
-=====================
-END /home/atau/Desktop/简体中文/UIEffects_prefab.csv
+BEGIN E:\_src\Localizations\简体中文\UIEffects_prefab.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/Village_scene.csv
+END E:\_src\Localizations\简体中文\UIEffects_prefab.csv
 =====================
-Missing translation (translation column autofilled).
-0
-Original:
-  You’re awake! <var>Cat</var> has been acting... <wavy>strange.</wavy>
-Translation:
-  You’re awake! <var>Cat</var> has been acting... <wavy>strange.</wavy>
-Missing translation (translation column autofilled).
+=====================
+BEGIN E:\_src\Localizations\简体中文\Village_scene.csv
+=====================
+Difference between tags in orig and translation
+Original tags: ['</var>', '<var>']
+Translation tags: ['</var>', '</wavy>', '<var>', '<wavy>']
 1
 Original:
   It started when <var>Cat</var> touched that Artifact you brought back.
 Translation:
-  It started when <var>Cat</var> touched that Artifact you brought back.
-Missing translation (translation column autofilled).
-3
-Original:
-  Can you check on <var>Cat</var> outside?
-Translation:
-  Can you check on <var>Cat</var> outside?
-Missing translation (translation column autofilled).
-4
-Original:
-  Wha- What's happening?
-Translation:
-  Wha- What's happening?
-Missing translation (translation column autofilled).
-5
-Original:
-  <var>CatUpper</var> NOOO
-Translation:
-  <var>CatUpper</var> NOOO
-Missing translation (translation column autofilled).
-6
-Original:
-  W-what is taking you away? Why??
-Translation:
-  W-what is taking you away? Why??
-Missing translation (translation column autofilled).
-7
-Original:
-  Wait. Where is... everything??
-Translation:
-  Wait. Where is... everything??
-Missing translation (translation column autofilled).
-8
-Original:
-  Oh honey... you have to bring back <var>Cat</var>! I'll research what caused all this...
-Translation:
-  Oh honey... you have to bring back <var>Cat</var>! I'll research what caused all this...
-Missing translation (translation column autofilled).
-9
-Original:
-  Oh honey... you have to bring back <var>Cat</var>! I'll research what caused all this...
-Translation:
-  Oh honey... you have to bring back <var>Cat</var>! I'll research what caused all this...
-Missing translation (translation column autofilled).
-10
-Original:
-  It's even <var>Cat</var>'s birthday tomorrow.
-Translation:
-  It's even <var>Cat</var>'s birthday tomorrow.
-Missing translation (translation column autofilled).
-11
-Original:
-  There's some global phenomenon that started last night.
-Translation:
-  There's some global phenomenon that started last night.
-Missing translation (translation column autofilled).
-12
-Original:
-  Some people online have been calling it the "Cataclysm".
-Translation:
-  Some people online have been calling it the "Cataclysm".
-Missing translation (translation column autofilled).
-13
-Original:
-  Parts of the world are missing. Void, just like we saw outside.
-Translation:
-  Parts of the world are missing. Void, just like we saw outside.
-Missing translation (translation column autofilled).
-14
-Original:
-  Do you think that maybe...? No it can't be...
-Translation:
-  Do you think that maybe...? No it can't be...
-Missing translation (translation column autofilled).
-15
-Original:
-  Honey, maybe <var>Cat</var> fiddled with that Artifact you brought, and somehow caused this.
-Translation:
-  Honey, maybe <var>Cat</var> fiddled with that Artifact you brought, and somehow caused this.
-Missing translation (translation column autofilled).
-16
-Original:
-  Oh, you found a piece of the world and were able to restore it?
-Translation:
-  Oh, you found a piece of the world and were able to restore it?
-Missing translation (translation column autofilled).
-17
-Original:
-  Maybe... you can help fix this? Just please... be careful with that Artifact.
-Translation:
-  Maybe... you can help fix this? Just please... be careful with that Artifact.
-Missing translation (translation column autofilled).
-18
-Original:
-  And if you can, please find <var>Cat</var>. I'm worried...
-Translation:
-  And if you can, please find <var>Cat</var>. I'm worried...
-Missing translation (translation column autofilled).
-19
-Original:
-  Isn't this ol' Cathy's cat? She has a ton of cats.
-Translation:
-  Isn't this ol' Cathy's cat? She has a ton of cats.
-Missing translation (translation column autofilled).
-20
-Original:
-  Oh, she might know where <var>Cat</var> is!
-Translation:
-  Oh, she might know where <var>Cat</var> is!
-Missing translation (translation column autofilled).
+  <var>Cat</var>碰了一下你带回来的那个<wavy>古遗物.</wavy>
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</var>', '<var>']
 21
 Original:
   Sigh... everything reminds me of them.
 Translation:
-  Sigh... everything reminds me of them.
-Missing translation (translation column autofilled).
-22
-Original:
-  Isn't this ol' Cathy's cat? I think her three cats are out again.
-Translation:
-  Isn't this ol' Cathy's cat? I think her three cats are out again.
-Missing translation (translation column autofilled).
-23
-Original:
-  Oh, she might know where <var>Cat</var> is!
-Translation:
-  Oh, she might know where <var>Cat</var> is!
-Missing translation (translation column autofilled).
+  哎...我想<var>Cat</var>了.
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</var>', '<var>']
 24
 Original:
   Sigh... everything reminds me of them.
 Translation:
-  Sigh... everything reminds me of them.
-Missing translation (translation column autofilled).
-25
-Original:
-  Cathy lives in the village center next to the bakery, but I don't think you have that slider yet.
-Translation:
-  Cathy lives in the village center next to the bakery, but I don't think you have that slider yet.
-Missing translation (translation column autofilled).
-26
-Original:
-  Isn't this ol' Cathy's cat? I think her three cats are out again.
-Translation:
-  Isn't this ol' Cathy's cat? I think her three cats are out again.
-Missing translation (translation column autofilled).
-27
-Original:
-  Oh, she might know where <var>Cat</var> is!
-Translation:
-  Oh, she might know where <var>Cat</var> is!
-Missing translation (translation column autofilled).
+  哎...我想<var>Cat</var>了.
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</var>', '<var>']
 28
 Original:
   Sigh... everything reminds me of them.
 Translation:
-  Sigh... everything reminds me of them.
-Missing translation (translation column autofilled).
-29
-Original:
-  I just realized.
-Translation:
-  I just realized.
-Missing translation (translation column autofilled).
-30
-Original:
-  Has anyone been feeding <var>Cat</var>?
-Translation:
-  Has anyone been feeding <var>Cat</var>?
-Missing translation (translation column autofilled).
-31
-Original:
-  What??
-Translation:
-  What??
-Missing translation (translation column autofilled).
-32
-Original:
-  WHAT????
-Translation:
-  WHAT????
-Missing translation (translation column autofilled).
-33
-Original:
-  Aliens?? Took <var>Cat</var>??
-Translation:
-  Aliens?? Took <var>Cat</var>??
-Missing translation (translation column autofilled).
-34
-Original:
-  They exist??
-Translation:
-  They exist??
-Missing translation (translation column autofilled).
-35
-Original:
-  Juliet, my love, where hast though disappeared to?!
-Translation:
-  Juliet, my love, where hast though disappeared to?!
-Missing translation (translation column autofilled).
-36
-Original:
-  Juliet, my love, wherefore art thou?!
-Translation:
-  Juliet, my love, wherefore art thou?!
-Missing translation (translation column autofilled).
-37
-Original:
-  Please bring my beloved back, lest I drink this poison!
-Translation:
-  Please bring my beloved back, lest I drink this poison!
-Missing translation (translation column autofilled).
-38
-Original:
-  Your cat? I care not! Where art thou, Juliet?!
-Translation:
-  Your cat? I care not! Where art thou, Juliet?!
-Missing translation (translation column autofilled).
-39
-Original:
-  Please bring my beloved back, lest I drink this poison!
-Translation:
-  Please bring my beloved back, lest I drink this poison!
-Missing translation (translation column autofilled).
-40
-Original:
-  Juliet, my beloved, where hath thou disappeared to now?
-Translation:
-  Juliet, my beloved, where hath thou disappeared to now?
-Missing translation (translation column autofilled).
-41
-Original:
-  Oh, what a tragic life I must endure. The cycle of dread continues.
-Translation:
-  Oh, what a tragic life I must endure. The cycle of dread continues.
-Missing translation (translation column autofilled).
-42
-Original:
-  Oh Juliet! I'll
-  never leave
-  you again.
-Translation:
-  Oh Juliet! I'll
-  never leave
-  you again.
-Missing translation (translation column autofilled).
-43
-Original:
-  Juliet, will you
-  be mine?
-
-Translation:
-  Juliet, will you
-  be mine?
-
-Missing translation (translation column autofilled).
-45
-Original:
-  hmmm...
-Translation:
-  hmmm...
-Missing translation (translation column autofilled).
-46
-Original:
-  oh! another person??
-Translation:
-  oh! another person??
-Missing translation (translation column autofilled).
-47
-Original:
-  something <wavy>freaky</wavy> is going on. the world's straight disappeared!
-Translation:
-  something <wavy>freaky</wavy> is going on. the world's straight disappeared!
-Missing translation (translation column autofilled).
-48
-Original:
-  check out this little slider thing i found. looks almost like a piece of the world
-Translation:
-  check out this little slider thing i found. looks almost like a piece of the world
-Missing translation (translation column autofilled).
-49
-Original:
-  stand clear!!
-Translation:
-  stand clear!!
-Missing translation (translation column autofilled).
-50
-Original:
-  the caves await.
-Translation:
-  the caves await.
-Missing translation (translation column autofilled).
-51
-Original:
-  i heard there are more relics in there. im gonna follow the trail to the source.
-Translation:
-  i heard there are more relics in there. im gonna follow the trail to the source.
-Missing translation (translation column autofilled).
-52
-Original:
-  the caves await.
-Translation:
-  the caves await.
-Missing translation (translation column autofilled).
-53
-Original:
-  i heard there are more relics in there. im gonna follow the trail to the source.
-Translation:
-  i heard there are more relics in there. im gonna follow the trail to the source.
-Missing translation (translation column autofilled).
-55
-Original:
-  omg... its back in the world again! how did you do that??
-Translation:
-  omg... its back in the world again! how did you do that??
-Missing translation (translation column autofilled).
-56
-Original:
-  say, you wouldnt be interested in a research assistant job, would you?
-Translation:
-  say, you wouldnt be interested in a research assistant job, would you?
-Missing translation (translation column autofilled).
-57
-Original:
-  no..? thats fine... um... the spots taken anyway...
-Translation:
-  no..? thats fine... um... the spots taken anyway...
-Missing translation (translation column autofilled).
-58
-Original:
-  so... what about these ruins.
-Translation:
-  so... what about these ruins.
-Missing translation (translation column autofilled).
-59
-Original:
-  ahA! it looks like those ruins pieces might connect!!
-Translation:
-  ahA! it looks like those ruins pieces might connect!!
-Missing translation (translation column autofilled).
-60
-Original:
-  an arrow? it must lead to a relic!
-Translation:
-  an arrow? it must lead to a relic!
-Missing translation (translation column autofilled).
-61
-Original:
-  how do i get there?
-Translation:
-  how do i get there?
-Missing translation (translation column autofilled).
-62
-Original:
-  this way? no...
-Translation:
-  this way? no...
-Missing translation (translation column autofilled).
-63
-Original:
-  over here?
-Translation:
-  over here?
-Missing translation (translation column autofilled).
-64
-Original:
-  aHh im so lost! everything keeps moving!
-Translation:
-  aHh im so lost! everything keeps moving!
-Missing translation (translation column autofilled).
-65
-Original:
-  you! follow that arrow!
-Translation:
-  you! follow that arrow!
-Missing translation (translation column autofilled).
-66
-Original:
-  now these glyphs... we just need to find the final fragment.
-Translation:
-  now these glyphs... we just need to find the final fragment.
-Missing translation (translation column autofilled).
-67
-Original:
-  my research assistant was looking for it last. no idea where he is now...
-Translation:
-  my research assistant was looking for it last. no idea where he is now...
-Missing translation (translation column autofilled).
-68
-Original:
-  you found chad?? tell him to bring me the final fragment already
-Translation:
-  you found chad?? tell him to bring me the final fragment already
-Missing translation (translation column autofilled).
-69
-Original:
-  tyy! now let me take a look...
-Translation:
-  tyy! now let me take a look...
-Missing translation (translation column autofilled).
+  哎...我想<var>Cat</var>了.
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</wavy>', '<wavy>']
 70
 Original:
   wOAH! everything is shakingggg
 Translation:
-  wOAH! everything is shakingggg
-Missing translation (translation column autofilled).
-71
-Original:
-  aMAZING! did you see that?!
-Translation:
-  aMAZING! did you see that?!
-Missing translation (translation column autofilled).
-72
-Original:
-  shoot! i got a bit carried away didnt i
-Translation:
-  shoot! i got a bit carried away didnt i
-Missing translation (translation column autofilled).
-73
-Original:
-  we need to <wavy>fix the village</wavy>!
-Translation:
-  we need to <wavy>fix the village</wavy>!
-Missing translation (translation column autofilled).
-74
-Original:
-  wow, everythings in the right place again, just like i remembered!
-Translation:
-  wow, everythings in the right place again, just like i remembered!
-Missing translation (translation column autofilled).
-75
-Original:
-  i think im onto something, explorer. these glyphs are related to whatever broke up the world.
-Translation:
-  i think im onto something, explorer. these glyphs are related to whatever broke up the world.
-Missing translation (translation column autofilled).
-76
-Original:
-  there's more in the caves up north. you should come!!
-Translation:
-  there's more in the caves up north. you should come!!
-Missing translation (translation column autofilled).
-77
-Original:
-  oh, make sure to grab a map from the Mayor first!
-Translation:
-  oh, make sure to grab a map from the Mayor first!
-Missing translation (translation column autofilled).
-78
-Original:
-  oh, make sure to grab a map from the Mayor first!
-Translation:
-  oh, make sure to grab a map from the Mayor first!
-Missing translation (translation column autofilled).
-79
-Original:
-  Not so fast squirt!
-Translation:
-  Not so fast squirt!
-Missing translation (translation column autofilled).
-80
-Original:
-  Get me some coffee first, damn youngin. I left it at the beach...
-Translation:
-  Get me some coffee first, damn youngin. I left it at the beach...
-Missing translation (translation column autofilled).
-81
-Original:
-  Not so fast squirt!
-Translation:
-  Not so fast squirt!
-Missing translation (translation column autofilled).
-82
-Original:
-  Get me some coffee- Already grabbed it, eh?
-Translation:
-  Get me some coffee- Already grabbed it, eh?
-Missing translation (translation column autofilled).
-83
-Original:
-  Hmph, already cold.
-Translation:
-  Hmph, already cold.
-Missing translation (translation column autofilled).
-84
-Original:
-  Finally my damn coffee… Took you long enough.
-Translation:
-  Finally my damn coffee… Took you long enough.
-Missing translation (translation column autofilled).
-85
-Original:
-  Would you leave me alone already!?
-Translation:
-  Would you leave me alone already!?
-Missing translation (translation column autofilled).
-86
-Original:
-  Leave me alone, kid.
-Translation:
-  Leave me alone, kid.
-Missing translation (translation column autofilled).
-87
-Original:
-  Help! My buoys have gotten tangled up. Mind untanglin' them for me?
-Translation:
-  Help! My buoys have gotten tangled up. Mind untanglin' them for me?
-Missing translation (translation column autofilled).
-88
-Original:
-  Thanks a bundle! I don't have much, but you can have this strange junk I fished up.
-Translation:
-  Thanks a bundle! I don't have much, but you can have this strange junk I fished up.
-Missing translation (translation column autofilled).
-89
-Original:
-  I'm heading to the beach soon. Rumor is there are new fish in the water.
-Translation:
-  I'm heading to the beach soon. Rumor is there are new fish in the water.
-Missing translation (translation column autofilled).
-90
-Original:
-  Was gonna hit the ocean soon, but my boating license expired.
-Translation:
-  Was gonna hit the ocean soon, but my boating license expired.
-Missing translation (translation column autofilled).
-91
-Original:
-  You've got your license! Hurry on now, let's set sail!
-Translation:
-  You've got your license! Hurry on now, let's set sail!
-Missing translation (translation column autofilled).
-93
-Original:
-  Dear Player,
-Translation:
-  Dear Player,
-Missing translation (translation column autofilled).
-94
-Original:
-  No, this cat is not used in the upcoming puzzles.
-Translation:
-  No, this cat is not used in the upcoming puzzles.
-Missing translation (translation column autofilled).
-95
-Original:
-  However, we will permit you to keep him for emotional support.
-Translation:
-  However, we will permit you to keep him for emotional support.
-Missing translation (translation column autofilled).
-96
-Original:
-  Please use him responsibly.
-Translation:
-  Please use him responsibly.
-Missing translation (translation column autofilled).
-97
-Original:
-  Sincerely, the Devs.
-Translation:
-  Sincerely, the Devs.
-Missing translation (translation column autofilled).
-98
-Original:
-  My lover, my darling! Please bring him back lest I stab myself!
-Translation:
-  My lover, my darling! Please bring him back lest I stab myself!
-Missing translation (translation column autofilled).
-99
-Original:
-  Romeo? Wherefore art thou Romeo?
-Translation:
-  Romeo? Wherefore art thou Romeo?
-Missing translation (translation column autofilled).
-100
-Original:
-  Oh Romeo! You 
-  will never 
-  leave my 
-  sight again.
-Translation:
-  Oh Romeo! You 
-  will never 
-  leave my 
-  sight again.
-Missing translation (translation column autofilled).
-101
-Original:
-  Yes, oh
-  my God, yes!
-Translation:
-  Yes, oh
-  my God, yes!
-Missing translation (translation column autofilled).
-103
-Original:
-  Somethin's wrong. The fish aren't coming upstream anymore. I'll be out of a job!
-Translation:
-  Somethin's wrong. The fish aren't coming upstream anymore. I'll be out of a job!
-Missing translation (translation column autofilled).
-104
-Original:
-  I could really use a fish right now, fish right now.
-
-Translation:
-  I could really use a fish right now, fish right now.
-
-Missing translation (translation column autofilled).
-105
-Original:
-  Ah, the ocean! If only I knew how to fish the open seas.
-Translation:
-  Ah, the ocean! If only I knew how to fish the open seas.
-Missing translation (translation column autofilled).
-106
-Original:
-  But alas, I can only fish the river by the waterfall.
-Translation:
-  But alas, I can only fish the river by the waterfall.
-Missing translation (translation column autofilled).
-107
-Original:
-  The river's together... is there a traffic jam downstream?
-Translation:
-  The river's together... is there a traffic jam downstream?
-Missing translation (translation column autofilled).
-108
-Original:
-  Something fishy is going on here...
-Translation:
-  Something fishy is going on here...
-Missing translation (translation column autofilled).
-109
-Original:
-  The fish are coming back! Time to whip out the old pole.
-Translation:
-  The fish are coming back! Time to whip out the old pole.
-Missing translation (translation column autofilled).
-110
-Original:
-  Heard there was one in the caves, but also pirates. Scary!
-Translation:
-  Heard there was one in the caves, but also pirates. Scary!
-Missing translation (translation column autofilled).
-111
-Original:
-  Good luck out there, say hi to <var>Cat</var>.
-Translation:
-  Good luck out there, say hi to <var>Cat</var>.
-Missing translation (translation column autofilled).
-112
-Original:
-  I'm going back to fishing the river.
-Translation:
-  I'm going back to fishing the river.
-Missing translation (translation column autofilled).
-114
-Original:
-  Hey there! Have you seen what's been going on lately?
-Translation:
-  Hey there! Have you seen what's been going on lately?
-Missing translation (translation column autofilled).
-115
-Original:
-  Chunks of land missing everywhere, and these little slider pieces popping out of the ground!
-Translation:
-  Chunks of land missing everywhere, and these little slider pieces popping out of the ground!
-Missing translation (translation column autofilled).
-116
-Original:
-  They've all been resurfacing ever since the earthquake last night.
-Translation:
-  They've all been resurfacing ever since the earthquake last night.
-Missing translation (translation column autofilled).
-117
-Original:
-  I'm not sure how to make sense of it. Maybe I should go digging for them!
-Translation:
-  I'm not sure how to make sense of it. Maybe I should go digging for them!
-Missing translation (translation column autofilled).
-118
-Original:
-  Oh! Where'd you find that? That Archeologist was looking all over for that fragment.
-Translation:
-  Oh! Where'd you find that? That Archeologist was looking all over for that fragment.
-Missing translation (translation column autofilled).
-119
-Original:
-  Did you hear? The railway in the Chloro Caves was shut down.
-Translation:
-  Did you hear? The railway in the Chloro Caves was shut down.
-Missing translation (translation column autofilled).
-120
-Original:
-  Apparently the bridge was destroyed.
-Translation:
-  Apparently the bridge was destroyed.
-Missing translation (translation column autofilled).
-121
-Original:
-  Those scientists must be quite heated right now...
-Translation:
-  Those scientists must be quite heated right now...
-Missing translation (translation column autofilled).
-122
-Original:
-  Did you hear? There's fighting at the Flats down east apparently.
-Translation:
-  Did you hear? There's fighting at the Flats down east apparently.
-Missing translation (translation column autofilled).
-123
-Original:
-  Like, I've heard rumors of the military being deployed there!
-Translation:
-  Like, I've heard rumors of the military being deployed there!
-Missing translation (translation column autofilled).
-124
-Original:
-  I wonder if they're the ones behind all this... or whoever they're fighting.
-Translation:
-  I wonder if they're the ones behind all this... or whoever they're fighting.
-Missing translation (translation column autofilled).
-125
-Original:
-  Out of my way! Do you know who you're talking to?
-Translation:
-  Out of my way! Do you know who you're talking to?
-Missing translation (translation column autofilled).
-126
-Original:
-  I… am Chad! And the credit for returning this fragment is mine!
-Translation:
-  I… am Chad! And the credit for returning this fragment is mine!
-Missing translation (translation column autofilled).
-127
-Original:
-  Up here, short stuff. Ha! You can't even jump.
-Translation:
-  Up here, short stuff. Ha! You can't even jump.
-Missing translation (translation column autofilled).
-128
-Original:
-  What are you gonna do? Gonna cry?
-Translation:
-  What are you gonna do? Gonna cry?
-Missing translation (translation column autofilled).
-129
-Original:
-  Nothing can bring me down!
-Translation:
-  Nothing can bring me down!
-Missing translation (translation column autofilled).
-130
-Original:
-  Woah, what's shaking?
-Translation:
-  Woah, what's shaking?
-Missing translation (translation column autofilled).
-131
-Original:
-  My neck! My back! How will I get this to the archeologist now?
-Translation:
-  My neck! My back! How will I get this to the archeologist now?
-Missing translation (translation column autofilled).
-132
-Original:
-  You better not take my credit. I worked hard to become a Research Assistant.
-Translation:
-  You better not take my credit. I worked hard to become a Research Assistant.
-Missing translation (translation column autofilled).
-133
-Original:
-  What? How dare you take my credit?!
-Translation:
-  What? How dare you take my credit?!
-Missing translation (translation column autofilled).
-134
-Original:
-  You won't beat me again, explorer. Chad never loses twice in a row!
-Translation:
-  You won't beat me again, explorer. Chad never loses twice in a row!
-Missing translation (translation column autofilled).
-135
-Original:
-  You won't beat me again, explorer. Chad never loses twice in a row!
-Translation:
-  You won't beat me again, explorer. Chad never loses twice in a row!
-Missing translation (translation column autofilled).
-137
-Original:
-  Ah, I can finally get back to baking... and...
-Translation:
-  Ah, I can finally get back to baking... and...
-Missing translation (translation column autofilled).
-138
-Original:
-  Hunting for all nine of the rarest Breadge... and...
-Translation:
-  Hunting for all nine of the rarest Breadge... and...
-Missing translation (translation column autofilled).
-139
-Original:
-  Looking for The Legendary Burger!
-Translation:
-  Looking for The Legendary Burger!
-Missing translation (translation column autofilled).
-140
-Original:
-  Woah! You got a piece of Breadge?!
-Translation:
-  Woah! You got a piece of Breadge?!
-Missing translation (translation column autofilled).
-141
-Original:
-  Rumor says that combining all nine can make something to rival the taste of The Legendary Burger.
-Translation:
-  Rumor says that combining all nine can make something to rival the taste of The Legendary Burger.
-Missing translation (translation column autofilled).
-142
-Original:
-  Good luck on your quest, sous-chef!
-Translation:
-  Good luck on your quest, sous-chef!
-Missing translation (translation column autofilled).
-143
-Original:
-  WoAH! ALL NINE PIECES!!
-Translation:
-  WoAH! ALL NINE PIECES!!
-Missing translation (translation column autofilled).
-144
-Original:
-  Maybe you were The Legendary Burger the whole time...
-Translation:
-  Maybe you were The Legendary Burger the whole time...
-Missing translation (translation column autofilled).
-145
-Original:
-  Goodness, hello! The folks here call me Cathy.
-Translation:
-  Goodness, hello! The folks here call me Cathy.
-Missing translation (translation column autofilled).
-146
-Original:
-  I have a bit of a connection with pets.
-Translation:
-  I have a bit of a connection with pets.
-Missing translation (translation column autofilled).
-147
-Original:
-  Your cat? <var>Cat</var>..? Let me try and sense where they are.
-Translation:
-  Your cat? <var>Cat</var>..? Let me try and sense where they are.
-Missing translation (translation column autofilled).
-148
-Original:
-  Somewhere... to the East... beyond the Ocean...
-Translation:
-  Somewhere... to the East... beyond the Ocean...
-Missing translation (translation column autofilled).
-149
-Original:
-  It feels like there are a number of people around <var>Cat</var>. They're being brought somewhere?
-Translation:
-  It feels like there are a number of people around <var>Cat</var>. They're being brought somewhere?
-Missing translation (translation column autofilled).
+  哇!好像在<wavy>地震</wavy>!!
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</var>', '<var>']
 150
 Original:
   They're being stuffed in a bag? Thrown into the back of a truck?! Oh dear!
 Translation:
-  They're being stuffed in a bag? Thrown into the back of a truck?! Oh dear!
-Missing translation (translation column autofilled).
-151
-Original:
-  Or maybe my senses are getting mixed up with what I saw on the tele last night.
-Translation:
-  Or maybe my senses are getting mixed up with what I saw on the tele last night.
-Missing translation (translation column autofilled).
-152
-Original:
-  Sorry dear, I'm not of much help. Please visit whenever you need some Cathy Time though.
-Translation:
-  Sorry dear, I'm not of much help. Please visit whenever you need some Cathy Time though.
-Missing translation (translation column autofilled).
-153
-Original:
-  Or if you find my 3 cats!
-Translation:
-  Or if you find my 3 cats!
-Missing translation (translation column autofilled).
-154
-Original:
-  All the cats are back! Here, have some breadge as thanks.
-Translation:
-  All the cats are back! Here, have some breadge as thanks.
-Missing translation (translation column autofilled).
-155
-Original:
-  Good luck finding <var>Cat</var> and thanks for the help.
-Translation:
-  Good luck finding <var>Cat</var> and thanks for the help.
-Missing translation (translation column autofilled).
-156
-Original:
-  Autumn and Tofu should still be out somewhere...
-Translation:
-  Autumn and Tofu should still be out somewhere...
-Missing translation (translation column autofilled).
-157
-Original:
-  Mittens and Tofu should still be out somewhere...
-Translation:
-  Mittens and Tofu should still be out somewhere...
-Missing translation (translation column autofilled).
-158
-Original:
-  Mittens and Autumn should still be out somewhere...
-Translation:
-  Mittens and Autumn should still be out somewhere...
-Missing translation (translation column autofilled).
-159
-Original:
-  Tofu likes to hang out with the mayor.
-Translation:
-  Tofu likes to hang out with the mayor.
-Missing translation (translation column autofilled).
-160
-Original:
-  Autumn likes to hang out in the storage building a bit south.
-Translation:
-  Autumn likes to hang out in the storage building a bit south.
-Missing translation (translation column autofilled).
-161
-Original:
-  Mittens like to poke around the bakery looking for food sometimes.
-Translation:
-  Mittens like to poke around the bakery looking for food sometimes.
-Missing translation (translation column autofilled).
-162
-Original:
-  Mittens! Thank you for returning him!
-Translation:
-  Mittens! Thank you for returning him!
-Missing translation (translation column autofilled).
-163
-Original:
-  Autumn! Thank you for returning her!
-Translation:
-  Autumn! Thank you for returning her!
-Missing translation (translation column autofilled).
-164
-Original:
-  Tofu! Thank you for returning him!
-Translation:
-  Tofu! Thank you for returning him!
-Missing translation (translation column autofilled).
-165
-Original:
-  Thanks for everything, partner. Please, take a map from my house.
-Translation:
-  Thanks for everything, partner. Please, take a map from my house.
-Missing translation (translation column autofilled).
-166
-Original:
-  Heard the fishermen east and archeologist up north are still lookin' for help.
-Translation:
-  Heard the fishermen east and archeologist up north are still lookin' for help.
-Missing translation (translation column autofilled).
-167
-Original:
-  Licensed, eh? Be careful with that thing.
-Translation:
-  Licensed, eh? Be careful with that thing.
-Missing translation (translation column autofilled).
-168
-Original:
-  You've done a good thing, partner.
-Translation:
-  You've done a good thing, partner.
-Missing translation (translation column autofilled).
-169
-Original:
-  Boating license required.
-Translation:
-  Boating license required.
-Missing translation (translation column autofilled).
-170
-Original:
-  Operation Log 4: Objective Success.
-Translation:
-  Operation Log 4: Objective Success.
-Missing translation (translation column autofilled).
-171
-Original:
-  We have captured the specimen and are returning to main base beyond the Ocean.
-Translation:
-  We have captured the specimen and are returning to main base beyond the Ocean.
-Missing translation (translation column autofilled).
-172
-Original:
-  Stonybrook Village's tourist hot spot: 
-  "The Face Rocks"
-Translation:
-  Stonybrook Village's tourist hot spot: 
-  "The Face Rocks"
-Missing translation (translation column autofilled).
-173
-Original:
-  I need to get to the waterfall, it’s mating season!
-Translation:
-  I need to get to the waterfall, it’s mating season!
-Missing translation (translation column autofilled).
-174
-Original:
-  I need to get to the waterfall, it’s mating season!
-Translation:
-  I need to get to the waterfall, it’s mating season!
-Missing translation (translation column autofilled).
-175
-Original:
-  But... it's so far... I can't wait to get going.
-Translation:
-  But... it's so far... I can't wait to get going.
-Missing translation (translation column autofilled).
-176
-Original:
-  It's so close! I can't swim on land, though.
-Translation:
-  It's so close! I can't swim on land, though.
-Missing translation (translation column autofilled).
-177
-Original:
-  If I could swim up the river I could make it.
-Translation:
-  If I could swim up the river I could make it.
-Missing translation (translation column autofilled).
-178
-Original:
-  No time to lose, gotta blast!
-Translation:
-  No time to lose, gotta blast!
-Missing translation (translation column autofilled).
-179
-Original:
-  The wife thanks you as well, by the way.
-Translation:
-  The wife thanks you as well, by the way.
-Missing translation (translation column autofilled).
-183
-Original:
-  The ruins... you got a connection!
-Translation:
-  The ruins... you got a connection!
-Missing translation (translation column autofilled).
-184
-Original:
-  Woah! The diviner still works.
-Translation:
-  Woah! The diviner still works.
-Character explicitly forbidden: `，`
-190
-Original:
-  Great! I'll be heading out now, take care.
-Translation:
-  我先走了，拜拜~
+  哦!<var>Cat</var>被装在一个袋子里...拉在一辆卡车后面?!天哪...
 =====================
-END /home/atau/Desktop/简体中文/Village_scene.csv
+END E:\_src\Localizations\简体中文\Village_scene.csv
 =====================
 =====================
-BEGIN /home/atau/Desktop/简体中文/_简体中文_configs.csv
+BEGIN E:\_src\Localizations\简体中文\_简体中文_configs.csv
 =====================
 =====================
-END /home/atau/Desktop/简体中文/_简体中文_configs.csv
+END E:\_src\Localizations\简体中文\_简体中文_configs.csv
 =====================

@@ -14,6 +14,11 @@
 - Run `python sanity.py combine` after syncing (see prev section) to create the Excel sheet
 - Update the Excel sheet, then export changes back to Slider (see next section)
 
+### Removing CN Puncuation via Refresh
+- Backup everything first via Git commit, then run `split` and then `combine` to write to the split CSVs first (while performing
+  substitutions), and then re-combining the linted CSVs to the Excel sheet without specific characters.
+- Remember to check the font usage logs (`<font_name>.log` via the `scan` command) to see that there is no weird punctuation characters
+
 ## Sync Slider with this project
 - Clone this project to `git clone <repo URL> <root>/Localizations/简体中文`
 - Run `python -m venv .venv` and activate the virtual environment
