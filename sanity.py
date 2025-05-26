@@ -11,6 +11,19 @@ parent = path.realpath(path.dirname(__file__))
 header_row_count = 4 # format comments, config name, config val, column names
 ban_characters = '。：；，'
 
+substitute_characters = {
+    '。': '.',
+    '，': ',',
+    '”': '"',
+    '“': '"',
+    '’': '\'',
+    '‘': '\'',
+    '…': '...',
+    '：': ':',
+    '；': ';',
+    '——': '--'
+}
+
 locale_name = '简体中文'
 
 if len(sys.argv) < 2:
@@ -45,7 +58,16 @@ if mode == 'split':
                 if col.value is None:
                     row_out.append('')
                 else:
-                    row_out.append(str(col.value))
+
+                    # substitutions
+                    v = str(col.value)
+
+                    for s_from, s_to in substitute_characters.items():
+                        v = v.replace(s_from, s_to)
+
+                    v = v.strip()
+
+                    row_out.append()
             w.writerow(row_out)
 
         with open(path.realpath(f'./{s_name}.csv'), mode='w', encoding='utf-8-sig', newline='') as f:
