@@ -186,6 +186,14 @@ BEGIN E:\_src\Localizations\简体中文\Desert_scene.csv
 Difference between tags in orig and translation
 Original tags: []
 Translation tags: ['<#ff9040>', '</color>']
+25
+Original:
+  Oh, you've found something! Yes, this is very helpful!
+Translation:
+  哦,你找到了一张<#ff9040>魔法卷轴</color>?是的,这张卷轴很有用~
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['<#ff9040>', '</color>']
 95
 Original:
   feel free to give yourself the "Scroll of Realigning" in the cheats menu
