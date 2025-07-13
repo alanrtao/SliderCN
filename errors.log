@@ -205,6 +205,22 @@ Original:
   <var>desertRemainingShakeDirection</var>
 Translation:
   <var>desertRemainingShakeDirection</var>
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</wavy>', '<wavy>']
+233
+Original:
+  Woah, I hope that large object falling didn't interfere with that gentleman's game of dice over yonder!
+Translation:
+  哇,我希望那个巨大物体的<wavy>掉落</wavy>不会影响到那边的骰子局!
+Difference between tags in orig and translation
+Original tags: []
+Translation tags: ['</wavy>', '<wavy>']
+236
+Original:
+  Woah, I hope that massive explosion doesn't interfere with that gentleman's game of dice over yonder!
+Translation:
+  哇,我希望那个<wavy>巨大的爆炸</wavy>不会影响到那边的骰子局!
 Missing translation (translation column autofilled).
 308
 Original:
