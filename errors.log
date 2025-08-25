@@ -216,14 +216,6 @@ Translation:
 Difference between tags in orig and translation
 Original tags: []
 Translation tags: ['</wavy>', '<wavy>']
-233
-Original:
-  Woah, I hope that large object falling didn't interfere with that gentleman's game of dice over yonder!
-Translation:
-  哇,我希望那个巨大物体的<wavy>掉落</wavy>不会影响到那边的骰子局!
-Difference between tags in orig and translation
-Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
 236
 Original:
   Woah, I hope that massive explosion doesn't interfere with that gentleman's game of dice over yonder!
@@ -315,12 +307,6 @@ Original:
   <var>JungleShopBlobDialogue</var>
 Translation:
   <var>JungleShopBlobDialogue</var>
-Missing translation (translation column autofilled).
-113
-Original:
-  Aww <3
-Translation:
-  Aww <3
 Missing translation (translation column autofilled).
 205
 Original:
