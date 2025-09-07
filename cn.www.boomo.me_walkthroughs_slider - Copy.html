@@ -999,7 +999,7 @@
 							狒狒提示3: 
 							<span class="spoiler">
 								要准备水平方向和垂直方向的“测试”，你需要用到你的船锚。
-								如果你当前有4个滑块，那么你需要摆出一个2x2的方形。如果你已经解锁了滑块5，那么它应该摆放在绿洲滑块和狒狒滑块的同一行。这样做，绿洲和狒狒的方块不会因为滑行被分离开，使得绳子掉落。
+								如果你当前有4个滑块，那么你需要摆出一个2x2的方形。如果你已经解锁了滑块5，那么它应该摆放在绿洲滑块和狒狒滑块的同一行。这样做，绿洲和狒狒的滑块不会因为滑行被分离开，使得绳子掉落。
 							</span>
 						</p>
 						<p>
@@ -1200,19 +1200,19 @@
 						火箭工厂可以说是《滑块世界》最难的一关了。它会让你介绍多个新的机制，包括电力，电线，还有“时限门”！
 					</p>
 					<details>
-						<summary class="header-2">“时限门”是什么鬼东西？</summary>
+						<summary class="header-2">“时限门”到底是什么鬼东西？</summary>
 		
 						<p>
-							This section is here to spell out how timed gates work, in case you have any confusion about them! Part of the fun is figuring them out and finding the edge cases you can exploit, but it's also spelled out here in case it gets frustrating.
+							火箭工厂的“时限门”机制在游戏中并没有太多详细的解释，这是因为探索出各种机制的规则和“特殊用法”是《滑块世界》乐趣的一大部分。不过，相比于其他机制，时限门确实不能算是“直观”，所以在这一段中我们会把它解释清楚！
 						</p>
 						<p>
-							The goal of the timed gates is to power all of its inputs within a certain number of moves. You can see the inputs that you need to power as batteries near the gate, or also the LED indicators on the actual gate itself. If you can power all of them, then the gate will stay on forever.
+							所有时限门谜题的最终目标都是在[特定步数]里激活时限门的所有“输入”。这里的“输入”是指时限门边上像灯管一样并连着电缆的东西。要激活一个输入，你仅需要把它通上一次电（就算之后断电也不要紧！你可以看到灯管还是亮的）。如果你能够激活所有输入，那么时限门会永久保持打开的状态。
 						</p>
 						<p>
-							The large number on the gate represents how many tile moves you have left. If the gate has a 2 on it, then you only have two tile moves to power the entire gate. Conveyors do not count towards this limit!
+							门边上的屏幕显示的是剩余的步数，在步数归零之后，所有的输入都会清零！如果显示的是2，那么你只能够移动滑块2次（注意：用传送带推动滑块不算作步数）。
 						</p>
 						<p>
-							The moves are only counted once they <i>completely</i> finish though. This means that you can chain together conveyor belt moves in order to squeeze more out of the very last moves.
+							滑块的移动只有在[完全结束]之后才会被记作一步！如果你用清零前的最后一步把一个滑块移到传送带上，然后传送带又继续推动了这个滑块，那么时限门只会在传送带完成之后清零——如果传送带的推动导致所有输入都被激活，那么时限门就能在清零之前解开了！你可以用这个特殊判定在最后几步中做到很多事情！
 						</p>
 					</details>
 					
@@ -1220,15 +1220,15 @@
 						<summary class="header-2">滑块1</summary>
 		
 						<p>
-							You can enter the Factory from the Jungle once you fix the minecart rail line and prove you have the Scroll of Realigning from the Desert. Once inside, you can talk to some NPCs and are introduced to the Timed Gate mechanic.
+							在修好雨林区域的矿车和轨道、并且拿到沙漠的[对齐]卷轴之后，你就可以进入火箭工厂了。在工厂中，你可以从NPC的对话中学习到“时限门”机制。
 						</p>
 						<p>
-							The first slider is in a closet above the starting area.
+							滑块1在起始区域上方的一个封闭空间内。
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This will open the door and let you pick up the 1st Slider.
+								你需要通过按下3个踏板来激活那个屏幕坏掉的时限门，然后就可以捡起滑块1了。
 							</span>
 						</p>
 					</details>
@@ -1237,24 +1237,24 @@
 						<summary class="header-2">滑块2</summary>
 		
 						<p>
-							We finally have a slider on the map! We still have to get onto it and explore a bit before we find more Sliders though.
+							我们终于有了一个滑块！不过我们还需要想办法走上去……
 						</p>
 						<p>
-							Timed Gate: 
+							时限门：
 							<span class="spoiler">
-								To leave the starting area, you'll have to activate the timed gate below the door. This has a button for one of the power sources you can stand on, and the other is a wire which connects to our new tile. Moving the tile may reset the timed gate since it only allows two tile moves.
+								要离开起始地图，你需要激活上一个时限门下方的另一扇门。这扇门的一个输入是踏板，而另一个是可以与滑块1连接的电线。注意：时限门之所以叫时限门，是因为它在一定的“步数”（你手动移动滑块的次数）经过之后清零！你需要在时限门刷新后的两步之内把滑块1上的电线接到输入上面。
 							</span>
 						</p>
 						<p>
 							提示： 
 							<span class="spoiler">
-								You can use your anchor to hold the button down while you explore areas the door unlocks for you.
+								滑块1上面有一个踏板供电的门。你可以用船锚压住踏板，这样你就可以探索门的另一边了。
 							</span>
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								Once you are in the top-right part of the map, hitting the switch will open the door (and turn on the conveyor, stranding you). You can then move the conductive bob inside back and forth to get through to the other Slider.
+								当你穿过滑块1的大门，到达地图边缘右上方，你需要打开一个开关——它会打开边上的门，但是也会激活传送带，把滑块1移走！你需要用栅栏另一边的[导电球]来先后控制边上的两扇门，这样你才能捡到滑块3并走出栅栏区域。
 							</span>
 						</p>
 					</details>
@@ -1263,18 +1263,18 @@
 						<summary class="header-2">滑块3</summary>
 		
 						<p>
-							Our second slider has some giant magnets on it, which correspond to the giant magnets on the bottom-left of the map. That's where the 3rd slider is as well.
+							滑块2的上面是一个巨型磁铁——它与地图边缘左下角的另一个磁铁相对应，滑块3就在它旁边！
 						</p>
 						<p>
 							提示： 
 							<span class="spoiler">
-								When powering the magnets, the conveyor won't move the tile.
+								充上电的磁铁会吸在一起。这时候，传送带是不能推动滑块的。
 							</span>
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You can safely walk down and pick up the 3rd tile.
+								站在给磁铁供电的踏板上，并把滑块移动到左下角。然后，移动到踏板的边缘上，把船锚丢到你站着的踏板上，这样它会在你离开后继续保持激活的状态。这时，你就可以走下滑块2去捡起滑块3了。
 							</span>
 						</p>
 					</details>
@@ -1283,42 +1283,45 @@
 						<summary class="header-2">滑块4</summary>
 		
 						<p>
-							With 3 tiles, more timed gates means things get a bit more trickier. Three timed gates tricker in fact. 
+							谜题逐渐变难了——准确来说，它有三个时限门那么难！
 						</p>
 						<p>
-							Easy Timed Gate 谜底： 
+							简单时限门谜底： 
 							<span class="spoiler">
-								Start on the tile you just got with the timed gate on the right wall. Line up the tile with the magnets to the left and place the other tile above it. Then, turn on the timed gate and stand on the button to power the wire. Walk to the other tile, stand on the button, and slide the timed gate so the remaining wire is powered.
+								SYNC
+								简单时限门说的是滑块3上的两扇门。从刚刚解锁的滑块3上面开始（也就是右边带着时限门的那一个），并把它放到中间行最右边。把磁铁滑块放到它左边、剩下的另一个滑块放到磁铁滑块上面。重置两扇时限门，并依次走到滑块3的各个踏板上面来激活一部分输入。然后，通过磁铁滑块来走到上面的滑块上，站在踏板上，并依次把这两个滑块向下移动。这样就可以激活剩下的那一个输入。
 							</span>
 						</p>
 						<p>
-							Hard Timed Gate 提示1: 
+							困难时限门提示1: 
 							<span class="spoiler">
-								Some conveyors can be turned on and off.
+								有一些传送带可以被打开或者关闭。
 							</span>
 						</p>
 						<p>
-							Hard Timed Gate 提示2: 
+							困难时限门提示2: 
 							<span class="spoiler">
-								Conveyor moves don't count towards the timed gates.
+								传送带移动滑块时不会算作时限门的步数。
 							</span>
 						</p>
 						<p>
-							Hard Timed Gate 提示3: 
+							困难时限门提示3: 
 							<span class="spoiler">
-								Conveyors can move anchored tiles.
+								传送带可以移动带船锚的滑块。
 							</span>
 						</p>
 						<p>
 							谜底第一部分： 
 							<span class="spoiler">
-								Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.
+								SYNC
+								把右上角的传送带关掉。然后，把右边带门的滑块3移动到中间行的右边，把上方带门的滑块1移动到右上角，并把磁铁滑块移动到中上方。
 							</span>
 						</p>
 						<p>
 							谜底第二部分： 
 							<span class="spoiler">
-								Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other magnet tile. Stand on the button and move the slider onto the conveyor. This will power the second line before the move finishes.
+								SYNC
+								重置厕所的时限门。把船锚放在右上角的滑块1上，并用上方地图边缘的开关打开传送带，让滑块1向下移动。时限门会在步数不变的情况下被激活一个输入。接着，走到磁铁滑块上面。站在滑块下方靠右边的踏板上面，并把这个滑块移动到传送带上——传送带会把它和之前带船锚的滑块一起推下去，顺便激活第二个输入。
 							</span>
 						</p>
 					</details>
@@ -1327,36 +1330,37 @@
 						<summary class="header-2">滑块5</summary>
 		
 						<p>
-							With the 4th tile, you are asked to gather several parts in order to 3D print the next Slider. They can be found in 3 different locations around the factory. After you get all 3 pieces you can use the 3D printer and it will make the next slider for you.
+							在滑块4上，你会发现自己需要收集几个[部件]来3D打印下一个滑块。这些部件在工厂的不同地点。集齐这3个部件之后，你就可以使用3D打印机了。
 						</p>
 						<p>
-							Locations: 
+							物品地点： 
 							<span class="spoiler">
-								The Base is on the same tile as the printer, the Walls are in the top-left of the Factory, and the Wires are in the bottom-right of the Factory.
+								地基和3D打印机在同一个滑块上。墙壁在工厂左上角。电缆在右下角。
 							</span>
 						</p>
 						<p>
 							提示： 
 							<span class="spoiler">
-								One of the parts requires you to get a second item. You have the Anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.
+								其中一个部件需要你先拿到两个其他的部件。你已经有了船锚，但是你需要想办法拿出地图边缘的右上角导电球来供你使用。
 							</span>
 						</p>
 						<p>
-							Base 谜底： 
+							滑块地基谜底： 
 							<span class="spoiler">
-								In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the Anchor to conduct the two pylons through the holes in the gate. The you can walk in and pick up the Conductive Bob, and then leave. After that, you can use the Anchor and the Bob to open both doors.
+								SYNC
+								要拿到地基，你需要给两根电线供能以打开两扇门——这需要两个导电物品。按上一条提示说的，你需要从地图边缘右上角的栅栏区域把导电球拿出来。要做到这一点，你需要把船锚放在栅栏的洞边上，这样它可以代替导电球来连接两边的电源，你就可以把导电球拿出来了。你需要用磁铁滑块上靠右边的踏板（和船锚）来打开打印机滑块上靠下方的门。
 							</span>
 						</p>
 						<p>
-							Walls 谜底： 
+							滑块墙壁谜底： 
 							<span class="spoiler">
-								The walls are behind the giant door in the top-left of the factory. You can power the timed gate near it using the tile with the printer.
+								墙壁在地图左上角巨型大门的另一边。你需要用打印机滑块来给这个大门供能，然后就可以走过去捡起墙壁了。
 							</span>
 						</p>
 						<p>
-							Wires 谜底： 
+							电缆谜底： 
 							<span class="spoiler">
-								The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push the tile and you can walk to the bottom of the Factory.
+								电缆在工厂的右下角。通常来说，传送带会在你走下滑块前把它推走。不过，如果你事先在地图最下边那一行摆上两个滑块，那么再把另一个滑块移动到右下角的时候传送带会被卡住，而你就可以轻松走到地图边缘了。
 							</span>
 						</p>
 					</details>
@@ -1365,18 +1369,18 @@
 						<summary class="header-2">滑块6</summary>
 		
 						<p>
-							The puzzle to get the 6th tile involves powering several WiFi points around the Factory, timed-gate style. 
+							要得到滑块6，你需要顺利激活工厂周围的WiFi热点才能打开时限门。地图上有标注WiFi热点的图标。
 						</p>
 						<p>
 							提示： 
 							<span class="spoiler">
-								Use the conveyors to your advantage, especially the window you have while the timed gate is flashing 0.
+								在时限门闪烁“所剩步数0”的同时，你需要用传送带做很多事情！
 							</span>
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								One solution is to set up the grid so that the server room tile is in the bottom-center and the tile with the wire pointing to the right is in the right-center. You can turn on the Timed Gate and walk to stand on the button to power it. Then, move the tile down so that you create a chain reaction of moves that will power all the WiFi points. You may need to clear some tiles out of the way or power more conveyors.
+								一种解法是：把电脑机房放在中下方，然后把“右边带电缆”的滑块放到中间行最右边。你可以重置时限门，然后走到踏板上激活一个输入。然后，把当前滑块向下移动到传送带上。这会接连导致多次移动，在这期间激活所有的WiFi热点。当然，你需要把其它滑块从道路上清理开，同时合理打开需要的传送带。
 							</span>
 						</p>
 					</details>
@@ -1385,42 +1389,42 @@
 						<summary class="header-2">滑块7</summary>
 		
 						<p>
-							Now, it's time to power the Mega Crystal! But, it needs 6 inputs? And it uses a 0 gate?!
+							是时候激活巨型水晶了！但是，它需要6个输入，而且步数需要为0？！
 						</p>
 						<p>
 							提示1: 
 							<span class="spoiler">
-								If you try and set it up so that all the inputs are powered at the same time, you'll quickly notice that you need some tiles to be in multiple positions at the same time. Which isn't possible!
+								如果你尝试同时激活所有输入，那么你很快就会发现一些滑块需要同时在不同地方，这是不可能做到的！
 							</span>
 						</p>
 						<p>
 							提示2: 
 							<span class="spoiler">
-								Timed Gates will stay active as long as a tile is moving.
+								只要有滑块在移动，时限门就不会刷新。
 							</span>
 						</p>
 						<p>
 							提示3: 
 							<span class="spoiler">
-								The Mega Crystal needs to be in the center of the map.
+								你需要把大水晶放在地图中央。
 							</span>
 						</p>
 						<p>
 							谜底第一部分： 
 							<span class="spoiler">
-								In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. 
+								要解开这个谜题，你需要用传送带来循环推动水晶周边的滑块。在循环的过程中，你需要分不同阶段地激活每个输入。
 							</span>
 						</p>
 						<p>
 							谜底第二部分： 
 							<span class="spoiler">
-								First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop, and make sure the Mega Crystal is in the center of the map. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.
+								首先，用巨型水晶边上的开关来禁用所有传送带，这样你就能一个个打开所有传送带，而不至于被推走。你还需要确保电脑机房的电源是打开的，这样水晶上方的两个输入可以被它激活。你还需要确保水晶在地图的正中心。这些准备都做好之后，回到水晶滑块上把“禁用”开关关上，所有的传送带都会动起来！你会需要使用导电球或者船锚来压住一些踏板。同时，大磁铁是不能被打开的，否则它吸到另一个大磁铁之后会把整个循环卡住！
 							</span>
 						</p>
 						<p>
 							谜底第三部分： 
 							<span class="spoiler">
-								After the Crystal is powered, it will overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything, but also send you to the past.
+								在磁铁激活后，它会过载然后导致大停电。你需要用水晶滑块来给电脑机房供电，然后和吉恩对话来运行一个[重启]代码。这会重启电脑，但是也会把你传送回过去！
 							</span>
 						</p>
 					</details>
@@ -1429,12 +1433,12 @@
 						<summary class="header-2">滑块8</summary>
 		
 						<p>
-							We've been transported to the past! Take some time to explore, this should be an easier section.
+							我们回到了过去！这一部分的地图很开阔，你可以随意探索。
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								Gather some conductive bobs and explode the rock in the top-right in order to get access to Slider 8.
+								拿到一些导电球，并用它们引爆地图右上角的炸药并炸开挡路的石头，之后就可以捡起滑块8了。
 							</span>
 						</p>
 					</details>
@@ -1443,30 +1447,33 @@
 						<summary class="header-2">滑块9</summary>
 		
 						<p>
-							With enough conductive bobs, Fezziwig the wizard is here to help us get back to the future.
+							巫师法兹维也在这里！你需要帮他找到足够的供电球，才能激活水晶、回到未来。
 						</p>
 						<p>
 							提示1: 
 							<span class="spoiler">
-								You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won't just hand it to you.
+								捡起地图上所有的导电球之后，你会发现还差一个。大碴初代拿着那一个剩下的导电球——如果你想要它，那么你就必须拿到它，你早知道的。
+							</span>
+							<span class="spoiler">
+								你需要把大碴初代电晕！
 							</span>
 						</p>
 						<p>
 							提示2: 
 							<span class="spoiler">
-								After powering the crystal for the first time, a time glitch occurs! One of the tiles has been affected and has the Time Calibrator that Fezziwig requested.
+								激活水晶之后，一个“时间漏洞”发生了！其中一个滑块被漏洞影响，而法兹维想找的[时间校准仪]就在上面。
 							</span>
 						</p>
 						<p>
 							提示3: 
 							<span class="spoiler">
-								In order to get the Time Calibrator, you'll need to unpower the doors while standing between them somehow.
+								要拿到[时间校准仪]，你需要找到一个在站在门中间的同时给它断电的方式。
 							</span>
 						</p>
 						<p>
 							谜底： 
 							<span class="spoiler">
-								Put a conductive bob on the left of the power pylons, but such that it's on the other tile. Then, you can go between the doors and move the Slider in order to disconnect the pylons. After that, power Fezziwig's crystal again and go back to the future!
+								把一个导电球放在电源的左边，而且确保它在另一个滑块上。然后，你可以穿过大门，并把那个导电球下面的滑块移走，这样就能断开连接了。之后，你需要再次激活大水晶，回到未来！
 							</span>
 						</p>
 					</details>
@@ -1475,7 +1482,8 @@
 						<summary class="header-2">通关！</summary>
 		
 						<p>
-							Congratulations, you finished the hardest area! After fixing the Rocket Factory, the Foreman will task you with helping the Military in the Flats as well as retrieving gems from the Crystal Mines. You can do them in either order!
+							恭喜，你打通了《滑块世界》最难的一关！修好火箭工厂之后，工头会给你另外两个任务：帮助平原区域的军队防御外星人入侵，并且拿到矿山区域的水晶。这两个任务是互相独立的，没有特定的顺序！
+							（虽然原文是这么说，译者认为最难一关还是后面的矿山……）
 						</p>
 					</details>
 					
