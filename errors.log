@@ -1232,12 +1232,6 @@ Original:
 Translation:
   Tall and small, joining powers! Who would have thought?
 Missing translation (translation column autofilled).
-180
-Original:
-  In fact, the gem the made is so big I can't even rope it off!
-Translation:
-  In fact, the gem the made is so big I can't even rope it off!
-Missing translation (translation column autofilled).
 181
 Original:
   Anyways, it's brought in more visitors. Take this as thanks.
@@ -1249,12 +1243,6 @@ Original:
   Tall and small, joining powers! Who would have thought?
 Translation:
   Tall and small, joining powers! Who would have thought?
-Missing translation (translation column autofilled).
-183
-Original:
-  In fact, the gem the made is so big I can't even rope it off!
-Translation:
-  In fact, the gem the made is so big I can't even rope it off!
 Missing translation (translation column autofilled).
 184
 Original:
@@ -2799,6 +2787,12 @@ Original:
   2560 x 1440
 Translation:
   2560 x 1440
+Missing translation (translation column autofilled).
+80
+Original:
+  Screen Effects
+Translation:
+  Screen Effects
 =====================
 END E:\_src\Localizations\简体中文\MainMenu_scene.csv
 =====================
@@ -2907,6 +2901,12 @@ Original:
   2560 x 1440
 Translation:
   2560 x 1440
+Missing translation (translation column autofilled).
+68
+Original:
+  Screen Effects
+Translation:
+  Screen Effects
 =====================
 END E:\_src\Localizations\简体中文\UICanvas_prefab.csv
 =====================
