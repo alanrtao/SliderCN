@@ -22,6 +22,7 @@ substitute_characters = {
     '：': ':',
     '；': ';',
     '——': '--',
+    '——': '--',
     '！': '!',
     '【': '[',
     '】': ']',
@@ -141,7 +142,7 @@ elif mode == 'scan':
     
     def get_tags(s: str) -> list[str]:
         tags = re.findall(r'<.*?>', s)
-        return sorted(tags)
+        return tags
 
     with open(err_log, mode='w', encoding='utf-8-sig') as log_file:
         def printdup(*args, **kwargs) -> None:

@@ -201,7 +201,7 @@ Translation:
   如果真的卡住了,您需要从"作弊"菜单里选择给自己一个<#ff9040>[对齐]卷轴</color>.
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>']
 114
 Original:
   Could you get my friends, Baboon and Jackal? Then Gazelle last!
@@ -215,7 +215,7 @@ Translation:
   <var>desertRemainingShakeDirection</var>
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>']
 236
 Original:
   Woah, I hope that massive explosion doesn't interfere with that gentleman's game of dice over yonder!
@@ -275,6 +275,14 @@ Original:
   <var>MiscChadFollowPlayerChirp</var>
 Translation:
   <var>MiscChadFollowPlayerChirp</var>
+Difference between tags in orig and translation
+Original tags: ['<#e6e639>', '</color>', '<#c060c0>', '</color>']
+Translation tags: ['<#c060c0>', '</color>', '<#e6e639>', '</color>']
+235
+Original:
+  Move? Well, we need to get the <#e6e639>explosives</color> from the military and <#c060c0>crystals</color> from the mountains.
+Translation:
+  挪开?呃,我们需要大山那边的<#c060c0>水晶</color>和军队那边的<#e6e639>爆炸物</color>.
 =====================
 END E:\_src\Localizations\简体中文\Factory_scene.csv
 =====================
@@ -295,7 +303,7 @@ Translation:
   <var>jungleUIHintText</var>
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '</wavy>', '<wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>', '<wavy>', '</wavy>']
 37
 Original:
   It can show you EVERYTHING about ANYTHING! (related to recipes)
@@ -429,7 +437,7 @@ Translation:
 
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>']
 169
 Original:
   I have spots for the Shield Generator and a Gem they would have created.
@@ -437,7 +445,7 @@ Translation:
   我特地留下了两个空位以存放他们<wavy>有可能</wavy>制作出来的东西--比如[法术护盾],还有[魔法宝石].
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>']
 170
 Original:
   I have spots for the Shield Generator and a Gem they would have created.
@@ -1428,8 +1436,8 @@ END E:\_src\Localizations\简体中文\UIEffects_prefab.csv
 BEGIN E:\_src\Localizations\简体中文\Village_scene.csv
 =====================
 Difference between tags in orig and translation
-Original tags: ['</var>', '<var>']
-Translation tags: ['</var>', '</wavy>', '<var>', '<wavy>']
+Original tags: ['<var>', '</var>']
+Translation tags: ['<var>', '</var>', '<wavy>', '</wavy>']
 1
 Original:
   It started when <var>Cat</var> touched that Artifact you brought back.
@@ -1437,7 +1445,7 @@ Translation:
   <var>Cat</var>碰了一下你带回来的那个<wavy>古遗物.</wavy>
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</var>', '<var>']
+Translation tags: ['<var>', '</var>']
 21
 Original:
   Sigh... everything reminds me of them.
@@ -1445,7 +1453,7 @@ Translation:
   哎...我想<var>Cat</var>了.
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</var>', '<var>']
+Translation tags: ['<var>', '</var>']
 24
 Original:
   Sigh... everything reminds me of them.
@@ -1453,7 +1461,7 @@ Translation:
   哎...我想<var>Cat</var>了.
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</var>', '<var>']
+Translation tags: ['<var>', '</var>']
 28
 Original:
   Sigh... everything reminds me of them.
@@ -1461,7 +1469,7 @@ Translation:
   哎...我想<var>Cat</var>了.
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</wavy>', '<wavy>']
+Translation tags: ['<wavy>', '</wavy>']
 70
 Original:
   wOAH! everything is shakingggg
@@ -1469,7 +1477,7 @@ Translation:
   哇!好像在<wavy>地震</wavy>!!
 Difference between tags in orig and translation
 Original tags: []
-Translation tags: ['</var>', '<var>']
+Translation tags: ['<var>', '</var>']
 150
 Original:
   They're being stuffed in a bag? Thrown into the back of a truck?! Oh dear!
