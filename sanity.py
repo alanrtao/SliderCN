@@ -32,7 +32,7 @@ substitute_characters = {
     '～': '~'
 }
 
-locale_name = '简体中文'
+locale_name = 'Chinese'
 
 if len(sys.argv) < 2:
     print('Usage:')
