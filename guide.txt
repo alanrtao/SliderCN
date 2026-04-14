@@ -341,81 +341,81 @@ ________________
 
 ## 滑块2+3
 
-Welcome to the Jungle! To start off you have to learn how to use the huts, though they won't do much with only one.
+欢迎来到“适者生存”的残酷雨林！要开始解谜，你需要学会操作各种设备——它们可不是用来[单独]使用的！
 
-谜底： ||Go upstairs using the ladder and talk to the person upstairs. He asks you to "Send some sticks up", which you can do by interacting with the signs on the Spawner until it has a stick symbol and an up arrow. Then, that guy tells you to go back down and report that the job has been completed.||
+谜底： ||顺着梯子爬上二楼，会有一名[公司员工]让你往[上方]送一些[棍子]。你可以与边上的[图形生成器]交互，并设置它来生成[棍子]并向[上]传递。只有在生成器对齐方向和位置后，你才会看见一个不断移动的“生产线”。之前的员工会告诉你到[楼下]去汇报工作结果。||
 
 ## 滑块4
 
-It's time to start production. Barron asks you to give him a Stick and a Circle.
+是时候开始生产了！大亨需要你制作一根[棍子]和一个[圆形]。
 
-谜底： ||You can get a stick by sending a Stick into the hole. The Blobs will jump in the hole and you can pick their item up in the area downstairs, on the blanket by the big tree. To make a Circle, send two semi-circles to the same sign and they will combine.||
+谜底： ||你可以将[棍子]送到二楼的大坑里面。大坑下方是公司的“店铺”，你可以从这里收集楼上生产出来的图形。要生产一个[圆形]，你必须[合并]两个[半圆形]的生产线——在生产线合并的时候，两条线上的图形也会依次被合并！||
 
 ## 滑块5
 
-Customers are asking for a Fish and a Boat. You'll have to find a configuration to combine the components to make them.
+顾客需要一个[鱼形]和一个[船形]。你需要分别找到可以产出这两个图形的设备摆放方式。
 
-Fish 谜底： ||`<img src="Images/JungleFish.jpg" class="img-responsive" alt="Fish Solution">`||
+[鱼形]谜底： ||`<img src="Images/JungleFish.jpg" class="img-responsive" alt="Fish Solution">`||
 
-Boat 谜底： ||`<img src="Images/JungleShip.jpg" class="img-responsive" alt="Ship Solution">`||
+[船形]谜底： ||`<img src="Images/JungleShip.jpg" class="img-responsive" alt="Ship Solution">`||
 
 ## 滑块6
 
-It's time for a race. With Chad!
+是时候和[大碴]竞速了！
 
-### Setting up the Race
+### 铺设赛道
 
-There are a number of race cones representing the horizontal track between where Chad starts and the bell on the fat tile. To set up the track, place tile 5 to the left of tile 2/3. Before you can race though, Chad asks for a flag.
+地图上有一系列的[路锥]，铺好赛道后，这些路锥应该是从左到右相连的——赛道最左边是[大碴]站着的滑块5，最右边是[连体滑块]右端的[铃铛]。在竞赛开始前，你需要给大碴一面[旗帜]。
 
-Flag 谜底： ||`<img src="Images/JungleFlag.jpg" class="img-responsive" alt="Flag Solution">`||
+[旗帜]谜底： ||`<img src="Images/JungleFlag.jpg" class="img-responsive" alt="Flag Solution">`||
 
-### Winning the Race
+### 赢得竞速
 
-Now that the race is set up, you can start an attempt by talking to Chad while the race track is set up. But he's so fast! And if you break the track during the race, he stops it and calls you out for cheating.
+铺好赛道后，你可以与[大碴]对话来开始竞速。他跑得很快，而且很机灵：如果你在竞赛时移动[赛道]，他会抱怨你作弊！
 
-提示一: ||Focus on the rules of the race -- what are the exact conditions for it starting or ending?||
+提示一: ||再想一想，竞速的[规则]到底包括什么？||
 
-提示二: ||You will have to use the Artifact to win.||
+提示二: ||要赢得竞速，你必须在不破坏规则的情况下使用你的古遗物！||
 
-谜底： ||In order to beat Chad, you have to move faster than him. You can use the Artifact to move a tile, which moves faster than Chad. While you can't break the race track, you can move other tiles. To win, set up the race track and place a tile below your starting point. Start the race, hop onto the other tile, and move it all the way to the right. Then you can run up to the bell and ring it before Chad gets there.||
+谜底： ||要打败[大碴]，你需要比平常快许多！作为一个正直守序的好运动员，你可以用古遗物移动[不属于赛道]的任意滑块，这样并不会违背规则。具体地说：你可以在竞速起点的下方放一片滑块，在开始后走到那个滑块上，将它移动到最右边，并向上走到竞速终点。||
 
 ## 滑块7
 
-Chad is defeated! You have picked up the Boots of Speed and the 6th tile with a duplicator on it. Now, we have three new orders for production as well: Crutches, a Bandage, and the Fish Bowl.
+你再次打败了大碴！你需要捡起[增速靴]还有带[图形复制器]的滑块6。同时，我们接到了三个新订单：[拐杖]，[绷带]，还有一个[鱼碗]。
 
-Crutches 提示： ||Some recipes require you to merge three shapes at once.||
+[拐杖]提示： ||有一些配方需要[同时]合并3种图形。||
 
-Fish Bowl 提示一: ||The Fish Bowl requires 5 components to make.||
+[鱼碗]提示一: ||[鱼碗]需要5个部件才能合成。||
 
-Fish Bowl 提示二: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
+[鱼碗]提示二: ||试着先将[复制器]摆好，然后以它为核心来摆方其他滑块。||
 
-Crutches 谜底： ||`<img src="Images/JungleCrutch.jpg" class="img-responsive" alt="Crutches Solution">`||
+[拐杖]谜底： ||`<img src="Images/JungleCrutch.jpg" class="img-responsive" alt="Crutches Solution">`||
 
-Bandage 谜底： ||`<img src="Images/JungleBandage.jpg" class="img-responsive" alt="Bandage Solution">`||
+[绷带]谜底： ||`<img src="Images/JungleBandage.jpg" class="img-responsive" alt="Bandage Solution">`||
 
-Fish Bowl 谜底： ||`<img src="Images/JungleFishBowl.jpg" class="img-responsive" alt="Fish Bowl Solution">`||
+[鱼碗]谜底： ||`<img src="Images/JungleFishBowl.jpg" class="img-responsive" alt="Fish Bowl Solution">`||
 
 ## 滑块8
 
-The hardest customers have arrived. It's time to make the Minecart and the Rails.
+这关最难的谜题来了！是时候制作[矿车]或者[铁轨]了——或者两个都做出来！
 
-提示一: ||Think about how many components each Shape takes to make. The Minecart requires 6 total, and the Rails requires 7 total.||
+提示一: ||想一想每一个图形需要多少部件。[矿车]总共需要6个，[铁轨]总共需要7个。||
 
-提示二: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
+提示二: ||试着先将[复制器]摆好，然后以它为核心来摆方其他滑块。||
 
-Minecart 谜底： ||`<img src="Images/JungleMinecart.jpg" class="img-responsive" alt="Minecart Solution">`||
+[矿车]谜底： ||`<img src="Images/JungleMinecart.jpg" class="img-responsive" alt="Minecart Solution">`||
 
-Rails 谜底： ||`<img src="Images/JungleRails.jpg" class="img-responsive" alt="Rails Solution">`||
+[铁轨]谜底： ||`<img src="Images/JungleRails.jpg" class="img-responsive" alt="Rails Solution">`||
 
 ## 滑块9
 
-The area is... done? You pick up the 9th tile, but everything is still jumbled. The only way to fix this is to find another artifact: The Scroll of Realigning. Our journey continues in the Desert!
+这一关……打通了？你捡起了滑块9，但是地图还是[乱序]的。修复这里的唯一办法是找到另一个道具：[对齐卷轴]。我们的旅途在沙滩关卡继续！
 
 ________________
 
-# The Impact Zone
+# 冲击坑
 
-The Impact Zone is the fifth level, which contains an important relic to finish Canopy Town. Instead of moving one tile at a time, all the tiles slide in one direction!
+第五关是一个大陨石坑！你需要打通这一关来解锁[对齐卷轴]，好回到[树冠园区]并将乱序的地图修复。这一关的滑块都是沙子做的：如果你移动某一个滑块，所有其他滑块也会[一起移动]！
 
 ## 滑块2
 
@@ -435,21 +435,21 @@ With the Oasis now on the map, try to connect it with the river piece so Crocodi
 
 ## 滑块5+6
 
-Time to bring Baboon and Jackal to the party! Go to the tile with three trees on it to see the Baboon or visit the Jackal on the tile with a giant fossil.
+Time to bring 狒狒and 豺狼to the party! Go to the tile with three trees on it to see the 狒狒or visit the 豺狼on the tile with a giant fossil.
 
-Baboon 提示一: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon's tree to it.||
+狒狒提示一: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon's tree to it.||
 
-Baboon 提示二: ||When testing the rope, keep Baboon's tile and the Oasis next to each other.||
+狒狒提示二: ||When testing the rope, keep Baboon's tile and the Oasis next to each other.||
 
-Baboon 提示三: ||Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and Baboon tiles||
+狒狒提示三: ||Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and 狒狒tiles||
 
-Baboon 提示四: ||Shake the Baboon off the rope by separating the Oasis and Baboon's original tile with the anchor.||
+狒狒提示四: ||Shake the 狒狒off the rope by separating the Oasis and Baboon's original tile with the anchor.||
 
-Jackal 提示一: ||Jackal's new bone is located on the top left of the map.||
+豺狼提示一: ||Jackal's new bone is located on the top left of the map.||
 
-Jackal 提示二: ||Give Jackal enough momentum by sliding Jackal's tile left towards the bone.||
+豺狼提示二: ||Give 豺狼enough momentum by sliding Jackal's tile left towards the bone.||
 
-Jackal 谜底： ||Talk to Jackal and progress his dialogue. Bring Jackal to the top left of the map. Once Jackal is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so Jackal can join the party.||
+豺狼谜底： ||Talk to 豺狼and progress his dialogue. Bring 豺狼to the top left of the map. Once 豺狼is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so 豺狼can join the party.||
 
 ## 滑块7
 
