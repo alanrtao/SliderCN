@@ -18,7 +18,7 @@
 
 
 [//]: # Section Title: # Village
-[//]: # Subsection Title: ## 滑块一
+[//]: # Subsection Title: ## 滑块1
 [//]: # Subdivision: ### Building the Fish Bowl
 [//]: # End Foldout: ### [END]
 [//]: # End Foldout Cont: In general the foldouts will continue until the next one is created. If you want to end the current level of foldout, then do the appropriate number of #s and [END]
@@ -88,63 +88,63 @@ ________________
 
 石头镇是本游戏的第一关。它会帮你认清《滑块世界》的基本原理。对了，这张地图是我们在GMTK游戏开发大赛上仅用48小时做出来的！
 
-## 滑块二
+## 滑块2
 
 游戏在“你”（探险家）的家里开始。在捡起古遗物之后，你发现屋外的世界很不对劲。你需要在探索地图来找到第二片滑块。
 
 提示： ||尝试移动滑块并四处走动。不用担心，滑块的四边并不是空气墙！||
 
-谜底： ||站在起始滑块上并将它移动到地图九宫格的右上角。你可以在滑块上方，地图边缘的一片空地上找到[滑块二]——还有一头牛。||
+谜底： ||站在起始滑块上并将它移动到地图九宫格的右上角。你可以在滑块上方，地图边缘的一片空地上找到[滑块2]——还有一头牛。||
 
-## 滑块三
+## 滑块3
 
-收集[滑块二]之后，你可以开始在滑块之间走动并探索更多地图边缘的区域。[滑块三]可以很容易地通过[滑块二]来解锁。
+收集[滑块2]之后，你可以开始在滑块之间走动并探索更多地图边缘的区域。[滑块3]可以很容易地通过[滑块2]来解锁。
 
-谜底： ||将[带着房子的滑块]放到[河流滑块]左边，然后与遗迹边上的[考古学家]对话，她会给你[滑块三]。||
+谜底： ||将[带着房子的滑块(1)]放到[河流滑块(2)]左边，然后与遗迹边上的[考古学家]对话，她会给你[滑块3]。||
 
-## 滑块四
+## 滑块4
 
-你解锁了3片滑块，现在是第一关真正开始变难的时候了！想办法走到三面封闭的[滑块三]上，那是解锁下一片滑块的关键。
+你解锁了3片滑块，现在是第一关真正开始变难的时候了！想办法走到三面封闭的[滑块3]上，那是解锁下一片滑块的关键。
 
 提示一: ||不要让你的思路被“拘束”！||
 
-提示二: ||记得你是在哪里解锁[滑块二]的么？就在那头牛牛边上。||
+提示二: ||记得你是在哪里解锁[滑块2]的么？就在那头牛牛边上。||
 
-谜底： ||从[带着房子的滑块]开始。站在上面并将它移动到中间行最右边。向右走到地图边缘的沙滩上，并捡起[一杯咖啡]。回到滑块上，并将它移动到地图右上。走到地图边缘，并把[三面封闭的滑块]移动到地图右上——这样你就可以走上滑块了。||
+谜底： ||从[房子滑块(1)]开始。站在上面并将它移动到中间行最右边。向右走到地图边缘的沙滩上，并捡起[一杯咖啡]。回到滑块上，并将它移动到地图右上。走到地图边缘，并把[三面封闭的滑块(3)]移动到地图右上——这样你就可以走上滑块了。||
 
-## 滑块五
+## 滑块5
 
-你需要帮[滑块四]上的[渔夫凯文]解开缠住的浮标。你可以把它们捡起来然后放到任意地方。
+你需要帮[渔夫凯文]解开缠住的浮标。你可以把它们捡起来然后放到任意地方。
 
-谜底： ||你需要保证浮标之间的线段没有交叉。有一种解法是：事先把所有浮标移到河的同一边，然后一个接一个移到另外一边——直到不再有交叉。你需要把合适的滑块放到[河流滑块]的边上，这样才可以自由地过河。||
+谜底： ||你需要保证浮标之间的线段没有交叉。有一种解法是：事先把所有浮标移到河的同一边，然后一个接一个移到另外一边——直到不再有交叉。你需要把合适的滑块放到[河流滑块(4)]的边上，这样才可以自由地过河。||
 
-## 滑块六
+## 滑块6
 
-新解锁的[滑块五]上面又有一座房子，里面有只猫猫——真不错！你需要帮屋外的[朱丽叶]找到她失踪的爱人。
+新解锁的滑块上面又有一座房子，里面有只猫猫——真不错！你需要帮屋外的[朱丽叶]找到她失踪的爱人。
 
-谜底： ||要让有情人重逢，你需要将[带男人的滑块]（也就是带房子的初始滑块）移动到[带女人的滑块]边上（也就是带L形房子的滑块五）。||
+谜底： ||要让有情人重逢，你需要将[带男人的滑块(1)]（也就是带房子的初始滑块）移动到[带女人的滑块(5)]边上（也就是带L形房子的滑块5）。||
 
-## 滑块七
+## 滑块7
 
-新解锁的[滑块六]上面有很多东西。[渔夫皮埃尔]需要鱼，背景里有个瀑布，还有一部分废墟。
+新解锁的滑块上面有很多东西。[渔夫皮埃尔]需要鱼，背景里有个瀑布，还有一部分废墟。
 
 提示一: ||渔夫需要鱼，而地图边缘海里的鱼想要游到地图左上方的瀑布那里。不过，现在还没有足够的“河流”滑块可以把两边连起来。你需要先解锁“另外的东西”才能够拼齐河流。||
 
-提示二: ||把[带瀑布的滑块六]放到[带“直线河流”的滑块二]边上，你会发现滑块上方的遗迹图案是连起来的。||
+提示二: ||把[带瀑布的滑块(6)]放到[带“直线河流”的滑块(2)]边上，你会发现滑块上方的遗迹图案是连起来的。||
 
 谜底第一部分： ||你需要找到4片遗迹图案并将它们对齐在一起！仔细观察地图，可以发现有4个滑块的边角上各带着一个“圆形”图案：[瀑布滑块]的右上角、[水平河流滑块]的左上角、[起始房子滑块]的左下角、还有[“半岛”形状滑块]的右下角。||
 
-谜底第二部分： ||把4个角对齐后，会出现一个“魔法箭头”。顺着这个箭头的指向，你可以走到[滑块五]的L形房子下面，那里有一块发光的石头。与石头互动来解锁下一片滑块。||
+谜底第二部分： ||把4个角对齐后，会出现一个“魔法箭头”。顺着这个箭头的指向，你可以走到[L形房子滑块(5)]的房子下方，那里有一块发光的石头。与石头互动来解锁下一片滑块。||
 
-## 滑块八
+## 滑块8
 
 你解锁了最后一片河流滑块！
 
 提示： ||你已经集齐了所有4片河流滑块。是时候将它们拼齐并完成[渔夫]和[鱼]的任务了！||
 
-谜底： ||依照以下顺序拼出瀑布到大海的河道：[瀑布滑块（6）]在地图左上，[水平河流滑块（2）]在最上行中央，[带浮标的拐角河流滑块（4）]在右上，最后剩下的[拐角河流滑块(7)]在中间行最右边。拼齐后，在地图边缘右方与[鱼]对话，之后再与[渔夫]对话以解锁[滑块八]。||
+谜底： ||依照以下顺序拼出瀑布到大海的河道：[瀑布滑块（6）]在地图左上，[水平河流滑块（2）]在最上行中央，[带浮标的拐角河流滑块（4）]在右上，最后剩下的[拐角河流滑块(7)]在中间行最右边。拼齐后，在地图边缘右方与[鱼]对话，之后再与[渔夫]对话以解锁[滑块8]。||
 
-## 滑块九
+## 滑块9
 
 你已经解锁了8片滑块！再想要将它们任意排列的话，想必是十分麻烦了。
 
@@ -152,7 +152,7 @@ ________________
 
 [大碴]拿走了一块遗迹，那个王八蛋跳到了一块大石头上面，你没办法轻易拿走他的石板。你需要想办法让他“下来”。
 
-谜底： ||移动[大碴]脚下的滑块会让他从石头上摔下来。这时你就可以捡起遗迹，把它交给[考古学家]了（她在带“水平河流”的[滑块二]上）。||
+谜底： ||移动[大碴]脚下的滑块会让他从石头上摔下来。这时你就可以捡起遗迹，把它交给[考古学家]了（她在带“水平河流”的[滑块2]上）。||
 
 ### 重排九宫
 
@@ -172,906 +172,608 @@ ________________
 欢迎来到水帘洞！洞里有很多真菌！
 （其实原版文本里写的是Chloro Cave，主创在原文这段解释说他起这个名字的原因是叶绿素——chlorophyll——但是这和真菌好像并没有太大联系。译者取用“水帘洞”主要是因为当时正赶上《黑悟空》发布，其实也没什么道理。）
 
-## 滑块二
+## 滑块2
 
 你从南边进入了水帘洞。这张地图上已经有一片滑块被解锁了。在这片起始滑块上，你可以遇到一大丛“真菌”，里面藏着一片未收集的滑块。这个洞穴还藏着什么宝物呢？
 
 提示： ||你可以通过起始滑块来探索很大一部分的地图边缘。多走一走，也许能找到些什么！||
 
-谜底： ||从起始滑块开始，你可以找到地图边缘左下方的[扳手]和左上方的[剪线钳]。把它们交给地图边缘右上方的[工人]，他会把大灯泡修好，然后给你[滑块二].||
+谜底： ||从起始滑块开始，你可以找到地图边缘左下方的[扳手]和左上方的[剪线钳]。将它们交给地图边缘右上方的[工人]，他会把大灯泡修好，然后给你[滑块2].||
 
-## 滑块三
+## 滑块3
 
-真菌是会和灯光“交互”的。解锁[滑块三]并不需要太多步骤。
+真菌是会和灯光“交互”的。解锁[滑块3]并不需要太多步骤。
 
-谜底： ||Move the tile you just got to the top right or bottom right corner of the grid. This will place it in the range of a light. The light will cause the fungi around the Slider to recede, allowing you to pick up the third Slider.||
+谜底： ||将刚刚解锁的[滑块2]放到地图的右上方或者右下方，也就是灯光照射的区域中。灯光会让真菌收缩并清理出一条通向[滑块3]的过道来。||
 
+## 滑块4
 
-## 滑块四
+我的天，又一盏灯！想必挡路的真菌已经对你不成问题了。
 
+提示： ||记得[起始滑块]上真菌里藏着的那片滑块么？||
 
-My god, another light! The fungi surely stand no chance against your electrical might now…
+谜底： ||将[起始滑块]放到地图右上角，也就是灯泡左边，然后将[带灯泡的滑块(3)]放到起始滑块下方，就可以走过真菌捡起滑块了！注意：要让灯光与真菌交互，不仅仅需要将它摆放在范围内，还需要在合适的方向上！||
 
+## 滑块5
 
-提示： ||Remember the Slider trapped in the fungi on tile 1?||
+新解锁的滑块上有一座[发电站]，不过它并不在运转。这里一片漆黑——你甚至看不见大门！
 
+谜底： ||将[带灯泡的滑块(3)]移到[发电站滑块(4)]底下，这样就能找到大门了。进入发电站之后，和[大碴]对话，就能得到滑块5。||
 
-谜底： ||Place the first tile in the top-right corner, exposing it to light from the right. Place the third tile underneath the first tile, exposing it to light from the bottom. This will remove enough fungi for you to grab 滑块四 from the first tile.||
+## 滑块6
 
+你找到了另一盏灯！不过电缆被[耗子]咬断了。[考古学家]也在这里，但是她好像又把什么搞丢了！多么粗心！
 
-## 滑块五
+提示： ||你需要将新滑块上的灯泡点亮，才能找到[考古学家]丢失的[手电筒]——它在[大桥滑块]上。||
 
+谜底第一部分： ||在新解锁的[滑块5]上找到[钥匙]，然后把它交给发电厂左边的工人。这样就能把电源开关打开，给滑块5的大灯泡供电。同时，你也能从地图上看见[电缆]——它在通电的时候会发出黄色的光。||
 
-On this tile is the cavern station. The power's gone out, and it's so dark that you can't even see the door!
+谜底第二部分： ||找到[带手电筒的滑块]（也就是滑块2，带着河流和大桥的那一块），然后将两个灯泡分别摆在它的上边和左边。这样你就能捡起[手电筒]并将它交给[考古学家]，并解锁[滑块6]。||
 
+## 滑块7
 
-谜底： ||Move the tile with the light underneath slider 4. This will allow you to enter the station. Upon entering the station, talk to Chad and you will receive 滑块五.||
+新解锁的滑块上全都是真菌，[滑块7]被困在里面。你需要用到很多灯泡才能解开谜题！注意：你需要点亮[发电站]的灯。
 
+提示一: ||这关需要“多个”步骤，在摆放滑块时需要考虑到这一点。||
 
-## 滑块六
+提示二: ||不存在任何可以[同时]打开一条完整道路的灯泡摆放方式！||
 
+提示三: ||你可以一边站在真菌空地上，一边移动任意滑块。不过，如果在移动滑块后不再有足够的光照在你落脚的地方，你会被重新伸展开的真菌弹出去！||
 
-Here you'll find another light, though the cable has been chewed up by rats. The Archeologist makes her triumphant return, but she seems to have lost yet another item! What a klutz!
+谜底： ||将[发电站]放到地图中央。将另一个[灯泡滑块]放到左上方，并将新解锁的[真菌滑块(6)]放在中上方。走进真菌中，并站在“右边没有石头”的那一行。然后，将[真菌滑块(6)]向右移动一格，接着把[灯泡滑块]移到[滑块6]下方，就可以打开通往[滑块7]的小路了。||
 
+## 滑块8
 
-提示： ||You'll need to use the light on this tile in order to reach the flashlight, which is located on the slider with the big bridge.||
+什么？[滑块8]被[耗子]偷走了！你最好把这只“小杰瑞”抓住。
 
+提示： ||小耗子总是比你更快，但是你比它聪明！移动地图并合理应用各种机制并将它困住。||
 
-谜底第一部分： ||Pick up the key collectible from 滑块五, and return it to the worker on the left inside the cavern station. This will allow you to switch on power, powering the light on 滑块五 if it is to the left of the cavern station. You can also see the power line on the map, which lights up yellow once powered.||
+谜底： ||有两种解法：一种是把老鼠赶到角落里面；另一种是把它赶到灯照下的真菌空地里面，然后再把灯挪开！||
 
+## 滑块9
 
-谜底第二部分： ||Find the tile with the flashlight (the second slider you got, with the river and large bridge), and place lights above and to the left. That will allow you to access the flashlight in the fungi patch. Return it to the archeologist and pick up 滑块六.||
+[考古学家]在新解锁的滑块上找到了一些神秘图案，但是她有些看不清。你需要把整张地图点亮！
 
+提示一: ||不要让太多灯泡重叠在一起——让灯光均匀分配。||
 
-## 滑块七
+提示二: ||地图中央需要有一盏灯。||
 
+提示三: ||另一盏灯应该在左上或者左下角。注意墙壁的摆放格局！||
 
-This tile is dominated by a massive field of fungi, with 滑块七 deep inside. You'll have to make full use of what you've learned so far to solve the puzzle, but it is possible! Make sure you've turned on the Station light too.
+谜底： ||这个谜题是一个简易版的“重排九宫”（或“8数字推盘”）。如果你是在打通[石头镇]后才进入本关的，那么这对你来说一定很简单了。如果你是没有打通[石头镇]就顺着“秘密入口”进入了水帘洞，而且对于灯光摆放没有什么头绪的话，那么你可以试着把地图上的地形“全部对齐”。提示：正确解法的地图左下方应该留空！||
 
+## 通关！
 
-提示一: ||This puzzle requires multiple moves, keep that in mind when setting up your grid.||
-
-
-提示二: ||There is no arrangement of tiles that will light up a full path from the outside of the fungus to the next slider.||
-
-
-提示三: ||You can move tiles around even while standing inside the fungus patch (assuming you're on a lit up space).||
-
-
-
-
-谜底： ||Place the power station light in the center of the grid, the other light tile in the top left, and 滑块六 in the top middle. Enter the fungi field, and stand in the row where there is no rock on the right side. Slide 滑块六 to the right, and then move the single light tile underneath 滑块六. You can then pick up 滑块七.||
-
-
-
-
-## 滑块八
-
-
-What's this? A rat has stolen 滑块八, and is now running away! Time for your best Tom and Jerry impression. 
-
-
-提示： ||The rat is faster, but you're smarter. Take advantage of the mechanics you've used so far, and your ability to move them.||
-
-
-谜底： ||You can either corner the rat to catch it or chase it onto some removed fungi and then take away the light to regrow it. Either way, you now have 滑块八.||
-
-
-## 滑块九
-
-
-The archeologist has already made a great discovery on tile 8, but she can't quite read the runes. Light up the entire map! It doesn’t matter if the tiles are in the “correct” spots, so long as they are all lit up.
-
-
-提示一: ||Try to avoid "double covering" tiles with multiple lights.||
-
-
-提示二: ||You'll want a light in the center of the map.||
-
-
-提示三: ||The other light should be in the top left or bottom left corner. Pay attention to where the walls are!||
-
-
-谜底： ||There are multiple configurations that work. If you want some direction to work towards, the "correct" tile configuration is also a valid solution (the missing tile will be in the bottom-left). If you've completed the final puzzle in Stonybrook Village, this will be a breeze. When the caves are lit, a short cutscene will play, and then you'll receive 滑块九.||
-
-
-## Area Complete!
-
-
-Congratulations, you finished the Chloro Caves! On the final tile you'll find a gaggle of pirates, along with the archeologist and Chad. Pick up the boating license, because it's your ticket to the Shifting Seas. Head back to the Stonybrook Village pier, and get sailing!
-
+恭喜，你打通了水帘洞！在最后解锁的滑块上，你会找到一帮[海盗]，还有[考古学家]和[大碴]。你需要收集一张[船支驾照]，然后从石头镇的码头上出航！
+(注：在《滑块世界》的设定里驾照是不记名的，只要捡起来就能用……)
 
 ________________
 
+# 翻转海
 
-# Shifting Seas
+我们来到了经典游戏必备的“水下8关”！虽说只有一贯，但与其他游戏的水下关卡相似的是：[翻转海]的滑块有它们独特的“移动”方式。在这关，滑块是转动而不是直线滑动的！
 
+## 滑块2
 
-The Shifting Seas is Slider's water level. Like most water levels, there's a twist: instead of sliding tiles around, you rotate them. There's a lot to do and explore!
+在地图界面，点击[箭头]图标来旋转滑块。
 
+谜底： ||将船靠岸在[起始滑块]上，然后与“X”标记互动，并把[“猫胡子”船长]挖出来，他会给你[滑块2]以答谢。||
 
-## 滑块二
+## 滑块3
 
+你解锁了[鲍勃的酒馆]！可惜鲍勃看不起没有[船锚]的海盗新手 :(
 
-Click on the arrows in the artifact in order to rotate tiles around.
+注意在酒馆的一个角落里有一张滑块，但是被玩[11点]的海盗挡住了。如果你能赢一局骰子，滑块就归你了!
 
+提示： ||你掷出的骰子可能不是很理想，但你可以用一些手段来“逆天改命”！|| 
 
-谜底： ||Move onto the first tile, dock the boat, and walk over to the X. If you interact with the X, you'll dig Catbeard out of the sand, who will thank you and give you 滑块二.||
+谜底： ||在投出骰子之后，你可以通过[移动滑块]来提高点数。移动两次之后，你的总数就到11了。||
 
+## 滑块4
 
-## 滑块三
+终于，你找到了一个[船锚]——《滑块世界》里最有用的道具之一！它允许你[定住]一个滑块。
 
+谜底： ||要收集船锚，你需要开船移动到它边上，然后按“E”键（也就是交互键）拾起，并用“Q”键（也就是切换键）将它收集起来——你也可以一直举着它走，但是这样移动十分缓慢！捡到船锚之后，你需要回到[酒馆]去找[鲍勃]。||
 
-With the tavern unlocked, you can meet Bob and some tavern goers. Bob won't respect you without an anchor though :(. There's a Slider in the corner, blocked by pirates playing a game of dice. If you can defeat them, it's all yours.
+## 滑块5
 
+滑块4解锁后，你可以在上面找到[巫师法兹维]。他正在试图施展一个“乾坤大挪移”法术，但是每次施法的时候他都会从石头上掉下去。
 
-提示： ||You may have lost the initial roll, but you can still shake up the dice.|| 
+提示： ||你正好有一个可以[定住]滑块的道具。||
 
+谜底： ||用船锚防止法兹维站着的滑块移动，并让他再次施放法术。施展完法术后，他会交给你一块[魔法水晶]。你可以转交给[鲍勃]来兑换“酒馆通行证”的积分。||
 
-谜底： ||After rolling, if you move the tile, it will increment the number on the dice. Move the tavern tile two times so that your total adds up to 11. You'll win the game and claim 滑块三||
+## 开放水域
 
+[鲍勃]大手一挥，把所有滑块都解锁了。多么慷慨！为了集齐“酒馆通行证”的积分，你需要进一步探索这些新滑块来解开谜题。
 
-## 滑块四
+你可以通过与鲍勃[对话]来收集关于各个谜题的信息。
 
+### 海难
 
-Finally, the Anchor, one of the most powerful artifacts in Slider! It allows you to pin down a tile.
+海难是最简单的一个谜底。
 
+谜底： ||你需要拼齐[触礁帆船]的两部分。拼齐之后，你可以在它旁边找到一个发光的地点，底下埋着宝藏！||
 
-谜底： ||In order to grab the Anchor, you need to be in the water and move adjacent to it. Then you can pick it up with 'E' (or whatever key action is bound to) and store it with 'Q' (or whatever key cycle is bound to). Once you have the anchor, return to Bob.||
+### 浮标
 
+[渔夫凯文]又把浮标缠住了！你需要再次帮他解开。
 
-## 滑块五
+谜底： ||和石头镇的浮标谜题一样，这些浮标只要多试试就能解开。为了使解谜过程更加方便，你可以尝试将三块[岛屿滑块]移动到右上角（酒馆+两个相邻的沙滩）。||
 
+### 火山
 
-With the 4th slider unlocked, you can visit it and find the wizard Fezziwig. He's trying to cast a spell that moves tiles around, but he keeps falling off his rock.
+这个谜题需要将[火山]放在地图中间，然后把其他[石头]滑块放在周围。
 
+谜底： ||在放好[火山滑块]之后，你可以用船锚定住它，并不断移动周围的任意滑块，直到至少3块石头与它对齐（每块石头对齐时会有一个[蓝色光球]出现在它上方）。为了对齐最后一块石头，你需要把[船锚]从火山上移开，并用它定住一块外围的滑块。||
 
-提示： ||You have a tool that can pin down movement.||
+### 海的面纱
 
+你需要驾船驶入[海上大雾]，并通过一系列的[正确航向]到达终点。关于[航向]的提示散落在地图的各个角落中！
 
-谜底： ||Place the anchor on the tile Fezziwig is on in order to stop him from moving. You can then pick up his Magical Gem reward and turn it into Bob to upgrade your Tavern Pass.||
+提示一: ||航向的提示分三部分：[鲍勃]的对话，[酒馆]里[小孩艾克]的对话，还有酒馆后面的[椰子]。||
 
+提示二: ||航向的顺序是：西，南，西，西，北，西。||
 
-## The Open Seas
+谜底： ||将两片大雾滑块水平摆放在一起，然后进入右边的那一个。接着，向西航行到另一片雾滑块上——注意这时有一个音符被点亮了，这说明你走对了一步！将另一个雾滑块旋转移动到当前滑块的下放，并向南航行到那个滑块上——这时第二个音符会被点亮。用相似的步骤顺着西、西、北、西方向航行。6个音符都被点亮之后，一座[小岛]会从散开的大雾中间出现。||
 
+### 罗密欧与朱丽叶
 
-After you turn in Fezziwig's reward, Bob gives you the rest of the tiles in the area. How generous! Thus, you set off on a journey to plunder the seas of all their treasure. Each item can be turned into Bob in order to upgrade your Tavern Pass. You can finish it when you turn in all of them. 
+[罗密欧]在地图左上角。他正试图将一个漂流瓶寄给右下角的[朱丽叶]。但是每一次漂流瓶都会沉下去。
 
+提示一: ||你需要将“载着”漂流瓶的滑块从地图左上移动到右下。不过在两次移动后，漂流瓶会沉下去。也就是说——你必须在两回合之内让它漂到朱丽叶那一边。||
 
-You can ask Bob for hints in the game as well.
+提示二: ||你需要使用船锚。||
 
+谜底： ||你需要两个[对角移动]才能让瓶子在两回合之内从左上角移动到右下角。如果你将一个滑块定住，那么其他相邻滑块在旋转移动时会[跳过]被定住滑块的位置。如果你定住[中上方]或者[中间行左边]的滑块，然后按[左上角]旋转，漂流瓶就会“跳”到地图中央。拾起[船锚]，并用相似的步骤让漂流瓶“跳”到右下角。||
 
-### Shipwreck
+## 完结
 
+在收集所有宝物之后，你需要帮鲍勃把[酒馆]拼齐。你只需要将三块[岛屿滑块]拼到右上角（包括酒馆滑块和两个与它连接的沙滩）。
 
-The shipwreck is the easiest of all the new puzzles.
-
-
-谜底： ||You need to assemble the two pieces of the shipwreck on the map. If you investigate the area around it, you'll find a glowing spot you can interact with to dig up a Treasure Chest.||
-
-
-### Buoys
-
-
-Kevin is back on one of the beaches and asks for your help to untangle his buoys again.
-
-
-谜底： ||It can help if you move the three main island pieces to the top-right in their respective spots. Otherwise just keep trying to move the buoys to the correct spots.||
-
-
-### Volcano
-
-
-The Volcano puzzle requires you to place the volcano in the middle, and surround it with the other tiles with rocks.
-
-
-谜底： ||After placing the volcano tile in the middle, you can anchor it and rotate the other tiles until 3 of the rocks line up. You can tell they line up when the blue orb appears over them. For the last one, try anchoring one of the outer tiles instead of the volcano to finish adjusting.||
-
-
-### The Foggy Seas
-
-
-The Foggy Seas require you to travel the two foggy tiles in a specific order. You can get clues from several sources around the ocean.
-
-
-提示一: ||The hints are given from Bob, the short child Ike in the tavern, and behind the tavern under the coconuts.||
-
-
-提示二: ||The sequence is West, South, West, West, North, West.||
-
-
-谜底： ||Start with both foggy tiles next to each other horizontally. Then, move from the right tile West, and it will light up one of the notes. Then, rotate the tiles so the other one is below yours, and move South onto it. The second note will be lit up. Continue this for West, West, North, West, until all 6 notes light up and reveal a hidden island.||
-
-
-### Romeo and Juliette
-
-
-Romeo and Juliette are seeking each other again. Romeo is on the top-left of the map trying to send a note to Juliette on the bottom-right, but it keeps sinking before it reaches her.
-
-
-提示一: ||The bottle moves once whenever you move any tiles, and sinks after two moves. This means you have to get it to Juliette in two moves.||
-
-
-提示二: ||The solution involves the Anchor.||
-
-
-谜底： ||In order to move the bottle in two moves from the top-left to bottom-right, you need to make two diagonal moves. This can be done with the Anchor. If you put an anchor on the top-center or left-center tiles, you can rotate the tiles so that one of them makes a diagonal move. You can pick up the anchor and repeat the process to deliver the bottle with 2 diagonal moves.||
-
-
-## Wrapping Up
-
-
-After collecting all of the treasures from the seas, Bob asks you to put everything back to where it should be, one last time. You only need to place the three main island pieces in the top right (The one with the tavern, and the two beaches connected to it).
-
-
-Then, Bob cuts down the trees blocking the way to Canopy Town.
-
+接着，鲍勃会帮你砍下阻挡你进入[树冠园区]的大树。
 
 ________________
 
+# 树冠园区
 
-# Canopy Town
+树冠园区里有一个制作[图形]的初创企业。你需要找到各种设备的正确摆放方式，从而生产、合并各种图形，满足客户的需求。
 
-
-Canopy Town features shape production and combination in a messy start up. You'll have to move Blobs so that they make and combine shapes to fulfill customers' orders.
-
-
-## 滑块二+三
-
+## 滑块2+3
 
 Welcome to the Jungle! To start off you have to learn how to use the huts, though they won't do much with only one.
 
-
 谜底： ||Go upstairs using the ladder and talk to the person upstairs. He asks you to "Send some sticks up", which you can do by interacting with the signs on the Spawner until it has a stick symbol and an up arrow. Then, that guy tells you to go back down and report that the job has been completed.||
 
-
-## 滑块四
-
+## 滑块4
 
 It's time to start production. Barron asks you to give him a Stick and a Circle.
 
-
 谜底： ||You can get a stick by sending a Stick into the hole. The Blobs will jump in the hole and you can pick their item up in the area downstairs, on the blanket by the big tree. To make a Circle, send two semi-circles to the same sign and they will combine.||
 
-
-## 滑块五
-
+## 滑块5
 
 Customers are asking for a Fish and a Boat. You'll have to find a configuration to combine the components to make them.
 
-
 Fish 谜底： ||`<img src="Images/JungleFish.jpg" class="img-responsive" alt="Fish Solution">`||
-
 
 Boat 谜底： ||`<img src="Images/JungleShip.jpg" class="img-responsive" alt="Ship Solution">`||
 
-
-## 滑块六
-
+## 滑块6
 
 It's time for a race. With Chad!
 
-
 ### Setting up the Race
-
 
 There are a number of race cones representing the horizontal track between where Chad starts and the bell on the fat tile. To set up the track, place tile 5 to the left of tile 2/3. Before you can race though, Chad asks for a flag.
 
-
 Flag 谜底： ||`<img src="Images/JungleFlag.jpg" class="img-responsive" alt="Flag Solution">`||
-
 
 ### Winning the Race
 
-
 Now that the race is set up, you can start an attempt by talking to Chad while the race track is set up. But he's so fast! And if you break the track during the race, he stops it and calls you out for cheating.
-
 
 提示一: ||Focus on the rules of the race -- what are the exact conditions for it starting or ending?||
 
-
 提示二: ||You will have to use the Artifact to win.||
-
 
 谜底： ||In order to beat Chad, you have to move faster than him. You can use the Artifact to move a tile, which moves faster than Chad. While you can't break the race track, you can move other tiles. To win, set up the race track and place a tile below your starting point. Start the race, hop onto the other tile, and move it all the way to the right. Then you can run up to the bell and ring it before Chad gets there.||
 
-
-## 滑块七
-
+## 滑块7
 
 Chad is defeated! You have picked up the Boots of Speed and the 6th tile with a duplicator on it. Now, we have three new orders for production as well: Crutches, a Bandage, and the Fish Bowl.
 
-
 Crutches 提示： ||Some recipes require you to merge three shapes at once.||
-
 
 Fish Bowl 提示一: ||The Fish Bowl requires 5 components to make.||
 
-
 Fish Bowl 提示二: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
-
 
 Crutches 谜底： ||`<img src="Images/JungleCrutch.jpg" class="img-responsive" alt="Crutches Solution">`||
 
-
 Bandage 谜底： ||`<img src="Images/JungleBandage.jpg" class="img-responsive" alt="Bandage Solution">`||
-
 
 Fish Bowl 谜底： ||`<img src="Images/JungleFishBowl.jpg" class="img-responsive" alt="Fish Bowl Solution">`||
 
-
-## 滑块八
-
+## 滑块8
 
 The hardest customers have arrived. It's time to make the Minecart and the Rails.
 
-
 提示一: ||Think about how many components each Shape takes to make. The Minecart requires 6 total, and the Rails requires 7 total.||
-
 
 提示二: ||Try figuring out where the Duplicator tile has to be first, and build the rest of the tiles around it.||
 
-
 Minecart 谜底： ||`<img src="Images/JungleMinecart.jpg" class="img-responsive" alt="Minecart Solution">`||
-
 
 Rails 谜底： ||`<img src="Images/JungleRails.jpg" class="img-responsive" alt="Rails Solution">`||
 
-
-## 滑块九
-
+## 滑块9
 
 The area is... done? You pick up the 9th tile, but everything is still jumbled. The only way to fix this is to find another artifact: The Scroll of Realigning. Our journey continues in the Desert!
 
-
-
-
 ________________
-
 
 # The Impact Zone
 
-
 The Impact Zone is the fifth level, which contains an important relic to finish Canopy Town. Instead of moving one tile at a time, all the tiles slide in one direction!
 
-
-## 滑块二
-
+## 滑块2
 
 The river from the jungle leads up here! Try to get used to how tiles move, talk to the crocodile, and explore the edges of the map.
 
-
 提示： ||The camper in the top right of the map holds the next tile.||
-
 
 谜底： ||On the first tile, cross the bridge and go down to find a log. Pick up the log and bring it to the campfire in the off-map section in the top right of the grid.||
 
-
-## 滑块三 & 4
-
+## 滑块3 & 4
 
 With the Oasis now on the map, try to connect it with the river piece so Crocodile can prepare.
 
-
 提示： ||Use the anchor to lock down one of the tiles!||
-
 
 谜底： ||Walk onto either tile, lock it down with the anchor, then slide the other tile around so that the Oasis is on top of the river.||
 
-
-## 滑块五+六
-
+## 滑块5+6
 
 Time to bring Baboon and Jackal to the party! Go to the tile with three trees on it to see the Baboon or visit the Jackal on the tile with a giant fossil.
 
-
 Baboon 提示一: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon's tree to it.||
-
 
 Baboon 提示二: ||When testing the rope, keep Baboon's tile and the Oasis next to each other.||
 
-
 Baboon 提示三: ||Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and Baboon tiles||
-
 
 Baboon 提示四: ||Shake the Baboon off the rope by separating the Oasis and Baboon's original tile with the anchor.||
 
-
 Jackal 提示一: ||Jackal's new bone is located on the top left of the map.||
-
 
 Jackal 提示二: ||Give Jackal enough momentum by sliding Jackal's tile left towards the bone.||
 
-
 Jackal 谜底： ||Talk to Jackal and progress his dialogue. Bring Jackal to the top left of the map. Once Jackal is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so Jackal can join the party.||
 
-
-## 滑块七
-
+## 滑块7
 
 You'll be able to find Gazelle and Chad in the Casino, but Gazelle's in the VIP only section. To get in, you'll need sunglasses! For now, Go into the casino and find Chad. Put the casino together, bring the dice over to Chad, and beat him at elevens!
 
-
 提示一: ||Moving a Casino tile adds one to the dice on its respective half. Try to keep the Casino together.||
-
 
 提示二: ||When the Anchor is placed on a Casino tile, it sets the die on that tile to 1.||
 
-
 提示三: ||The easiest way to roll an 11 is to start with the two casino tiles next to each other. Set one of them to '2' and then use the anchor to set the other to a '1'. After that, move both tiles until they combine to an 11. Then, despair for Chad!||
 
-
-## 滑块八
-
+## 滑块8
 
 It's time for some mirages!
-
 
 ### Scroll Fragment
 Talk to the VIP near the cactus at the bottom right of the tile with the tail of the giant fossil. Seems like if you can open the safe nearby, he'll give you his sunglasses.
 
-
 提示一: ||When you make a move, the two empty tiles will become a mirage! They show the past version of the two tiles that were originally in that spot.||
-
 
 提示二: ||Standing on a mirage tile and sliding will teleport you back to the present version of the tile in the same location.||
 
-
 谜底： ||Talk to the VIP on the tile with the tail of the giant fossil. Drink the cactus juice. Slide the left side of the casino to activate its mirage. Walk behind the counter on the Casino mirage tile, and slide anywhere to teleport to behind the counter on the normal casino. Grab the Scroll Fragment on the present version of the Casino Tile.||
-
 
 ### Melting the Safe
 
-
 Time to crack open the safe! Seems like there's still some power left in the dinosaur fossil. Go talk to the wizard on the mirage of the head of the fossil.
-
 
 提示一: ||The Scroll Fragment moves the tile in the center to the highlighted empty tile.||
 
-
 提示二: ||To activate the dino laser, connect the mirage head of the fossil to the tail (present or mirage) then talk to the wizard! First line up the fossil, then move both tiles or just the head tile.||
-
 
 提示三: ||Use the Scroll Fragment to "duplicate" the tail tile so that the dino laser can hit the safe on the tail tile.||
 
-
 谜底第一部分： ||To turn on the laser, line up the tail and head fossils on the bottom row with two empty spaces on the top row, slide up. Move onto the mirage head tile and talk to the wizard.||
-
 
 谜底第二部分： ||Next, line the fossils up again with the tail in the center and the head to the right. Make sure there's an empty space in the top-right corner. Use the scroll fragment to move it there so that the laser shoots the safe. Get your reward and to the VIP.||
 
-
 ### Party Time!
-
 
 Now with the shades, talk to Gazelle in the VIP section of the casino and see if you can bring him to the surprise party.
 
-
 谜底： ||Bring the Oasis either to the left or below the right half of the Casino.||
 
-
-## 滑块九
-
+## 滑块9
 
 Seems like the Archeologist is looking at a glowing tablet near some ruins. Reading the ruins shuffles everything! Why am I getting a sense of deja vu?
 
-
 提示： ||Just like the village, try solving one row completely first, and then put the remaining five tiles together. For the most part, this 8 puzzle can be completely solved using just slides, the Scroll Fragment, and the occasional anchor. Don't be afraid to temporarily move one tile out of place so you can fix the order using the Scroll Fragment! (Diagonal moves are super powerful!)||
-
 
 ## Scroll of Realigning
 
-
 Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there's no prize without a trap…
-
 
 提示： ||The room with the Scroll of Realigning is at the bottom of the temple. You may need to pick up some rocks to get there.||
 
-
 谜底： ||Move the rocks by picking them up and walk to the bottom chamber in the map. After the trap activates, click the new shiny tab in the artifact that shows up in place of the Scroll button! Boom, auto solved!||
-
 
 ## Area Complete!
 
-
 Now with the Scroll of Realigning, head back down to fix the Canopy Town, and then eastward towards the Rocket Factory Center!
-
 
 With the Scroll of Realigning, you also unlock two extra powers. You can now Save & Load grids by clicking the => (Save) button and the <= (Load) button. This can be helpful if you want to save a puzzle setup before doing some execution with moving parts.
 ________________
 
-
 # Rocket Factory Center
-
 
 The Rocket Factory is probably Slider's hardest area. It formally introduces power, wires, conveyors, and timed gates. It is also super puzzle dense.
 
-
 ## How do Timed Gates Work?
-
 
 This section is here to spell out how timed gates work, in case you have any confusion about them! Part of the fun is figuring them out and finding the edge cases you can exploit, but it's also spelled out here in case it gets frustrating.
 
-
 The goal of the timed gates is to power all of its inputs within a certain number of moves. You can see the inputs that you need to power as batteries near the gate, or also the LED indicators on the actual gate itself. If you can power all of them, then the gate will stay on forever.
-
 
 The large number on the gate represents how many tile moves you have left. If the gate has a 2 on it, then you only have two tile moves to power the entire gate. Conveyors do not count towards this limit!
 
-
 The moves are only counted once they <i>completely</i> finish though. This means that you can chain together conveyor belt moves in order to squeeze more out of the very last moves.
 
-
-## 滑块一
-
+## 滑块1
 
 You can enter the Factory from the Jungle once you fix the minecart rail line and prove you have the Scroll of Realigning from the Desert. Once inside, you can talk to some NPCs and are introduced to the Timed Gate mechanic.
 
-
 The first slider is in a closet above the starting area.
-
 
 谜底： ||You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This will open the door and let you pick up the 1st Slider.||
 
-
-## 滑块二
-
+## 滑块2
 
 We finally have a slider on the map! We still have to get onto it and explore a bit before we find more Sliders though.
 
-
 Timed Gate: ||To leave the starting area, you'll have to activate the timed gate below the door. This has a button for one of the power sources you can stand on, and the other is a wire which connects to our new tile. Moving the tile may reset the timed gate since it only allows two tile moves.||
-
 
 提示： ||You can use your anchor to hold the button down while you explore areas the door unlocks for you.||
 
-
 谜底： ||Once you are in the top-right part of the map, hitting the switch will open the door (and turn on the conveyor, stranding you). You can then move the conductive bob inside back and forth to get through to the other Slider.||
 
-
-## 滑块三
-
+## 滑块3
 
 Our second slider has some giant magnets on it, which correspond to the giant magnets on the bottom-left of the map. That's where the 3rd slider is as well.
 
-
 提示： ||When powering the magnets, the conveyor won't move the tile.||
-
 
 谜底： ||Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You can safely walk down and pick up the 3rd tile.||
 
-
-## 滑块四
-
+## 滑块4
 
 With 3 tiles, more timed gates means things get a bit more trickier. Three timed gates tricker in fact. 
 
-
 Easy Timed Gate 谜底： ||Start on the tile you just got with the timed gate on the right wall. Line up the tile with the magnets to the left and place the other tile above it. Then, turn on the timed gate and stand on the button to power the wire. Walk to the other tile, stand on the button, and slide the timed gate so the remaining wire is powered.||
-
 
 Hard Timed Gate 提示一: ||Some conveyors can be turned on and off.||
 
-
 Hard Timed Gate 提示二: ||Conveyor moves don't count towards the timed gates.||
-
 
 Hard Timed Gate 提示三: ||Conveyors can move anchored tiles.||
 
-
-
-
 谜底第一部分： ||Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.||
-
 
 谜底第二部分： ||Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other magnet tile. Stand on the button and move the slider onto the conveyor. This will power the second line before the move finishes.||
 
-
-## 滑块五
-
+## 滑块5
 
 With the 4th tile, you are asked to gather several parts in order to 3D print the next Slider. They can be found in 3 different locations around the factory. After you get all 3 pieces you can use the 3D printer and it will make the next slider for you.
 
-
 Locations: ||The Base is on the same tile as the printer, the Walls are in the top-left of the Factory, and the Wires are in the bottom-right of the Factory.||
-
 
 提示： ||One of the parts requires you to get a second item. You have the Anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.||
 
-
 Base 谜底： ||In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the Anchor to conduct the two pylons through the holes in the gate. The you can walk in and pick up the Conductive Bob, and then leave. After that, you can use the Anchor and the Bob to open both doors.||
-
 
 Walls 谜底： ||The walls are behind the giant door in the top-left of the factory. You can power the timed gate near it using the tile with the printer.||
 
-
 Wires 谜底： ||The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push the tile and you can walk to the bottom of the Factory.||
 
-
-## 滑块六
-
+## 滑块6
 
 The puzzle to get the 6th tile involves powering several WiFi points around the Factory, timed-gate style. 
 
-
 提示： ||Use the conveyors to your advantage, especially the window you have while the timed gate is flashing 0.||
-
 
 谜底： ||One solution is to set up the grid so that the server room tile is in the bottom-center and the tile with the wire pointing to the right is in the right-center. You can turn on the Timed Gate and walk to stand on the button to power it. Then, move the tile down so that you create a chain reaction of moves that will power all the WiFi points. You may need to clear some tiles out of the way or power more conveyors.||
 
-
-## 滑块七
-
+## 滑块7
 
 Now, it's time to power the Mega Crystal! But, it needs 6 inputs? And it uses a 0 gate?!
 
-
 提示一: ||If you try and set it up so that all the inputs are powered at the same time, you'll quickly notice that you need some tiles to be in multiple positions at the same time. Which isn't possible!||
-
 
 提示二: ||Timed Gates will stay active as long as a tile is moving.||
 
-
 提示三: ||The Mega Crystal needs to be in the center of the map.||
-
 
 谜底第一部分： ||In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. ||
 
-
 谜底第二部分： ||First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop, and make sure the Mega Crystal is in the center of the map. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.||
-
 
 谜底第三部分： ||After the Crystal is powered, it will overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything, but also send you to the past.||
 
-
-## 滑块八
-
+## 滑块8
 
 We've been transported to the past! Take some time to explore, this should be an easier section.
 
+谜底： ||Gather some conductive bobs and explode the rock in the top-right in order to get access to 滑块8.||
 
-谜底： ||Gather some conductive bobs and explode the rock in the top-right in order to get access to 滑块八.||
-
-
-## 滑块九
-
+## 滑块9
 
 With enough conductive bobs, Fezziwig the wizard is here to help us get back to the future.
 
-
 提示一: ||You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won't just hand it to you.||
-
 
 提示二: ||After powering the crystal for the first time, a time glitch occurs! One of the tiles has been affected and has the Time Calibrator that Fezziwig requested.||
 
-
 提示三: ||In order to get the Time Calibrator, you'll need to unpower the doors while standing between them somehow.||
-
 
 谜底： ||Put a conductive bob on the left of the power pylons, but such that it's on the other tile. Then, you can go between the doors and move the Slider in order to disconnect the pylons. After that, power Fezziwig's crystal again and go back to the future!||
 
-
 ## Area Complete!
-
 
 Congratulations, you finished the hardest area! After fixing the Rocket Factory, the Foreman will task you with helping the Military in the Flats as well as retrieving gems from the Crystal Mines. You can do them in either order!
 
-
-
-
 ________________
-
 
 # The Flats
 
-
 The Flats region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
-
 
 This area features a lot of randomness, so there is no explicit solution. However, we can try to give some tips.
 
-
 - Try to win as often as you can (or tie if you can't). The first few waves of aliens will always go the same, but then it's up to you to maximize your potential.
-
 
 - You don't have to use the supply reinforcements right away. Oftentimes it can be worth it to consider waiting until a better moment to create the troop.
 
-
 - There are six waves total, with an increasing number of enemies. Additionally you will get a reinforcement roughly for every other Slider you pick up.
-
 
 -The next wave will spawn once all the aliens in the current wave are defeated. Once there are 1-2 aliens left, try to rearrange the map and toops to prepare for the next wave.
 
-
 -Try to keep the map as open as possible. It's easier to escape a bad situation by sliding 2-3 tiles away vs moving a flag. Place sliders with walls near the edge of the map. 
-
-
-
 
 ________________
 
-
 # The Crystal Mines
-
 
 The Crystal Mines is the eighth area and one of the most challenging in the game. This area contains a 3D grid, ice, lava, crystals, and a massive network of minecart tracks to navigate. 
 
-
 ## Accessing the Crystal Mines
-
 
 Accessing the Crystal Mines is less straightforward than other areas. Per the directions of the Factory's Foreman, you can follow the rail line from the factory to the Chloro Caves. Unfortunately, that entrance is blocked, and you'll have to find another way in.
 
-
 提示： ||That massive door in the caves has a split power line attached to it.||
-
 
 谜底： ||Use the anchor to bridge the gap in the wire on the top-left tile in the caves. This will open the large door, granting access to the Crystal Mines.||
 
-
-## 滑块二
-
+## 滑块2
 
 Poor Bobbyjim is frozen in ice! You must learn how ice and lava work in order to free him
 
-
 提示： ||Ice melts when within range of lava and freezes when on the top layer with no lava in range.||
-
 
 谜底： ||Move the slider so you can walk on it. Move it to the top layer to freeze the small ice patch and walk to Bobbyjim. Move the tile back to the bottom left corner of the lower layer in order to melt the ice around Bobbyjim.||
 
-
-## 滑块三
-
+## 滑块3
 
 A basement resides on slider 2, but the door is locked and blocked by a frozen crate. You'll need to find a way to break the crate and obtain the key.
 
-
 Crate 提示： ||What large, heavy, metal object do you have that's perfect for smashing stuff?||
-
 
 Key 提示一: ||Bobbyjim needs a bucket of lava. The craftsman on the lower layer can provide||
 
-
 Key 提示二: ||The lava pool on the newly obtained slider can be used to fill the bucket. But how?||
-
 
 Crate 谜底： ||Use the anchor to smash the crate in front of the door.||
 
-
 Key 谜底第一部分： ||Visit Burt the Craftsman on the bottom left of the bottom layer. He will generously give you a bucket for free. Bring it back to Jimbobby.||
-
 
 谜底第二部分： ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it.|| 
 
-
-## 滑块四
-
+## 滑块4
 
 This massive water wheel generates power for a variety of contraptions. Unfortunately, the gears have frozen over!
-
 
 提示一: ||The river that runs along the left side of the top layer can provide flowing water.||
 
 提示二: ||How have you gotten rid of ice before? You'll need a different method for each gear.||
 
-
 提示三: ||If you anchor a tile on the top layer, it won't fall if there is another tile underneath.||
-
 
 谜底： ||On the top layer, put the water wheel tile in the bottom left and the basement slider above it. The lava will melt the top gear. Place the remaining slider under the waterwheel on the bottom layer, then use the anchor to break the ice on the bottom gear.||
 
-
-
-
-## 滑块五
-
+## 滑块5
 
 The next slider contains a crystal processing machine and a giant ice patch with a minecart rail across it. 
-
 
 ### Obtaining the Minecart
 After so long of being taunted by minecart tracks, you can finally obtain a minecart by clearing out the cave-in on the bottom right of the map.
 
-
 提示： ||You'll need a lava source in order to set off the explosives.||
 
-
 谜底： ||Move the slider you just got to the bottom right corner on the lower level. Talk to the NPC near the powered rails to activate the explosives, blowing up the wall and giving you the minecart||
-
 
 ### Minecart Drop
 The giant ice patch on this slider can act as a shortcut for the minecart! Follow the instructions of Muncher to see how it works.
 
-
 谜底： ||Place the ice patch tile directly above the tile with the trees. Drop the minecart onto the rails on the ice patch. Use the Anchor to break the ice and watch the minecart drop below.||
-
 
 ### Crystals
 
 Sara, a researcher from the MRI, is investigating the crystal extractor. To help with her research, you'll need to power the extractor and use the minecart to fill it with crystals. You can start the minecart by placing it on the yellow powered rails. Watch out; if you move a tile while the minecart is full of crystals, they will be destroyed!
 
-
 Power 提示一: ||You can try using the waterwheel, but you won't find a valid setup. Is there another power source available?||
-
 
 Power 提示二: ||There's a generator powering the elevator||
 
-
 谜底： ||Use the Anchor to connect the elevator generator to the exposed wire of the water wheel power line, which will connect to the extractor.||
-
 
 Crystal 提示： ||You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.||
 
 Crystal 谜底： ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:||
 
-
 ||`<img src="Images/MountainT5CrystalsPaint.jpg" class="img-responsive" alt="Mountain First Crystals Setup">`||
 
-
-
-
-## 滑块六
+## 滑块6
 It's time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You'll need a crystal to fix the generator.
-
 
 提示一: ||The minecart will always exit the Crystal Loop on the opposite side from where it entered.||
 
-
 提示二: ||You can use the Crystal Loop lever opposite from the entrance used by the minecart to trap the minecart the loop.||
-
 
 提示三: ||You can move tiles while the minecart is in the Crystal Loop.||
 
-
 谜底： ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.||
-
 
 ||`<img src="Images/MountainT6_1Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 1">`||
 
 ||This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:||
 
-
 ||`<img src="Images/MountainT6_2Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 2">`||
-
 
 ||Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
 
-
-## 滑块七
+## 滑块7
 We finally meet the lead engineer of the Crystal Mines, and she has the pipe to repair the water wheel heater! She seems rather distressed about her elevator, though. In order to get to the pipe, we will have to help her out.
-
 
 ### Repairing the Heater
 Not being impressed with the ice patch, the engineer wants to see the elevator go down, not just up! You'll need to find a way to send the minecart down the elevator.
 
-
 提示一: ||If you move the tile the minecart is on it'll stop. However, you can move other tiles.||
-
 
 提示二: ||The tile the minecart exits the elevator from is not the tile it uses to go back in.||
 
 谜底： ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:||
 
-
 ||`<img src="Images/MountainT7GoDown1Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 1">`||
 
-
 ||As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!||
-
 
 ||`<img src="Images/MountainT7GoDown2Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 2">`||
 
 ||Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
 
-
-
-
 ### Filling the Heater
 Now it's time to fill that heater with 2 buckets of lava! You'll need to somehow get the lava into your minecart though, and you need to keep the minecart moving.
  
 提示一: ||Take a close look at the lava buckets you've seen previously. Does that shape look familiar?||
-
 
 提示二: ||You have to use the ice patch shortcut or send the minecart down the elevator||
 
@@ -1079,295 +781,197 @@ Now it's time to fill that heater with 2 buckets of lava! You'll need to somehow
 
 谜底第一部分： ||You can pass the minecart under a lavafall to fill it with lava.||
 
-
 谜底第二部分： ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile is. Setup the tiles as shown here:||
 
-
 ||`<img src="Images/MountainT7LavaLoop1Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 1">`||
-
 
 ||The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.||
 
 ||`<img src="Images/MountainT7LavaLoop2Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 2">`||
 
-
 ||When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.||
-
 
 ### Repairing the Gem Extractor
 With the waterwheel running, now we just need to get a new extractor tank. Burt offers to make us one, but at a price: crystals!
 
-
 提示一: ||If you move *any* tile, the crystals in the minecart will be destroyed.||
-
 
 提示二: ||You'll have to use the ice patch again.||
 
-
 提示三: ||The tile with the crane on it is the only way for the minecart to reach Burt with a crystal.||
-
 
 谜底： ||Set up the tiles as shown below:||
 
-
 ||`<img src="Images/MountainT7BurtPaint.jpg" class="img-responsive" alt="Mountain Burt Solution">`||
  
-||Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you 滑块七.||
+||Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you 滑块7.||
 
-
-## 滑块八
-
+## 滑块8
 
 Time to make some crystal goo! You'll need 2 crystals, you can't move the extractor, and once again the minecart must be continuously moving. Because science!
 
-
 提示一: ||You can't move any tiles during the loop. Plan your setup carefully! It will be similar to the setup for the lava loop||
-
 
 提示二: ||The slider with the trees and pile of logs have very similar rail setups||
 
-
 谜底：||There are 2 solutions. Only 1 of them will be possible for you!!! It depends on your previous tile configuration. Don't forget to check the lever states!||
-
 
 ||`<img src="Images/MountainT8_1Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 1">`||
 
-
 ||`<img src="Images/MountainT8_2Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 2">`||
-
-
-
-
-
-
 
 ## Area Complete!
 Time for some hot cocoa at the mountaintop station. After fixing the area, the engineer will give you a crystal sample to take back to the foreman in the Rocket Factory. Once you defeat the aliens in The Flats, you can then access the MRI, the final area in the game!
 ________________
 
-
 # Magic Research Institute (MRI)
-
 
 Welcome to Magic Research Institute, the final level of Slider! This area features present and past versions of tiles, with a desync mechanic centered around the anchor. Start by walking over to the bottom right corner of the map and talk to Alchemist Muta.
 
-
 ## Gems
-
 
 In addition to filling (both) grids, you also have to find 9 gems to power the Gem Fuel machine. You'll probably find most of them as you play, but here are all of the gems in case you missed some.
 
-
 ### Ocean Gem (Blue)
-
 
 Fezziwig has the first gem on the bottom right corner of the map. Go and talk to him.
 
-
 谜底： ||Pick up and deliver gems to the Gem Fuel machine by pressing 'E' (or your key bind for interact).||
-
 
 ### Desert Gem (Orange)
 
-
 After activating the portal to the Impact Zone, go back into the Desert temple and explore some more.
-
 
 谜底： ||The Desert Gem is in the Desert temple, on the newly excavated right side of the underground portion.||
 
-
 ### Military Gem (Purple)
-
 
 It wouldn't be a Magic Research Institute without lasers! Looks like there are some big rocks you can blow up around here, and the Military Gem is in the bottom left corner blocked by one. The laser cannon on the second tile can help clear the way.
 
-
 提示： ||On the laser tile, activate the laser by flipping the switch below the cannon. You can send the laser through the portal.||
-
 
 谜底： ||The Military Gem is on the left side of the past behind a giant rock. Arm the rock with explosives by interacting with the bomb sign near it. You can shoot the laser through the portal, blow up the rock, and collect the gem.||
 
-
 ### Village Gem (Brown)
-
 
 The Village Gem is on the top right of the laser tile. But it's locked behind an electric door activated by a button on the... inside?
 
-
 提示： ||Changing the position of an the past version of an entangled item affects the position of the the present version.||
-
 
 谜底： ||Pick up the past (pink) bob on the past portal tile, and bring it to the top right of the past laser tile. Place it within the box. The present (yellow) version of the bob will be teleported to the same spot in the present and should activate the button on the present laser tile. Return to the present laser tile to pick up the gem. (Make sure nothing is desynced!)||
 
-
 ### Mountory Gem (Mountain and Factory)
 
-
-See the hints for 滑块四.
-
+See the hints for 滑块4.
 
 ### Caves Gem (Teal)
 
-
 The Caves Gem is located on the bottom right side of the map in the past. Use the entangled bobs to get inside.
-
 
 提示： ||You'll have to use the entangled conductive bobs, but no desyncs required!||
 
-
 谜底： ||Use the Anchor to connect the pylons and open the first door. Bring the past bob down and place it behind the first door. Go to the present near the gem machine to pick up the present bob and place it to connect the wires. Pick up the Anchor. Walk through the first door and pick up the past bob. This will reset the present bob's position. Collect the gem, flip the switch, and walk out.||
-
 
 ### Jungle Gem (Green)
 
-
 A wizard in the village in the past has the gem, but he's asking for one million dollars!
-
 
 提示： ||The safe in the desert casino has a lot of money!||
 
-
 谜底： ||The Foreman doesn't want us to use the laser... but Chad can do something about it. Set up the laser so it will fire to the Casino and go through the portal. Set the bombs outside the right side of the casino and Chad will handle turning the laser on. Then, take the money and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.||
-
 
 ### MagiTech Gem (Pink)
 
-
 Go to the 9th tile and talk to the voice on the reflection pool.
-
 
 谜底： ||Use the Scroll of Realigning to put all the MRI back together. Turn in the artifact by advancing the dialogue at the reflection pool.||
 
-
-## 滑块一
-
+## 滑块1
 
 Grab the Ocean Gem, put it in the machine, then talk to Alchemist Muta to get a nifty Gem Transporter and the first Slider.
 
-
 谜底： ||Go past the Gem Fuel machine, pick up the Ocean Gem, and use it near the machine to place it in. Talk to Muta and pick up the Gem Transporter, then pick up the Ocean Gem again.||
 
-
-## 滑块二
-
+## 滑块2
 
 A portal appears; where might it lead? Explore the past to find the next Slider.
 
-
 谜底： ||You can find Chad in the top-left of the past version of the map.||
 
-
-## 滑块三
-
+## 滑块3
 
 By studying fossils from the Impact Zone, MRI scientists have created a super laser! In order to test it out, you'll need to explode a rock and retrieve some oil.
 
-
 提示： ||Dropping the Anchor on a tile causes a desync -- it locks the tile in place, but enables you to move the tile in the other dimension.||
-
 
 谜底： ||Move the laser to the right side of the grid with the portal in the center. Drop the Anchor on the laser tile, take the portal into the past, and move the past laser tile around to the left of the portal. Talk to the bomb sign to blow up the rock. Pick up the Oil, and bring it back to the scientist on the laser tile.||
 
-
-## 滑块四
-
+## 滑块4
 
 Head into the museum, and you'll find the Curator. He tells you a tale of two wizards who died in combat over a shield generator, which is now preserved in the museum. If things had ended differently, perhaps there would be some other remnant from the battle. Can you change history?
 
-
 提示： ||To get access to the present shield generator, give one of the wizards the shield generator in the past.||
-
 
 谜底： ||On the past museum tile, move the pink shield generator to either one of the wizard's boxes. That wizard will win the duel, creating a gem which is preserved in the museum. Go to the present museum tile, grab the present shield generator from the upper floor of the museum, and bring it to the other wizard. On Run back to the museum and talk to the curator and pick up the Mountory Gem while you're at it (Poor curator. His worries came true).||
 
-
-## 滑块五
-
+## 滑块5
 
 On the new tile, there's a VERY hungry worker, who isn't satisfied with just one burger. It's become entangled with the very first burger ever created, which you'll need to steal.
 
-
 提示一: ||While you can bring present entangled items to the past, you can't bring past items to the present without the present version disappearing. That is, unless you could break the rules of time...||
-
 
 提示二: ||If either entangled item is on a desync tile, no pesky time continuity rules apply||
 
+谜底： ||Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. When both burgers are near the worker, he will give you 滑块6||
 
-谜底： ||Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. When both burgers are near the worker, he will give you 滑块六||
-
-
-## 滑块六
-
+## 滑块6
 
 The castle on the past version of the new tile holds the next Slider piece. The only bridge to get there is broken, and a shroom-hatted wizard is somehow afraid of mushrooms?
 
-
 提示： ||Hitting the mushrooms with the laser will cause them to shrink.||
-
 
 谜底： ||Line up the castle and the bridge in one row, and the portal and the laser in another row. Anchor the present portal slider, and move the past portal tile to start a desync.  Move the past portal slider to the same row as the castle. Talk to the shroom-hatted wizard and cross the bridge into the castle.||
 
-
-## 滑块七
-
+## 滑块7
 
 Below the rocket which you'll be riding, an engineer needs four Oils for reserve fuel. Find them inside explodable rocks and nearby.
 
-
 提示一: ||There's one oil hiding on the top right of the rocket launchpad.||
-
 
 提示二: ||The other two oils are inside explodable rocks: one in the past and the other in the present.||
 
-
 提示三: ||To explode the rock in the present, you'll need to pass the laser through the portal twice.||
-
 
 Oil #2 (Present Rocket Tile) 谜底： || Oil #2 is in a pile of supplies on the top right of the rocket tile.||
 
-
 Oil #3 (Past Rocket Tile) 谜底： || Line up the rocket, portal, and laser tiles from left to right, then blow up the rock in the past rocket tile.||
-
 
 Oil #4 (Present Mirror Tile) 谜底： || first line up the rocket, hungry worker tile, and laser on the bottom row, and anchor the present laser tile. The laser should reflect upwards in the middle. Place the portal in the middle of the left side with the museum above it, then place the present explodable rock in the top right corner. Move to the past. There should be a path to desync the past laser tile and move it to the center of the top row. Move the portal one tile right to the center and the rocket up one tile. The laser should start on the bottom right, reflect up into the portal in the middle, loop counter-clockwise in the past, and come out the right side of the present portal. Go explode the present rock and return to the rocket engineer near the launchpad.||
 
+## 滑块8
 
-## 滑块八
-
-
-滑块八 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the entangled lever interactions to get inside.
-
+滑块8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the entangled lever interactions to get inside.
 
 提示： ||Don't forget about the Anchor!||
 
-
 谜底： ||Flip the lever in the past so that the outer door is open. Place the Anchor on the present vault tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the past tile back, or pick up the Anchor while still inside the outer door. This will shut the outer door and open the inner one. Flip the switch to get out.||
 
-
-## 滑块九
-
+## 滑块9
 
 Collect all the gems except the MagiTech Gem, then talk to Alchemist Muta to get the final Slider! You're probably missing the Jungle one, but make sure to check the Gem section above.
 
-
 ## Blast Off!
-
 
 What a journey! Once you've collected all the Gems, talk to Alchemist Muta to get the Gem Fuel pumping to the rocket. Interact with the door near the launchpad, and you'll be on your way to being reunited with your cat! 
 
+感谢您游玩《滑块世界》！
 
-Thanks for playing Slider!
-
-
-# 额外成就
-
+# 额外内容
 
 ## 小面堡
 
+《滑块世界》的每一关里都有一个隐藏的[小面堡]！在打通每一关后，这一关的小面堡是[立刻]可以收集到的，和其他关卡并没有联系。集齐全部9个之后，把它们带到MRI区域的[面包房]，就可以解锁另一个成就。请注意：我们不会在您解锁最后一张滑块的时候立刻触发通关画面——通关画面只有在手动激活“通关装置”时才会被触发。在打通所有地图区域后，你还是有机会在“正式通关”前集齐所有[小面堡]的！
 
-Each area has a hidden Breadge to collect. They are all accessible even after beating the area. If you collect all 9, you can bring them to the bakery in the MRI for an awesome surprise. These are all possible to acquire even if you've collected all the tiles in an area. Good luck!
+## 挑战成就
 
-
-## Challenge Achievements
-
-If you're still hungry for more challenges, each area has a bonus achievement. Most of these achievements require you to finish an area in a specific way, so you'll probably have to do it from a fresh save. Usually using cheats will disable these challenge achievements, but you can use the "Teleport to Area", "Spawn Anchor", and "Scroll + Boots" cheats to get to each of the areas for the achievement (*any cheat disables the speedrunning achievements on that save). There is also a one-hour speedrunning achievement that we think you'll enjoy a lot. Good luck figuring these out!
+如果你还想要更多的挑战，每一个关卡都有一个额外的成就。这些成就大多需要你用“特定方式”完成这一关，所以你有可能需要从新存档开始。请注意：大部分“作弊”手段是与成就系统不兼容的！不过，在使用[传送]、[生成船锚]、或[卷轴+靴子]后还是可以解锁大部分成就的。当然，我们不可能允许你直接跳到最后一关来解锁“速通”成就：使用任何“作弊”手段后，该存档都不能用来达成速通成就！我们保证：本游戏是可以在一小时内速通完毕的——祝各位高玩们开心：）
