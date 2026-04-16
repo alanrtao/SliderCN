@@ -639,19 +639,19 @@ ________________
 
 # 平原
 
-The Flats region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
+平原这一关充满激烈的战斗！你需要指挥你的[机器人大军]和无情的[外星人]进行殊死搏斗（剪刀石头布）。这一关很快就能打通，但是可能需要多尝试几次——你也可以回到地图边缘的起始区域来手动重启。
 
-This area features a lot of randomness, so there is no explicit solution. However, we can try to give some tips.
+这关有很多的随机性，所以我们不会截图展示任何固定的“正确解法”，不过我们有很多提示！
 
-- Try to win as often as you can (or tie if you can't). The first few waves of aliens will always go the same, but then it's up to you to maximize your potential.
+- 注意走位！尝试用你有限的部队多赢几波，然后最后再用平局[换]掉一波外星人（如果实在没办法全胜的话）。
 
-- You don't have to use the supply reinforcements right away. Oftentimes it can be worth it to consider waiting until a better moment to create the troop.
+- 在解锁新的增援后，有时它们并不需要在第一时间被激活：有些情况下，先等一两个回合再激活援军会对形势更有利。
 
-- There are six waves total, with an increasing number of enemies. Additionally you will get a reinforcement roughly for every other Slider you pick up.
+- 总共有6波外星人，每一波会比上一波更强大。每两个新解锁的滑块上就会有一队新的[援军]供你指挥。
 
--The next wave will spawn once all the aliens in the current wave are defeated. Once there are 1-2 aliens left, try to rearrange the map and toops to prepare for the next wave.
+- 当前这波敌人被全部击溃之后，下一波敌人才会到达。你可以试着留住最后一两个敌人，并在与它们交战前事先整理好滑块顺序，提前准备应对下一波。
 
--Try to keep the map as open as possible. It's easier to escape a bad situation by sliding 2-3 tiles away vs moving a flag. Place sliders with walls near the edge of the map. 
+- 让地图中心保持开阔，这样可以最大程度地避免被地形阻拦。试着把带墙壁（或海岸）的格子移到地图边缘，这样它们不会挡路。移动滑块通常比移动旗帜更“有效”，因为旗帜一次只能移动一格，而滑块可以移动两三格！
 
 ________________
 
