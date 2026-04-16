@@ -90,7 +90,7 @@ ________________
 
 ## 滑块2
 
-游戏在“你”（探险家）的家里开始。在捡起古遗物之后，你发现屋外的世界很不对劲。你需要在探索地图来找到第二片滑块。
+游戏在“你”（探险家）的家里开始。在捡起古遗物之后，你发现屋外的世界很不对劲。你需要在探索地图来找到第二张滑块。
 
 提示： ||尝试移动滑块并四处走动。不用担心，滑块的四边并不是空气墙！||
 
@@ -100,11 +100,11 @@ ________________
 
 收集[滑块2]之后，你可以开始在滑块之间走动并探索更多地图边缘的区域。[滑块3]可以很容易地通过[滑块2]来解锁。
 
-谜底： ||将[带着房子的滑块(1)]放到[河流滑块(2)]左边，然后与遗迹边上的[考古学家]对话，她会给你[滑块3]。||
+谜底： ||将[房子滑块(1)]放到[河流滑块(2)]左边，然后与遗迹边上的[考古学家]对话，她会给你[滑块3]。||
 
 ## 滑块4
 
-你解锁了3片滑块，现在是第一关真正开始变难的时候了！想办法走到三面封闭的[滑块3]上，那是解锁下一片滑块的关键。
+你解锁了3张滑块，现在是第一关真正开始变难的时候了！想办法走到三面封闭的[滑块3]上，那是解锁下一张滑块的关键。
 
 提示一: ||不要让你的思路被“拘束”！||
 
@@ -122,7 +122,7 @@ ________________
 
 新解锁的滑块上面又有一座房子，里面有只猫猫——真不错！你需要帮屋外的[朱丽叶]找到她失踪的爱人。
 
-谜底： ||要让有情人重逢，你需要将[带男人的滑块(1)]（也就是带房子的初始滑块）移动到[带女人的滑块(5)]边上（也就是带L形房子的滑块5）。||
+谜底： ||要让有情人重逢，你需要将[罗密欧滑块(1)]（也就是带房子的初始滑块）移动到[朱丽叶滑块(5)]边上（也就是带L形房子的滑块5）。||
 
 ## 滑块7
 
@@ -130,11 +130,11 @@ ________________
 
 提示一: ||渔夫需要鱼，而地图边缘海里的鱼想要游到地图左上方的瀑布那里。不过，现在还没有足够的“河流”滑块可以把两边连起来。你需要先解锁“另外的东西”才能够拼齐河流。||
 
-提示二: ||把[带瀑布的滑块(6)]放到[带“直线河流”的滑块(2)]边上，你会发现滑块上方的遗迹图案是连起来的。||
+提示二: ||把[瀑布滑块(6)]放到[“直线河流”滑块(2)]边上，你会发现滑块上方的遗迹图案是连起来的。||
 
 谜底第一部分： ||你需要找到4片遗迹图案并将它们对齐在一起！仔细观察地图，可以发现有4个滑块的边角上各带着一个“圆形”图案：[瀑布滑块]的右上角、[水平河流滑块]的左上角、[起始房子滑块]的左下角、还有[“半岛”形状滑块]的右下角。||
 
-谜底第二部分： ||把4个角对齐后，会出现一个“魔法箭头”。顺着这个箭头的指向，你可以走到[L形房子滑块(5)]的房子下方，那里有一块发光的石头。与石头互动来解锁下一片滑块。||
+谜底第二部分： ||把4个角对齐后，会出现一个“魔法箭头”。顺着这个箭头的指向，你可以走到[L形房子滑块(5)]的房子下方，那里有一块发光的石头。与石头互动来解锁下一张滑块。||
 
 ## 滑块8
 
@@ -146,7 +146,7 @@ ________________
 
 ## 滑块9
 
-你已经解锁了8片滑块！再想要将它们任意排列的话，想必是十分麻烦了。
+你已经解锁了8张滑块！再想要将它们任意排列的话，想必是十分麻烦了。
 
 ### 大碴
 
@@ -158,7 +158,7 @@ ________________
 
 把遗迹碎片交给[考古学家]之后，她读出上面的铭文，使得地图随机排列了！你需要将地图重新拼齐。
 
-提示： ||这是很经典的“重排九宫”（又称八数字推盘）游戏。对不熟悉的玩家来说，它的一大难点就是时常需要把已经归位的滑块挪开，好给其他滑块腾出过道来。有一种较为直接的解法是：先把一整行/列滑块归位；拼齐之后，这一行/列就不再需要移动了——你可以放心把它们放在一边，然后去解开剩下5片滑块的排列。||
+提示： ||这是很经典的“重排九宫”（又称八数字推盘）游戏。对不熟悉的玩家来说，它的一大难点就是时常需要把已经归位的滑块挪开，好给其他滑块腾出过道来。有一种较为直接的解法是：先把一整行/列滑块归位；拼齐之后，这一行/列就不再需要移动了——你可以放心把它们放在一边，然后去解开剩下5张滑块的排列。||
 
 谜底： ||哈哈，祝你好运 :) `<a href="https://www.wikihow.com/Solve-Slide-Puzzles" target="_blank" rel="noopener noreferrer">https://www.wikihow.com/Solve-Slide-Puzzles</a>`||
 
@@ -174,7 +174,7 @@ ________________
 
 ## 滑块2
 
-你从南边进入了水帘洞。这张地图上已经有一片滑块被解锁了。在这片起始滑块上，你可以遇到一大丛“真菌”，里面藏着一片未收集的滑块。这个洞穴还藏着什么宝物呢？
+你从南边进入了水帘洞。这张地图上已经有一张滑块被解锁了。在这片起始滑块上，你可以遇到一大丛“真菌”，里面藏着一片未收集的滑块。这个洞穴还藏着什么宝物呢？
 
 提示： ||你可以通过起始滑块来探索很大一部分的地图边缘。多走一走，也许能找到些什么！||
 
@@ -190,15 +190,15 @@ ________________
 
 我的天，又一盏灯！想必挡路的真菌已经对你不成问题了。
 
-提示： ||记得[起始滑块]上真菌里藏着的那片滑块么？||
+提示： ||记得[起始滑块]上真菌里藏着的那张滑块么？||
 
-谜底： ||将[起始滑块]放到地图右上角，也就是灯泡左边，然后将[带灯泡的滑块(3)]放到起始滑块下方，就可以走过真菌捡起滑块了！注意：要让灯光与真菌交互，不仅仅需要将它摆放在范围内，还需要在合适的方向上！||
+谜底： ||将[起始滑块]放到地图右上角，也就是灯泡左边，然后将[灯泡的滑块(3)]放到起始滑块下方，就可以走过真菌捡起滑块了！注意：要让灯光与真菌交互，不仅仅需要将它摆放在范围内，还需要在合适的方向上！||
 
 ## 滑块5
 
 新解锁的滑块上有一座[发电站]，不过它并不在运转。这里一片漆黑——你甚至看不见大门！
 
-谜底： ||将[带灯泡的滑块(3)]移到[发电站滑块(4)]底下，这样就能找到大门了。进入发电站之后，和[大碴]对话，就能得到滑块5。||
+谜底： ||将[灯泡滑块(3)]移到[发电站滑块(4)]底下，这样就能找到大门了。进入发电站之后，和[大碴]对话，就能得到滑块5。||
 
 ## 滑块6
 
@@ -271,7 +271,7 @@ ________________
 
 ## 滑块4
 
-终于，你找到了一个[船锚]——《滑块世界》里最有用的道具之一！它允许你[定住]一个滑块。
+终于，你找到了一个[船锚]——《滑块世界》里最有用的道具之一！它允许你[定住]一张滑块。
 
 谜底： ||要收集船锚，你需要开船移动到它边上，然后按“E”键（也就是交互键）拾起，并用“Q”键（也就是切换键）将它收集起来——你也可以一直举着它走，但是这样移动十分缓慢！捡到船锚之后，你需要回到[酒馆]去找[鲍勃]。||
 
@@ -315,7 +315,7 @@ ________________
 
 提示二: ||航向的顺序是：西，南，西，西，北，西。||
 
-谜底： ||将两片大雾滑块水平摆放在一起，然后进入右边的那一个。接着，向西航行到另一片雾滑块上——注意这时有一个音符被点亮了，这说明你走对了一步！将另一个雾滑块旋转移动到当前滑块的下放，并向南航行到那个滑块上——这时第二个音符会被点亮。用相似的步骤顺着西、西、北、西方向航行。6个音符都被点亮之后，一座[小岛]会从散开的大雾中间出现。||
+谜底： ||将两片大雾滑块水平摆放在一起，然后进入右边的那一个。接着，向西航行到另一片雾滑块上——注意这时有一个音符被点亮了，这说明你走对了一步！将另一个雾滑块旋转移动到当前滑块的下放，并向南航行到那张滑块上——这时第二个音符会被点亮。用相似的步骤顺着西、西、北、西方向航行。6个音符都被点亮之后，一座[小岛]会从散开的大雾中间出现。||
 
 ### 罗密欧与朱丽叶
 
@@ -325,7 +325,7 @@ ________________
 
 提示二: ||你需要使用船锚。||
 
-谜底： ||你需要两个[对角移动]才能让瓶子在两回合之内从左上角移动到右下角。如果你将一个滑块定住，那么其他相邻滑块在旋转移动时会[跳过]被定住滑块的位置。如果你定住[中上方]或者[中间行左边]的滑块，然后按[左上角]旋转，漂流瓶就会“跳”到地图中央。拾起[船锚]，并用相似的步骤让漂流瓶“跳”到右下角。||
+谜底： ||你需要两个[对角移动]才能让瓶子在两回合之内从左上角移动到右下角。如果你将一张滑块定住，那么其他相邻滑块在旋转移动时会[跳过]被定住滑块的位置。如果你定住[中上方]或者[中间行左边]的滑块，然后按[左上角]旋转，漂流瓶就会“跳”到地图中央。拾起[船锚]，并用相似的步骤让漂流瓶“跳”到右下角。||
 
 ## 完结
 
@@ -377,7 +377,7 @@ ________________
 
 提示二: ||要赢得竞速，你必须在不破坏规则的情况下使用你的古遗物！||
 
-谜底： ||要打败[大碴]，你需要比平常快许多！作为一个正直守序的好运动员，你可以用古遗物移动[不属于赛道]的任意滑块，这样并不会违背规则。具体地说：你可以在竞速起点的下方放一片滑块，在开始后走到那个滑块上，将它移动到最右边，并向上走到竞速终点。||
+谜底： ||要打败[大碴]，你需要比平常快许多！作为一个正直守序的好运动员，你可以用古遗物移动[不属于赛道]的任意滑块，这样并不会违背规则。具体地说：你可以在竞速起点的下方放一张滑块，在开始后走到那张滑块上，将它移动到最右边，并向上走到竞速终点。||
 
 ## 滑块7
 
@@ -415,225 +415,229 @@ ________________
 
 # 冲击坑
 
-第五关是一个大陨石坑！你需要打通这一关来解锁[对齐卷轴]，好回到[树冠园区]并将乱序的地图修复。这一关的滑块都是沙子做的：如果你移动某一个滑块，所有其他滑块也会[一起移动]！
+第五关是一个大陨石坑！你需要打通这一关来解锁[对齐卷轴]，好回到[树冠园区]并将乱序的地图修复。这一关的滑块都是沙子做的：如果你移动某一张滑块，所有其他滑块也会[一起移动]！
 
 ## 滑块2
 
-The river from the jungle leads up here! Try to get used to how tiles move, talk to the crocodile, and explore the edges of the map.
+[树冠园区]的河流通向一个沙漠关卡！你需要熟悉这里的滑块移动方式，与[鳄鱼]对话，并探索地图边缘。
 
-提示： ||The camper in the top right of the map holds the next tile.||
+提示： ||有一个[露营者]在地图的右上角，他拿着下一张滑块。||
 
-谜底： ||On the first tile, cross the bridge and go down to find a log. Pick up the log and bring it to the campfire in the off-map section in the top right of the grid.||
+谜底： ||从[起始滑块]开始，穿过[桥梁]，并向下行走，直到找到一根[木头]。捡起木头，然后把它交给地图右上方边缘的[露营者]。||
 
 ## 滑块3 & 4
 
-With the Oasis now on the map, try to connect it with the river piece so Crocodile can prepare.
+你解锁了[绿洲滑块(2)]——试着将它摆放在河流旁边，好让[鳄鱼]开始它的准备。
 
-提示： ||Use the anchor to lock down one of the tiles!||
+提示： ||你需要用[船锚]定住某一张滑块！||
 
-谜底： ||Walk onto either tile, lock it down with the anchor, then slide the other tile around so that the Oasis is on top of the river.||
+谜底： ||走到[绿洲]或者[河流滑块]上，并用[船锚]将它定住——这样就可以自由移动剩下那张滑块了。将[绿洲滑块(2)]移动到在[河流滑块(1)]上方！||
 
 ## 滑块5+6
 
-Time to bring 狒狒and 豺狼to the party! Go to the tile with three trees on it to see the 狒狒or visit the 豺狼on the tile with a giant fossil.
+是时候带[狒狒]和[豺狼]过来举办派对了！狒狒在带着三棵树的滑块上，而豺狼在带着巨型化石的滑块上。
 
-狒狒提示一: ||One of the trees on the right side of the Oasis has something tied at its neck. Tie the rope from Baboon's tree to it.||
+狒狒提示一: ||[绿洲滑块(2)]右边的一棵树上系着什么东西。[狒狒]的树上缠着一根长绳。你需要拾起绳子的一段并将它一路牵到绿洲的那棵树上。||
 
-狒狒提示二: ||When testing the rope, keep Baboon's tile and the Oasis next to each other.||
+狒狒提示二: ||狒狒需要对绳子进行“测试”。在测试的时候，[狒狒的当前滑块]必须挨着[绿洲滑块]。||
 
-狒狒提示三: ||Use the anchor to set up the horizontal and vertical slide respectively, or have all four tiles in a 2x2 square. If you have five tiles, have the fifth tile be in the same row as the Oasis and 狒狒tiles||
+狒狒提示三: ||要完成水平和垂直方向的“测试”，你必须使用[船锚]。如果你现在只有4张滑块，那么需要将它们摆成一个2x2的正方形。如果你已经解锁了[滑块5]，那么它应该摆放在[绿洲滑块]和[狒狒滑块]的同一行。||
 
-狒狒提示四: ||Shake the 狒狒off the rope by separating the Oasis and Baboon's original tile with the anchor.||
+狒狒提示四: ||趁狒狒爬上绳子的时候，将绳子一段的滑块用[船锚]定住，并将另一段的滑块移走——这会使绳子断开！||
 
-豺狼提示一: ||Jackal's new bone is located on the top left of the map.||
+豺狼提示一: ||豺狼的[新骨头]在地图边缘的左上方。||
 
-豺狼提示二: ||Give 豺狼enough momentum by sliding Jackal's tile left towards the bone.||
+豺狼提示二: ||将豺狼脚下的滑块摆放到骨头右边，并留出一定的空间。接着，将滑块向左移动，这样豺狼可以借着滑块的移动来[起跳]。||
 
-豺狼谜底： ||Talk to 豺狼and progress his dialogue. Bring 豺狼to the top left of the map. Once 豺狼is on the left border of the giant fossil tile, isolate the top row of the map using the anchor, then slide right two tiles and left two tiles. Bring the Oasis to the top left after so 豺狼can join the party.||
+豺狼谜底： ||与[豺狼]对话，并把它脚下的滑块带到地图的[左上角]——豺狼会自己走到滑块左边。用[船锚]来定住豺狼脚下的滑块，并移走这一行的所有其他滑块。收起船锚，并将豺狼脚下的滑块移到最右边。最后，将滑块移回最左边——豺狼会顺着方向跳起来。谜底揭开后，把[绿洲滑块]挪到地图左上方，这样豺狼就能加入派对了。||
 
 ## 滑块7
 
-You'll be able to find Gazelle and Chad in the Casino, but Gazelle's in the VIP only section. To get in, you'll need sunglasses! For now, Go into the casino and find Chad. Put the casino together, bring the dice over to Chad, and beat him at elevens!
+你可以在赌场找到[羚羊]和[大碴]——不过羚羊在你进不了的VIP区域里。为了伪装成VIP，你需要一副狂拽酷炫的[墨镜]！不过在找到墨镜那之前，你需要先找到[大碴]并和他来一局[骰子游戏]——这次的游戏还是“11点”，不过大碴好像对游戏规则不太了解。
 
-提示一: ||Moving a Casino tile adds one to the dice on its respective half. Try to keep the Casino together.||
+提示一: ||移动任意[赌场滑块]会使滑块上面的骰子点数[增加]1点。试着不要分开赌场的两边。||
 
-提示二: ||When the Anchor is placed on a Casino tile, it sets the die on that tile to 1.||
+提示二: ||用[船锚]定住任意[赌场滑块]时，船锚的冲击力会使骰子[重置]为“1”。||
 
-提示三: ||The easiest way to roll an 11 is to start with the two casino tiles next to each other. Set one of them to '2' and then use the anchor to set the other to a '1'. After that, move both tiles until they combine to an 11. Then, despair for Chad!||
+提示三: ||最方便的解法是：先将两个[赌场滑块]拼到一起，确保一边为“2”，并用[船锚]将另一边重置为“1”。之后，同时移动两张赌场滑块，直到他们相加为11，并让[大碴]绝望！||
 
 ## 滑块8
 
-It's time for some mirages!
+是时候施展[幻术]了！
 
-### Scroll Fragment
-Talk to the VIP near the cactus at the bottom right of the tile with the tail of the giant fossil. Seems like if you can open the safe nearby, he'll give you his sunglasses.
+### 卷轴碎片
 
-提示一: ||When you make a move, the two empty tiles will become a mirage! They show the past version of the two tiles that were originally in that spot.||
+找到带[化石尾巴]的滑块，那张滑块右下角的仙人掌边上有一个“醉”倒的[VIP]。如果你能打开他边上的保险箱，他就把[墨镜]送给你。
 
-提示二: ||Standing on a mirage tile and sliding will teleport you back to the present version of the tile in the same location.||
+提示一: ||当你移动任意滑块时，其余两个空出来的位置会变成[海市蜃楼]！海市蜃楼的内容是被移走的滑块的“过去”版本。||
 
-谜底： ||Talk to the VIP on the tile with the tail of the giant fossil. Drink the cactus juice. Slide the left side of the casino to activate its mirage. Walk behind the counter on the Casino mirage tile, and slide anywhere to teleport to behind the counter on the normal casino. Grab the Scroll Fragment on the present version of the Casino Tile.||
+提示二: ||如果你身在[海市蜃楼]里，并试图移动任意滑块的话，你会被传送到海市蜃楼对应的“当前”滑块上。||
 
-### Melting the Safe
+谜底： ||与[化石尾巴滑块]边上的[VIP]对话，并喝下[仙人掌汁]。移动[赌场滑块（左）]以激活它的海市蜃楼——在海市蜃楼的“过去”赌场里，吧台是可以任意走进去的。走到海市蜃楼里的[吧台]后面，然后移动任意滑块以回到“现在”，就可以拿到酒保藏在吧台后面的[卷轴碎片]。||
 
-Time to crack open the safe! Seems like there's still some power left in the dinosaur fossil. Go talk to the wizard on the mirage of the head of the fossil.
+### 打开保险箱
 
-提示一: ||The Scroll Fragment moves the tile in the center to the highlighted empty tile.||
+是时候打开[保险箱]了！看起来[恐龙化石]里还剩下一些“能量”——你可以在化石的海市蜃楼版本边找到[巫师]，并与他对话。
 
-提示二: ||To activate the dino laser, connect the mirage head of the fossil to the tail (present or mirage) then talk to the wizard! First line up the fossil, then move both tiles or just the head tile.||
+提示一: ||卷轴碎片（地图界面右上角的按钮）会将地图正中间的滑块移动到被你选中的空白格子上。||
 
-提示三: ||Use the Scroll Fragment to "duplicate" the tail tile so that the dino laser can hit the safe on the tail tile.||
+提示二: ||要启动化石里藏着的[激光炮]，你需要将[化石头骨（海市蜃楼）]连接到[化石尾巴（任意版本）]上，然后与巫师对话。先将化石对齐，再同时移动化石两边（或只移动头骨滑块）。||
 
-谜底第一部分： ||To turn on the laser, line up the tail and head fossils on the bottom row with two empty spaces on the top row, slide up. Move onto the mirage head tile and talk to the wizard.||
+提示三: ||用[卷轴碎片]来“复制”[化石尾巴滑块]，这样激光可以击中化石尾巴边上的保险箱。||
 
-谜底第二部分： ||Next, line the fossils up again with the tail in the center and the head to the right. Make sure there's an empty space in the top-right corner. Use the scroll fragment to move it there so that the laser shoots the safe. Get your reward and to the VIP.||
+谜底第一部分： ||将拼齐的两张[化石滑块]放置到地图下方，并确保这两张滑块的上方是空着的。同时向上移动两张[化石滑块]，并与[巫师]对话。||
 
-### Party Time!
+谜底第二部分： ||接着，将[化石尾巴]移动到地图中央、[化石头骨]移动到尾巴右边。确保地图右上方是空着的。使用卷轴碎片将[保险箱]移动到右上方的空地上，好让化石头骨的激光将其击穿。拿到保险箱里的存款，并与[VIP]对话。||
 
-Now with the shades, talk to Gazelle in the VIP section of the casino and see if you can bring him to the surprise party.
+### 派对时间到！
 
-谜底： ||Bring the Oasis either to the left or below the right half of the Casino.||
+你拿到了[墨镜]！去和赌场的VIP区域与[羚羊]对话，并让它加入惊喜派对。
+
+谜底： ||将[绿洲滑块]移动到[赌场滑块（右）]的左边或者下边。||
 
 ## 滑块9
 
-Seems like the Archeologist is looking at a glowing tablet near some ruins. Reading the ruins shuffles everything! Why am I getting a sense of deja vu?
+[考古学家]在遗迹附近寻找一块“发光的石板”。读出石板上的铭文后，“想不到”地图又被随机排列了！
 
-提示： ||Just like the village, try solving one row completely first, and then put the remaining five tiles together. For the most part, this 8 puzzle can be completely solved using just slides, the Scroll Fragment, and the occasional anchor. Don't be afraid to temporarily move one tile out of place so you can fix the order using the Scroll Fragment! (Diagonal moves are super powerful!)||
+提示： ||就像[石头镇]的最后谜题一样：试着先正确排列一整行/列，再将那一行/列搁在一边，并去排列另5张滑块。唯一的区别是：这次你可能会需要使用[船锚]和[卷轴碎片]。（斜向移动是很有用的）！||
 
-## Scroll of Realigning
+## 神秘卷轴
 
-Head into the temple, move aside some rubble, and pick up the Scroll of Realigning. Though there's no prize without a trap…
+在神庙里，挪开一些碎石后就可以找到卷轴了。不过，你和考古学家被陷阱困住了！
 
-提示： ||The room with the Scroll of Realigning is at the bottom of the temple. You may need to pick up some rocks to get there.||
+提示： ||存放着[对齐卷轴]的房间在神庙的最下方。你需要挪开一些石头才能走到那里。||
 
-谜底： ||Move the rocks by picking them up and walk to the bottom chamber in the map. After the trap activates, click the new shiny tab in the artifact that shows up in place of the Scroll button! Boom, auto solved!||
+谜底： ||用交互键拾起并移开石头，并一路走到地图下方。在陷阱激活后，点击地图界面上[亮着]的按钮（也就是原先卷轴碎片的按钮）。卷轴会激活并复原整张地图！||
 
-## Area Complete!
+## 通关！
 
-Now with the Scroll of Realigning, head back down to fix the Canopy Town, and then eastward towards the Rocket Factory Center!
+你拿到了[对齐卷轴]！回到沙漠南边的[树冠园区]，并用卷轴将它正确排列，然后就可以前往东边的[火箭工厂]了。
 
-With the Scroll of Realigning, you also unlock two extra powers. You can now Save & Load grids by clicking the => (Save) button and the <= (Load) button. This can be helpful if you want to save a puzzle setup before doing some execution with moving parts.
+[对齐卷轴]还有一个额外的功能：你可以用“=>（存档）”键来[保存]当前的地图状态，并用“<=（读档）”键来[读取]之前保存的状态。碰到接下来的难题时，你可以先[保存]某一个谜题的前一部分，然后再尝试不同的解法——如果解不开，可以[读档]并从头开始。
+
 ________________
 
-# Rocket Factory Center
+# 火箭工厂
 
-The Rocket Factory is probably Slider's hardest area. It formally introduces power, wires, conveyors, and timed gates. It is also super puzzle dense.
+[火箭工厂]可以说是《滑块世界》最难的一关了。这一关会引入多个新的机制，包括[电力]，[电线]，还有[时限门]！
 
-## How do Timed Gates Work?
+## “时限门”到底是什么鬼东西？
 
-This section is here to spell out how timed gates work, in case you have any confusion about them! Part of the fun is figuring them out and finding the edge cases you can exploit, but it's also spelled out here in case it gets frustrating.
+为了最大程度保留[摸索未知机制的底层逻辑]的乐趣，我们并没有为火箭工厂的[时限门]机制做太多解释。不过，既然你在认真阅读这一段说明，也许你并没有沉浸在解谜的快乐中吧……别担心，我们会将它解释清楚！
 
-The goal of the timed gates is to power all of its inputs within a certain number of moves. You can see the inputs that you need to power as batteries near the gate, or also the LED indicators on the actual gate itself. If you can power all of them, then the gate will stay on forever.
+所有时限门谜题的最终目标都是在[特定步数]内激活时限门的所有[输入]。这里的[输入]是指时限门边上像[灯管]一样并连着电缆的东西。要激活一个输入，你仅需要把它通上一次电（就算之后断电也不要紧！只要没有到达步数上线，灯管会一直亮着）。如果你能够激活所有输入，那么时限门会永久保持打开的状态。
 
-The large number on the gate represents how many tile moves you have left. If the gate has a 2 on it, then you only have two tile moves to power the entire gate. Conveyors do not count towards this limit!
+时限门边上的[屏幕]上显示着剩余步数，在步数归零之后，所有的输入都会清零！打比方说，如果显示的是“2”，那么你只能够移动滑块2次。那么，什么算作“一次移动”呢？
 
-The moves are only counted once they <i>completely</i> finish though. This means that you can chain together conveyor belt moves in order to squeeze more out of the very last moves.
+在[手动]移动滑块后，直到移动所导致的所有变化[完全静止]前，步数的变化是[不会被结算]的。如果你用清零前的最后一步将一张滑块移到[传送带]上，而后传送带又继续“自主地”推动了那张滑块，那么时限门会等到传送带完成之后再清零——也就是说，如果传送带的自主活动可以激活所有余下的时限门输入，那么时限门就能在“正式清零”前被解开了！
 
 ## 滑块1
 
-You can enter the Factory from the Jungle once you fix the minecart rail line and prove you have the Scroll of Realigning from the Desert. Once inside, you can talk to some NPCs and are introduced to the Timed Gate mechanic.
+在修好雨林区域的[矿车]和[轨道],并拿到沙漠的[对齐卷轴]之后，你就可以进入[火箭工厂]了。在工厂中，你可以从NPC的对话中学习到[时限门]机制。
 
-The first slider is in a closet above the starting area.
+[起始滑块]在地图边缘起始区域上方的一个封闭空间内。
 
-谜底： ||You'll have to activate the timed gate with the broken screen and power all three buttons connected to it. This will open the door and let you pick up the 1st Slider.||
+谜底： ||你需要通过按下3个踏板来激活[屏幕坏掉的时限门]，然后就可以捡起起始滑块了。||
 
 ## 滑块2
 
-We finally have a slider on the map! We still have to get onto it and explore a bit before we find more Sliders though.
+你终于拿到了第一张滑块！不过，该怎么走到滑块上去呢？
 
-Timed Gate: ||To leave the starting area, you'll have to activate the timed gate below the door. This has a button for one of the power sources you can stand on, and the other is a wire which connects to our new tile. Moving the tile may reset the timed gate since it only allows two tile moves.||
+时限门： ||要离开起始区域，你需要首先激活上一个[时限门]下方的[另一扇门]。这扇门的一个输入是踏板，而另一个是可以与[起始滑块]连接的[电线]。注意：[时限门]之所以叫这个名字，是因为它在一定的“步数”（也就是你手动移动滑块的次数）之后重置！你需要在两步之内将[起始滑块]上的电线接到时限门的[输入]上面。||
 
-提示： ||You can use your anchor to hold the button down while you explore areas the door unlocks for you.||
+提示： ||你可以用[船锚]压住踏板并打开[起始滑块]上的门，再通过移动[起始滑块]来探索地图边缘的各个区域。||
 
-谜底： ||Once you are in the top-right part of the map, hitting the switch will open the door (and turn on the conveyor, stranding you). You can then move the conductive bob inside back and forth to get through to the other Slider.||
+谜底： ||当你到达到达地图边缘的右上方，你需要打开一个[开关]——它会打开一旁关着的门，但同时也会激活[传送带]，并把[起始滑块]移走！你需要用栅栏另一边的[导电铁球]来先后控制边上的两扇大门，捡起[滑块2]，并走出栅栏区域。||
 
 ## 滑块3
 
-Our second slider has some giant magnets on it, which correspond to the giant magnets on the bottom-left of the map. That's where the 3rd slider is as well.
+新解锁的滑块上有一座[巨型电磁铁]——它与地图边缘左下角的另一个磁铁相对应，[滑块3]就在那另一个磁铁的旁边！
 
-提示： ||When powering the magnets, the conveyor won't move the tile.||
+提示： ||通上电的[磁铁]会吸到一起，并卡住传送带。||
 
-谜底： ||Stand on the button and move the tile to the bottom left. Then, while on the edge of the button, place the anchor down so the button stays powered even when you leave. You can safely walk down and pick up the 3rd tile.||
+谜底： ||站到踏板上，并将[磁铁滑块(2)]移动到地图左下角。踩在踏板的边缘上，并朝踏板中心扔下船锚——这样你就不用一直踩着踏板了。接着，走下[磁铁滑块]并在地图边缘的另一座磁铁旁边拾起[滑块3]||
 
 ## 滑块4
 
-With 3 tiles, more timed gates means things get a bit more trickier. Three timed gates tricker in fact. 
+你已经解锁了3张滑块。谜题逐渐变难了——准确来说，它有[三个时限门]那么难！
 
-Easy Timed Gate 谜底： ||Start on the tile you just got with the timed gate on the right wall. Line up the tile with the magnets to the left and place the other tile above it. Then, turn on the timed gate and stand on the button to power the wire. Walk to the other tile, stand on the button, and slide the timed gate so the remaining wire is powered.||
+简单时限门谜底： ||从你刚刚解锁的滑块开始，也就是[右边有时限门的滑块(3)]。将它移动到地图右边，并将[磁铁滑块]放在它的左边，余下的滑块放在它的上边。然后，手动重置时限门的步数，并猜到踏板。走到另一个滑块的踏板上，并将那个滑块移动到[传送带]上。传送带会在时限门再次重置前将你送到最后一个输入前。||
 
-Hard Timed Gate 提示一: ||Some conveyors can be turned on and off.||
+困难时限门提示一: ||有些传送带是可以随便[打开]和[关闭]的。||
 
-Hard Timed Gate 提示二: ||Conveyor moves don't count towards the timed gates.||
+困难时限门提示二: ||传送带的[自主运动]不会被算作“时限门步数”。只有你手动移动滑块时，时限门步数才会减一。||
 
-Hard Timed Gate 提示三: ||Conveyors can move anchored tiles.||
+困难时限门提示三: ||传送带可以移动带[船锚]的滑块。||
 
-谜底第一部分： ||Start with the top-right conveyor turned off. Set up the tiles so that the one with the door on the right is on the center-right. Then, put the first tile with the door on top in the top-right, and the tile with magnets in the top-center.||
+谜底第一部分： ||首先，确保地图右上的[传送带]是静止的。将[右边有门的滑块(3)]移动到地图中间行最右边，然后将[上方有门的滑块(1)]移动到地图右上，最后将[磁铁滑块（2）]移动到最上一行正中间。||
 
-谜底第二部分： ||Turn on the bathroom timed gate. Place your anchor on the top-right tile and turn on the conveyor to move it down. The timed gate should have one of the lines powered without using any moves. You can then walk onto the other magnet tile. Stand on the button and move the slider onto the conveyor. This will power the second line before the move finishes.||
+谜底第二部分： ||首先，重置[厕所时限门]的步数。将船锚掷到地图右上角的滑块上，并开启[传送带]，将滑块向下移动——这样可以在[不消耗任何步数]的条件下激活其中一个输入。接着，走到[磁铁滑块]上，踩住踏板并将滑块移动到[传送带]上——这样做可以在时限门步数“正式结算”前激活第二个输入。||
 
 ## 滑块5
 
-With the 4th tile, you are asked to gather several parts in order to 3D print the next Slider. They can be found in 3 different locations around the factory. After you get all 3 pieces you can use the 3D printer and it will make the next slider for you.
+在新解锁的滑块上，你会发现自己需要收集几个[部件]来3D打印下一个滑块。这些部件在工厂的不同地点。集齐这3个部件之后，你就可以使用3D打印机了。
 
-Locations: ||The Base is on the same tile as the printer, the Walls are in the top-left of the Factory, and the Wires are in the bottom-right of the Factory.||
+[部件]地点: ||[地基]和3D打印机在同一个滑块上。[墙壁]在工厂左上角。[电缆]在右下角。||
 
-提示： ||One of the parts requires you to get a second item. You have the Anchor already, but you need to somehow free the Conductive Bob from the gated area in the top-right of the map so that you can use it.||
+提示： ||其中一个部件需要你先拿到两个[可导电的物品]：其中一个是你的[船锚]，另一个是地图边缘右上角的[导电球]。||
 
-Base 谜底： ||In order to access the base, you need to power both lines to open both doors. To do this, you need two items, like the above hint mentions. You can free the Conductive Bob by using the Anchor to conduct the two pylons through the holes in the gate. The you can walk in and pick up the Conductive Bob, and then leave. After that, you can use the Anchor and the Bob to open both doors.||
+[地基]谜底： ||要拿到[地基]，你需要同时通上[两根电线]以打开[两扇门]——这需要[两个导电物品]。如上一条提示所说，你需要进入地图边缘右上角的栅栏区域，并把[导电球]取出来：你需要先将[船锚]放在栅栏的洞边上，这样它可以代替导电球来连接两边的电源。通上电后，你就可以进入栅栏区域，并把导电球拿出来了。接着，你需要用[磁铁滑块]右边的踏板（和[船锚]）来打开[3D打印机滑块]下方的门。||
 
-Walls 谜底： ||The walls are behind the giant door in the top-left of the factory. You can power the timed gate near it using the tile with the printer.||
+[墙壁]谜底： ||[墙壁]在地图左上角[巨型大门]的后边。你需要将[3D打印机滑块]上的电源接到大门的电线上，然后就可以打开大门并捡起[墙壁]了。||
 
-Wires 谜底： ||The wires are in the bottom-right of the Factory. Normally, the conveyor in the way will move tiles so you can't get there. However, if you jam three tiles in the bottom row of the grid, then the conveyor won't be able to push the tile and you can walk to the bottom of the Factory.||
+[电缆]谜底： ||[电缆]在工厂地区的右下角——一般来说，传送带会在你走到地图边缘前把你推走。不过，如果你事先将传送带那一行的左边两格[填上]，然后再把一张滑块移动到传送带上，传送带会被卡住。这样你就有足够时间可以走到地图边缘了。||
 
 ## 滑块6
 
-The puzzle to get the 6th tile involves powering several WiFi points around the Factory, timed-gate style. 
+要得到滑块6，你需要激活工厂周围的多个[WiFi热点]才能将新解锁滑块上的[时限门]打开。注意：[WiFi热点]会被标注在地图上。
 
-提示： ||Use the conveyors to your advantage, especially the window you have while the timed gate is flashing 0.||
+提示： ||在时限门闪烁“所剩步数0”的同时，你需要用[传送带]做到很多事情！||
 
-谜底： ||One solution is to set up the grid so that the server room tile is in the bottom-center and the tile with the wire pointing to the right is in the right-center. You can turn on the Timed Gate and walk to stand on the button to power it. Then, move the tile down so that you create a chain reaction of moves that will power all the WiFi points. You may need to clear some tiles out of the way or power more conveyors.||
+谜底： ||一种解法是：将[电脑机房滑块]放在最下行正中间，并把[右边带电缆的滑块]放到中间行最右边。重置时限门，并走到踏板上激活其中一个输入。然后，将[当前滑块]向下移动到传送带上。这会接连导致[连锁反应]并激活所有的WiFi热点。取决于你的具体布置，你有可能会需要事先将滑块移动的路径清理开，并启动正确的传送带。||
 
 ## 滑块7
 
-Now, it's time to power the Mega Crystal! But, it needs 6 inputs? And it uses a 0 gate?!
+是时候激活[巨型水晶]了！但是，它需要6个输入，而且步数为0？！
 
-提示一: ||If you try and set it up so that all the inputs are powered at the same time, you'll quickly notice that you need some tiles to be in multiple positions at the same time. Which isn't possible!||
+提示一: ||如果你尝试“同时”激活所有输入，那么你很快就会发现：至少有一张滑块需要同时出现在在不同地方——这是不可能做到的！||
 
-提示二: ||Timed Gates will stay active as long as a tile is moving.||
+提示二: ||只要有滑块还在移动，时限门就不会重置。||
 
-提示三: ||The Mega Crystal needs to be in the center of the map.||
+提示三: ||你需要[巨型水晶]放在地图中央。||
 
-谜底第一部分： ||In order to solve the puzzle, you need to set up a loop of conveyors so that they're always moving. That way, each of the inputs can be powered as the loop moves tiles around the Mega Crystal. ||
+谜底第一部分： ||要解开这个谜题，你需要用[传送带]来[循环]推动水晶周边的滑块。在循环运动的过程中，不同的电源会分别与不同的输入连接，直到最后所有输入都被激活！||
 
-谜底第二部分： ||First, use the conveyor override to make sure the conveyor belts aren't active. Then power all of the conveyor belts around the factory. Finally, before you re-enable them, make sure that the server room is powered so that the top two inputs can be powered during the loop, and make sure the Mega Crystal is in the center of the map. Turn on the conveyor loop and watch as everything gets powered! You'll need to stand on buttons or use the Anchor or Conductive Bob to weigh them down. Make sure to not power the magnets such that they stop the tile and the loop.||
+谜底第二部分： ||首先，确保[巨型水晶]在地图的正中心，并打开旁边的开关来禁用所有传送带，这样你就能一个个打开所有传送带，而不至于被推走。确保[电脑机房]的电源是打开的，这样水晶上方的两个输入可以被它激活。这些准备都做好之后，回到[巨型水晶滑块]并把“禁用”开关关上，让所有的传送带都运转起来。在移动的同时，你需要使用[导电球]或者[船锚]来压住一些踏板。注意:不要启动[磁铁]，否则它会将传送带卡住！||
 
-谜底第三部分： ||After the Crystal is powered, it will overload and cause a black out. You'll then have to use the crystal tile to power the server room and talk to Gene to run the server script. This will reset everything, but also send you to the past.||
+谜底第三部分： ||在[巨型水晶]激活后，它会[过载]并导致整张地图停电。你需要用[巨型水晶滑块]来给[电脑机房]供电，与机房的吉恩对话，并运行[重启]代码。这会重启电脑，但是也会把你传送回过去！||
 
 ## 滑块8
 
-We've been transported to the past! Take some time to explore, this should be an easier section.
+你回到了过去！这一部分的地图很开阔，你可以随意探索。
 
-谜底： ||Gather some conductive bobs and explode the rock in the top-right in order to get access to 滑块8.||
+谜底： ||从地图周围收集[导电球]，并用它们引爆地图右上角的炸药，炸开挡路的石头。石头炸开后就可以捡起[滑块8]了。||
 
 ## 滑块9
 
-With enough conductive bobs, Fezziwig the wizard is here to help us get back to the future.
+[巫师法兹维]也在这里！你需要帮他找到足够的[导电球]才能激活水晶并回到未来。
 
-提示一: ||You have enough conductive bobs on the map to power the crystal. You can get one from Chad Sr., but he won't just hand it to you.||
+提示一: ||捡起地图上所有的导电球之后，你会发现还差一个。[大碴初代]拿着那一个剩下的[导电球]——你需要把他电晕！||
 
-提示二: ||After powering the crystal for the first time, a time glitch occurs! One of the tiles has been affected and has the Time Calibrator that Fezziwig requested.||
+提示二: ||在激活水晶后，一个[时间漏洞]出现了！地图上的一个滑块被时间漏洞影响，而法兹维想找的[时间校准仪]就在上面。||
 
-提示三: ||In order to get the Time Calibrator, you'll need to unpower the doors while standing between them somehow.||
+提示三: ||要拿到[时间校准仪]，你需要站在[时间漏洞]的里面，并同时断开给它供电的电源。||
 
-谜底： ||Put a conductive bob on the left of the power pylons, but such that it's on the other tile. Then, you can go between the doors and move the Slider in order to disconnect the pylons. After that, power Fezziwig's crystal again and go back to the future!||
+谜底： ||将一个导电球放在[导电柱]左边的另一张滑块上，但确保它离电源足够近。然后，你可以走进[时间漏洞]，并把导电球下面的滑块移走，这样就能断开电流了。之后，你需要再次激活大水晶，并回到未来！||
 
-## Area Complete!
+## 通关！
 
-Congratulations, you finished the hardest area! After fixing the Rocket Factory, the Foreman will task you with helping the Military in the Flats as well as retrieving gems from the Crystal Mines. You can do them in either order!
+恭喜，你打通了《滑块世界》最难的一关！修好[火箭工厂]之后，[工头]会给你另外两个任务：帮助[平原]区域的军队防御外星人入侵，并且拿到[矿山]区域的水晶。这两个任务是互相独立的，没有特定的顺序！
+
+（虽然原文是这么说，译者认为最难一关还是后面的矿山……）
 
 ________________
 
-# The Flats
+# 平原
 
 The Flats region has you fighting, commanding your Robot army to defeat the apathetic Aliens. You get as many tries as you want to win this rock-paper-scissors area.
 
@@ -651,9 +655,9 @@ This area features a lot of randomness, so there is no explicit solution. Howeve
 
 ________________
 
-# The Crystal Mines
+# 水晶矿区
 
-The Crystal Mines is the eighth area and one of the most challenging in the game. This area contains a 3D grid, ice, lava, crystals, and a massive network of minecart tracks to navigate. 
+水晶矿区是本游戏的第八关——也是最难的一关之一！这一关有“三维”的立体地图机制，以及[冰冻]、[岩浆]、[水晶]、和庞大的[矿车轨道]网络！
 
 ## Accessing the Crystal Mines
 
