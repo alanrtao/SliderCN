@@ -659,173 +659,182 @@ ________________
 
 水晶矿区是本游戏的第八关——也是最难的一关之一！这一关有“三维”的立体地图机制，以及[冰冻]、[岩浆]、[水晶]、和庞大的[矿车轨道]网络！
 
-## Accessing the Crystal Mines
+## 进入水晶矿洞
 
-Accessing the Crystal Mines is less straightforward than other areas. Per the directions of the Factory's Foreman, you can follow the rail line from the factory to the Chloro Caves. Unfortunately, that entrance is blocked, and you'll have to find another way in.
+[水晶矿洞]的入口要比其他几张地图的更加难找。就像[工头]所说的，你可以沿着铁路从[工厂]走到[水帘洞]。不过，当你走到了水帘洞，你会发现铁路进入矿山区域的入口被封住了。你需要在附近找到另一个入口！
 
-提示： ||That massive door in the caves has a split power line attached to it.||
+提示： ||水帘洞区域有一个巨型大门，边上有一根断掉的电缆。||
 
-谜底： ||Use the anchor to bridge the gap in the wire on the top-left tile in the caves. This will open the large door, granting access to the Crystal Mines.||
+谜底： ||在水帘洞左上角找到大门，并用[船锚]来连接电缆两端。||
 
 ## 滑块2
 
-Poor Bobbyjim is frozen in ice! You must learn how ice and lava work in order to free him
+可怜的[包比吉]冻成冰块了！你需要熟悉矿山区域的[冰]和[岩浆]机制，才能把他救出来。
 
-提示： ||Ice melts when within range of lava and freezes when on the top layer with no lava in range.||
+提示： ||在岩浆周围的冰会[解冻]。当周围没有岩浆、且在矿山[上层]的的时候，化掉的冰会重新冻上。||
 
-谜底： ||Move the slider so you can walk on it. Move it to the top layer to freeze the small ice patch and walk to Bobbyjim. Move the tile back to the bottom left corner of the lower layer in order to melt the ice around Bobbyjim.||
+谜底： ||从[起始滑块]开始，将它移动到矿山[上层]——这会将包比吉前面的冰块冻上。顺着冻上的冰面走到包比吉旁边，然后再将滑块移回下层的左下角，使包比吉解冻。||
 
 ## 滑块3
 
-A basement resides on slider 2, but the door is locked and blocked by a frozen crate. You'll need to find a way to break the crate and obtain the key.
+滑块2上面有一间[小仓库]——可惜门被锁上了，而且被一个冻在地上的木箱子阻挡着。你需要找到[破坏木箱]的方法，并收集到[钥匙]。
 
-Crate 提示： ||What large, heavy, metal object do you have that's perfect for smashing stuff?||
+[木箱]提示： ||你是否有一个又[大]又[重]的[金属]物件可以用来砸碎箱子？||
 
-Key 提示一: ||Bobbyjim needs a bucket of lava. The craftsman on the lower layer can provide||
+[钥匙]提示一: ||包比吉需要[一桶岩浆]。矿山下层有一个[工匠]可以提供铁桶。||
 
-Key 提示二: ||The lava pool on the newly obtained slider can be used to fill the bucket. But how?||
+[钥匙]提示二: ||最新解锁的滑块2上有一个[岩浆池]。该如何用它来填满铁桶呢？||
 
-Crate 谜底： ||Use the anchor to smash the crate in front of the door.||
+[木箱]谜底： ||用[船锚]来砸开木箱。||
 
-Key 谜底第一部分： ||Visit Burt the Craftsman on the bottom left of the bottom layer. He will generously give you a bucket for free. Bring it back to Jimbobby.||
+[钥匙]谜底第一部分： ||在矿山下层左下角地图边缘找到[工匠波特]。他会免费给你一个[铁桶]。把它带到包比吉旁边。||
 
-谜底第二部分： ||Set up the soldier with the lava bucket on the bottom row of the bottom layer. Place the slider with the basement on it in the top row of the top layer. The lava will drip over the edge and fill the bucket. Talk to Bobbyjim to get the key. Once inside the basement, smash a few crates to get the frozen Slider. You can break it with the Anchor or pick it up and bring it near a lava source to melt it.|| 
+谜底第二部分： ||把[铁桶]放置在包比吉边上，然后将[起始滑块]移动到下层的下面一行。将[岩浆池滑块(2)]放到上层的上面一行——注意：岩浆会顺着滑块边缘流下！将岩浆流与铁桶对齐，并填满铁桶，帮[包比吉]解冻。与他对话后，你会获得一把[钥匙]。用它打开滑块2上的[仓库门]，并走进仓库，用船锚砸碎几个木箱，找到“冻上的滑块”。你可以用[船锚]砸开滑块上的冰，或者将它带到[岩浆]旁边解冻。||
 
 ## 滑块4
 
-This massive water wheel generates power for a variety of contraptions. Unfortunately, the gears have frozen over!
+这座巨大的[水轮]可以为各种设备提供电力。不过，它的齿轮被冻上了！
 
-提示一: ||The river that runs along the left side of the top layer can provide flowing water.||
+提示一: ||地图上层左侧的[河流]可以给水轮提供水源。||
 
-提示二: ||How have you gotten rid of ice before? You'll need a different method for each gear.||
+提示二: ||你需要分别使用两种不同的方式来分别给两个齿轮解冻。||
 
-提示三: ||If you anchor a tile on the top layer, it won't fall if there is another tile underneath.||
+提示三: ||一般来说，在地图上层使用[船锚]会把滑块本身砸到下层——除非正下方有另一张滑块“垫着”。||
 
-谜底： ||On the top layer, put the water wheel tile in the bottom left and the basement slider above it. The lava will melt the top gear. Place the remaining slider under the waterwheel on the bottom layer, then use the anchor to break the ice on the bottom gear.||
+谜底： ||首先，将[水轮滑块]放在地图上层的左下方。将[岩浆池滑块]放在上层左上方，并以此解冻其中一个齿轮。接着，将余下的那张滑块“垫”在[水轮滑块]底下，并用[船锚]砸碎水轮上剩余的冰。||
 
 ## 滑块5
 
-The next slider contains a crystal processing machine and a giant ice patch with a minecart rail across it. 
+新的滑块上有一个[水晶萃取机]，边上是一大片冰。冰面上方有一条[铁轨]。
 
-### Obtaining the Minecart
-After so long of being taunted by minecart tracks, you can finally obtain a minecart by clearing out the cave-in on the bottom right of the map.
+### 获得矿车
 
-提示： ||You'll need a lava source in order to set off the explosives.||
+矿山区域的[铁轨]可不是摆设！清理开下层右下角地图边缘的区域，就可以解锁一辆[矿车]。
 
-谜底： ||Move the slider you just got to the bottom right corner on the lower level. Talk to the NPC near the powered rails to activate the explosives, blowing up the wall and giving you the minecart||
+提示： ||你需要用[岩浆]来引爆炸药。||
 
-### Minecart Drop
-The giant ice patch on this slider can act as a shortcut for the minecart! Follow the instructions of Muncher to see how it works.
+谜底： ||将你刚刚解锁的滑块移动到地图下层的右下角。与[动力铁轨]边上的NPC对话，就可以引爆炸药了。在石头障碍被炸开之后，你会获得一辆[矿车]。||
 
-谜底： ||Place the ice patch tile directly above the tile with the trees. Drop the minecart onto the rails on the ice patch. Use the Anchor to break the ice and watch the minecart drop below.||
+### 矿车“速降”
 
-### Crystals
+顺着“怪人”的提示，你可以为矿车打开一条[穿过冰面]的捷径。
 
-Sara, a researcher from the MRI, is investigating the crystal extractor. To help with her research, you'll need to power the extractor and use the minecart to fill it with crystals. You can start the minecart by placing it on the yellow powered rails. Watch out; if you move a tile while the minecart is full of crystals, they will be destroyed!
+谜底： ||将[冰面滑块]放在[大树滑块]的正上方，并将矿车放置在经过冰面的铁轨中间。用[船锚]砸开冰面，矿车就会掉下去！||
 
-Power 提示一: ||You can try using the waterwheel, but you won't find a valid setup. Is there another power source available?||
+### 水晶
 
-Power 提示二: ||There's a generator powering the elevator||
+MRI的[研究员萨拉]正在检查这个[水晶萃取机]。要帮助她完成项目，你需要将萃取机充上电，并用[矿车]把水晶运送到机器里。要使矿车“发车”，你需要将它放置到发光的[动力轨道]上。小心：在满载矿石的矿车移动的时候，任何滑块的移动都会“震坏”它们！
 
-谜底： ||Use the Anchor to connect the elevator generator to the exposed wire of the water wheel power line, which will connect to the extractor.||
+电源提示一: ||你也许会想用[水轮]供电，但是这样行不通！可以试着找一找[其他的电源]。||
 
-Crystal 提示： ||You can form a single, continuous track from the powered rails to the crystal depositor to the crystal extractor. Make sure to pay attention to which direction the junctions are pointing.||
+电源提示二: ||[电梯]的边上有一个[备用发电机]。||
 
-Crystal 谜底： ||Place the crystal extractor slider in the bottom left of the lower layer. To the right put the basement slider, and above it place the waterwheel slider. Place the remaining slider in the last spot on the bottom layer. Make sure the switches on the basement tile are both on and the upper switch of the crystal loop is off. Send the minecart around the track and watch it pick up and deposit a crystal. The tile setup looks like this:||
+谜底： ||用[船锚]将电梯的[备用发电机]和水轮边上的[暴露电缆]连接起来。这会给萃取机充上电！||
+
+水晶提示： ||你可以拼出一条从[动力轨道]开始，途径矿石堆中间的[装填站]，并一直开到[萃取机]的道路。注意沿途的各个[轨道分叉点]！||
+
+水晶谜底： ||将[水晶萃取机]放在地图下层的左下角，并在它的右边放上[仓库滑块]、上边（同一层）放上[水轮滑块]。将余下的那张滑块放在地图下层的最后一个空位。确保[仓库滑块]上的两个开关都是开着的，而[水晶环路滑块]上方的开关是关上的。用[动力轨道]发动矿车后，就能看着它装上水晶并将其送进[萃取机]了！具体布置如下图：||
 
 ||`<img src="Images/MountainT5CrystalsPaint.jpg" class="img-responsive" alt="Mountain First Crystals Setup">`||
 
 ## 滑块6
-It's time to run the experiment. Unfortunately, the power overwhelms the generator, causing both it and the crystal extractor to be damaged. Looks like we have to fix them. You'll need a crystal to fix the generator.
 
-提示一: ||The minecart will always exit the Crystal Loop on the opposite side from where it entered.||
+是时候开始实验了。可惜，[备用发电机]经不起考验，和[萃取机]一同炸坏了！不过我们有办法将它们修好——我们首先需要用一点[水晶矿]来修好电源。
 
-提示二: ||You can use the Crystal Loop lever opposite from the entrance used by the minecart to trap the minecart the loop.||
+提示一: ||矿车从一端进入[水晶环路]之后，总是会驶向环路的[另一边]。||
 
-提示三: ||You can move tiles while the minecart is in the Crystal Loop.||
+提示二: ||只要在矿车驶出环路前，将环路另一边的轨道分叉[合上]，就能把矿车困在一个循环内。||
 
-谜底： ||Set up the 4 tiles on the bottom as you did previously. Make sure the left lever on the basement tile is off, the bottom right lever on the forest tile is off, and the middle left lever on the forest tile is on.||
+提示三: ||当矿车在水晶环路上[循环]的时候，你可以放心移动滑块——因为水晶碎掉之后总会有下一批被装上车！||
+
+谜底： ||下层的四张滑块与上一个谜题的摆法相同，不过这次你需要确保[仓库滑块]左边的开关关着、[森林滑块]右下角的开关关着，并且[森林滑块]中间靠左的开关是开着的。||
 
 ||`<img src="Images/MountainT6_1Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 1">`||
 
-||This time, send the minecart around to the left. Make sure the bottom switch on the forest tile is off. Once the minecart is in the loop, move the tiles to form this configuration:||
+||发动矿车并使其向地图左边行驶。确保[森林滑块]右下角的开关是关上的。当矿车开进环路之后，滑块按照以下方法摆放：||
 
 ||`<img src="Images/MountainT6_2Paint.jpg" class="img-responsive" alt="Mountain First Experiment Part 2">`||
 
-||Then, flip the bottom switch to release the minecart from the loop. Make sure the top lever on the forest tile is on. The minecart will deliver a crystal to the generator, fixing it and powering the elevator again.||
+||接着，打开最下方的开关并让矿车离开环路。确保[森林滑块]最上方的开关是打开的。矿车会把一车水晶送到发电机旁边，NPC修把发电机修好之后，电梯就通上电了。||
 
 ## 滑块7
-We finally meet the lead engineer of the Crystal Mines, and she has the pipe to repair the water wheel heater! She seems rather distressed about her elevator, though. In order to get to the pipe, we will have to help her out.
 
-### Repairing the Heater
-Not being impressed with the ice patch, the engineer wants to see the elevator go down, not just up! You'll need to find a way to send the minecart down the elevator.
+你终于见到了水晶矿山的[总工程师]，她正好有修复水轮所需要的[管子]！不过她对她设计的电梯好像“不甚满意”。要拿到管子，你需要先帮助她。
 
-提示一: ||If you move the tile the minecart is on it'll stop. However, you can move other tiles.||
+### 修好供热管
 
-提示二: ||The tile the minecart exits the elevator from is not the tile it uses to go back in.||
+工程师并不喜欢所谓的“冰面捷径”，她想看到有人使用电梯的[下山]功能。只要找到一个方法来让矿车从地图上层进入电梯，就能用上电梯的下山功能了。
 
-谜底： ||First, turn on the left lever and turn off the right lever on the basement tile. Setup the tiles like this:||
+提示一: ||在矿车行驶时，强行移动它当前的滑块会使其停止。但是，你可以随便移动其他的滑块。||
+
+提示二: ||矿车上山并驶出电梯后，电梯门口的那张滑块需要被替换掉。矿车不可能顺着那张滑块上的铁轨重新开回电梯里。||
+
+谜底： ||首先，将[仓库滑块]左边的开关打开，并关上右边的开关。然后按下图布置铁轨：||
 
 ||`<img src="Images/MountainT7GoDown1Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 1">`||
 
-||As the minecart makes its way to the top layer, slide tiles to create this configuration. You'll have to flip the left lever on the basement tile to the off position. Make sure not to move the tile the minecart is on!||
+||趁矿车开进电梯并被运上山的时候，按照下图来重新摆放滑块。你需要关上[仓库滑块]左边的开关。注意：不要挪动矿车正在驶过的滑块！||
 
 ||`<img src="Images/MountainT7GoDown2Paint.jpg" class="img-responsive" alt="Mountain Down the Elevator Part 2">`||
 
-||Once the minecart goes down the elevator, talk to the engineer and she will move out of the way. Grab the pipe and use it to fix the heater.||
+||矿车被电梯运下山后，再次与[工程师]对话。在她让开路之后，你就可以拿到[备用管子]并修好供热管了。||
 
-### Filling the Heater
-Now it's time to fill that heater with 2 buckets of lava! You'll need to somehow get the lava into your minecart though, and you need to keep the minecart moving.
+### 装填供热管
+
+是时候用[岩浆]来填满[供热管]了！你需要运送两车岩浆，并确保矿车全程保持移动——因为一个“不为人知的神秘原因”，供热管的岩浆会在矿车停下时全部漏出去！
  
-提示一: ||Take a close look at the lava buckets you've seen previously. Does that shape look familiar?||
+提示一: ||仔细看看你曾经使用过的[岩浆桶]。它的形状是不是很熟悉？||
 
-提示二: ||You have to use the ice patch shortcut or send the minecart down the elevator||
+提示二: ||你需要用[冰面捷径]或者[电梯]送矿车下山。||
 
-提示三: ||You can't make a full loop yet: one of the tiles will have to move a little.||
+提示三: ||你不能靠拼出一个“完整的循环”来一口气运送两车岩浆：在运送的过程中，你至少需要更改一个滑块的位置。||
 
-谜底第一部分： ||You can pass the minecart under a lavafall to fill it with lava.||
+谜底第一部分： ||矿车可以被正上方的岩浆“瀑布”填满。||
 
-谜底第二部分： ||Make sure the left lever of the basement tile is on, the right lever on the basement tile is off, and the bottom right lever of the forest tile is. Setup the tiles as shown here:||
+谜底第二部分： ||确保[仓库滑块]左边的开关是打开的，而右边的开关是关上的。打开[森林滑块]右下角的开关，并按照下图摆放滑块：||
 
 ||`<img src="Images/MountainT7LavaLoop1Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 1">`||
 
-||The minecart will fill with lava when passing under the lavafall. After dropping the minecart at the station, run to the giant ice patch. Once the minecart enters the elevator, slide the forest tile down, under the ice patch.||
+||矿车经过[岩浆瀑布]下方后会被岩浆填满。在发车之后，你需要跑到上层的冰面旁边。当矿车开上电梯之后，将[森林滑块]向下移动至冰面正下方（如图）。||
 
 ||`<img src="Images/MountainT7LavaLoop2Paint.jpg" class="img-responsive" alt="Mountain Lava Loop Part 2">`||
 
-||When the minecart is near or on the ice, drop the anchor to break the ice. Once the minecart exits the forest tile, slide it back up to the elevator. The minecart will fill with lava once more. Once it reaches the heater, it will begin to fill with lava. When the heater is full, it will activate, unfreezing the waterwheel.||
+||当矿车接近冰面的时候，用[船锚]破坏冰面——矿车会落下并驶出下方的[森林滑块]。接着，你需要将[森林滑块]重新挪回上层，也就是电梯边上。在这期间，矿车会再一次装上岩浆。当第二车岩浆运进供热管之后，岩浆会慢慢开始在机器中循环，最后给整个水轮解冻！||
 
-### Repairing the Gem Extractor
-With the waterwheel running, now we just need to get a new extractor tank. Burt offers to make us one, but at a price: crystals!
+### 修好萃取机
 
-提示一: ||If you move *any* tile, the crystals in the minecart will be destroyed.||
+[水轮]终于修好了，现在我们只需要拿到一个新的[罐子]来修好[萃取机]。[工匠波特]说他可以给我们造一个出来，但是费用只能用[水晶]支付！
 
-提示二: ||You'll have to use the ice patch again.||
+提示一: ||当你移动*任何*滑块时，矿车内的水晶都会被震碎！||
 
-提示三: ||The tile with the crane on it is the only way for the minecart to reach Burt with a crystal.||
+提示二: ||你需要再次利用[冰面捷径]。||
 
-谜底： ||Set up the tiles as shown below:||
+提示三: ||矿车只能通过[起重机滑块]开进波特的商店。||
+
+谜底： ||如图布置滑块：||
 
 ||`<img src="Images/MountainT7BurtPaint.jpg" class="img-responsive" alt="Mountain Burt Solution">`||
  
-||Get a crystal from the loop, send it up the elevator, through the ice, and deliver it to Burt. He will give you an extractor tank, which you can use to repair the extractor. Once it is repaired and powered, Sara will give you 滑块7.||
+||从环路那里拉上一车水晶，然后将矿车送上电梯，再从冰面上掉下去，最后开进波特的商店。收到水晶后，波特会给你一个[萃取机罐子]。用它修好[萃取机]并通上电之后，[研究员萨拉]会将[滑块7]交给你。||
 
 ## 滑块8
 
-Time to make some crystal goo! You'll need 2 crystals, you can't move the extractor, and once again the minecart must be continuously moving. Because science!
+是时候提炼[水晶燃料]了！你需要两批水晶矿。因为《滑块世界》的神奇拍脑门设定，在提炼的过程中，矿车必须一直保持移动，而且你不可以移动[矿石精炼仪]！
 
-提示一: ||You can't move any tiles during the loop. Plan your setup carefully! It will be similar to the setup for the lava loop||
+提示一: ||在矿车行驶过程中是不能移动任何滑块的，所以务必小心规划！这一关的解法和[岩浆运送]那一关很相似。||
 
-提示二: ||The slider with the trees and pile of logs have very similar rail setups||
+提示二: ||[大树滑块]和[原木堆滑块]的轨道走向是很相似的。||
 
-谜底：||There are 2 solutions. Only 1 of them will be possible for you!!! It depends on your previous tile configuration. Don't forget to check the lever states!||
+谜底：||基于你当前的滑块摆放方式，下面两种解法中只有其中一个会是可用的。别忘了检查沿途轨道分叉的走向！||
 
 ||`<img src="Images/MountainT8_1Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 1">`||
 
 ||`<img src="Images/MountainT8_2Paint.jpg" class="img-responsive" alt="Mountain Final Solve Possibility 2">`||
 
-## Area Complete!
-Time for some hot cocoa at the mountaintop station. After fixing the area, the engineer will give you a crystal sample to take back to the foreman in the Rocket Factory. Once you defeat the aliens in The Flats, you can then access the MRI, the final area in the game!
+## 通关！
+
+是时候来一杯热可可了。修复矿山区域后，[工程师]会给你一个[水晶样品]来交给火箭工厂的[工头]。当你打败[平原区域]的外星人之后，你就可以进入《滑块世界》的最后一个区域——MRI了！
+
 ________________
 
 # Magic Research Institute (MRI)
