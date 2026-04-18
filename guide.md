@@ -413,7 +413,7 @@ ________________
 
 ________________
 
-# 冲击坑
+# 撞击坑
 
 第五关是一个大陨石坑！你需要打通这一关来解锁[对齐卷轴]，好回到[树冠园区]并将乱序的地图修复。这一关的滑块都是沙子做的：如果你移动某一张滑块，所有其他滑块也会[一起移动]！
 
@@ -627,7 +627,7 @@ ________________
 
 提示三: ||要拿到[时间校准仪]，你需要站在[时间漏洞]的里面，并同时断开给它供电的电源。||
 
-谜底： ||将一个导电球放在[导电柱]左边的另一张滑块上，但确保它离电源足够近。然后，你可以走进[时间漏洞]，并把导电球下面的滑块移走，这样就能断开电流了。之后，你需要再次激活大水晶，并回到未来！||
+谜底： ||将一个导电球放在[导电桩]左边的另一张滑块上，但确保它离电源足够近。然后，你可以走进[时间漏洞]，并把导电球下面的滑块移走，这样就能断开电流了。之后，你需要再次激活大水晶，并回到未来！||
 
 ## 通关！
 
@@ -819,7 +819,7 @@ MRI的[研究员萨拉]正在检查这个[水晶萃取机]。要帮助她完成�
 
 ## 滑块8
 
-是时候提炼[水晶燃料]了！你需要两批水晶矿。因为《滑块世界》的神奇拍脑门设定，在提炼的过程中，矿车必须一直保持移动，而且你不可以移动[矿石精炼仪]！
+是时候提炼[水晶燃料]了！你需要两批水晶矿。因为《滑块世界》的神奇拍脑门设定，在提炼的过程中，矿车必须一直保持移动，而且你不可以移动[水晶精炼仪]！
 
 提示一: ||在矿车行驶过程中是不能移动任何滑块的，所以务必小心规划！这一关的解法和[岩浆运送]那一关很相似。||
 
@@ -837,87 +837,87 @@ MRI的[研究员萨拉]正在检查这个[水晶萃取机]。要帮助她完成�
 
 ________________
 
-# Magic Research Institute (MRI)
+# 魔法研究学院(MRI)
 
-Welcome to Magic Research Institute, the final level of Slider! This area features present and past versions of tiles, with a desync mechanic centered around the anchor. Start by walking over to the bottom right corner of the map and talk to Alchemist Muta.
+欢迎来到《滑块世界》的最后一关——魔法研究学院！（也就是Magic Research Institute, MRI）在这一关，你会见到[时间旅行]，因果，还有可以通过[船锚]触发的[时间分裂]。不过首先你需要走到地图边缘右下方来与[炼金术士谬塔]对话。
 
-## Gems
+## 魔法宝石
 
-In addition to filling (both) grids, you also have to find 9 gems to power the Gem Fuel machine. You'll probably find most of them as you play, but here are all of the gems in case you missed some.
+要通关MRI，你不仅仅需要解锁全9张滑块，还需要找到9块魔法宝石！大部分宝石是可以在探索地图时顺便收集的，但是也许你会错过几个。为了方便，以下是所有宝石的地点。
 
-### Ocean Gem (Blue)
+### 海洋宝石（蓝）
 
-Fezziwig has the first gem on the bottom right corner of the map. Go and talk to him.
+[巫师法兹维]拿着第一块宝石。你需要在地图边缘右下角找到他。
 
-谜底： ||Pick up and deliver gems to the Gem Fuel machine by pressing 'E' (or your key bind for interact).||
+谜底： ||拾起宝石并将它递到[炼金炉]那里。别忘了按‘E’键（或交互键）！||
 
-### Desert Gem (Orange)
+### 沙漠宝石（橙）
 
-After activating the portal to the Impact Zone, go back into the Desert temple and explore some more.
+在开启通往[撞击坑区域（沙漠）]的传送门，回到[沙漠神庙]并继续探索。
 
-谜底： ||The Desert Gem is in the Desert temple, on the newly excavated right side of the underground portion.||
+谜底： ||[沙漠宝石]在神庙地下的右边，也就是刚刚被发掘出来的区域。||
 
-### Military Gem (Purple)
+### 军队宝石（紫）
 
-It wouldn't be a Magic Research Institute without lasers! Looks like there are some big rocks you can blow up around here, and the Military Gem is in the bottom left corner blocked by one. The laser cannon on the second tile can help clear the way.
+魔法研究缺不了[激光炮]！看起来附近有许多可以炸开的[大石头]，而其中一块石头挡住了地图左下角的[军队宝石]——你需要用滑块2上的[激光炮]来开路。
 
-提示： ||On the laser tile, activate the laser by flipping the switch below the cannon. You can send the laser through the portal.||
+提示： ||在[激光炮滑块]上打开开关并激活大炮。激光会穿过传送门并击中[过去]的目标。||
 
-谜底： ||The Military Gem is on the left side of the past behind a giant rock. Arm the rock with explosives by interacting with the bomb sign near it. You can shoot the laser through the portal, blow up the rock, and collect the gem.||
+谜底： ||[军队宝石]在地图[过去]左边的一块大石头后面。与石头旁边的[爆破标识]交互，就能安置好爆炸物。将[激光炮]对准传送门发射，并将传送门对准石头，就可以将石头炸开。||
 
-### Village Gem (Brown)
+### 小镇宝石（棕）
 
-The Village Gem is on the top right of the laser tile. But it's locked behind an electric door activated by a button on the... inside?
+[小镇宝石]在[激光炮滑块]的右上角，不过它被锁在一个密室里面——密室大门的开关在密室[里面]，该怎么办呢？
 
-提示： ||Changing the position of an the past version of an entangled item affects the position of the the present version.||
+提示： ||“同一件”物品的[当前]状态会被它的[过去]影响——游戏会特意标注出适用于这种“时间纠缠”现象的物品。||
 
-谜底： ||Pick up the past (pink) bob on the past portal tile, and bring it to the top right of the past laser tile. Place it within the box. The present (yellow) version of the bob will be teleported to the same spot in the present and should activate the button on the present laser tile. Return to the present laser tile to pick up the gem. (Make sure nothing is desynced!)||
+谜底： ||时间穿越到过去并从[传送门滑块]拾起[导电球]——导电球的[粉色]边框表示它是一个[过去]的物品。将导电球放到[激光炮滑块]右上角打开着的密室里面。回到现在后，可以看到导电球（[黄色]边框，表示它是一个[现在]的物品）已经在密室里并将大门的开关激活了。（注：如果你已经意外发现了[时间分裂]机制，请不要在这个谜题中激活它）
 
-### Mountory Gem (Mountain and Factory)
+### 山脉+工厂宝石
 
-See the hints for 滑块4.
+谜底包括在[滑块4]的提示中。
 
-### Caves Gem (Teal)
+### 洞穴宝石（青）
 
-The Caves Gem is located on the bottom right side of the map in the past. Use the entangled bobs to get inside.
+[洞穴宝石]在地图[过去]的右下角。你需要用[导电球]来开路。
 
-提示： ||You'll have to use the entangled conductive bobs, but no desyncs required!||
+提示： ||你需要利用导电球的[时空纠缠]现象，但并不用触发[时间分裂]。||
 
-谜底： ||Use the Anchor to connect the pylons and open the first door. Bring the past bob down and place it behind the first door. Go to the present near the gem machine to pick up the present bob and place it to connect the wires. Pick up the Anchor. Walk through the first door and pick up the past bob. This will reset the present bob's position. Collect the gem, flip the switch, and walk out.||
+谜底： ||在[过去]，用[船锚]连接导电桩并打开第一扇门。拾起[导电球（过去）]并将它放到第一扇门后面。穿越到[现在]，并从[炼金炉]附近拾起[导电球（现在）]。回到[过去]，将[导电球（现在）]放到[船锚]原先的位置并确保电流是连接着的。收起[船锚]，并走到[导电球（过去）]旁边。拾起[导电球（过去）]——因为时间纠缠的原因，这会导致[导电球（现在）]从[过去]消失（并回到[现在]的和你的位置对应的地方）！拿到宝石，并打开开关并走出密室。||
 
-### Jungle Gem (Green)
+### 雨林宝石（绿）
 
-A wizard in the village in the past has the gem, but he's asking for one million dollars!
+[雨林宝石]的主人是一名在[过去]的小镇里的巫师——但他要价不菲！
 
-提示： ||The safe in the desert casino has a lot of money!||
+提示： ||[沙漠区域]的赌场里有一个保险箱，里面有很多钱！||
 
-谜底： ||The Foreman doesn't want us to use the laser... but Chad can do something about it. Set up the laser so it will fire to the Casino and go through the portal. Set the bombs outside the right side of the casino and Chad will handle turning the laser on. Then, take the money and run away! You can pay the wizard in the past village and grab the Jungle Gem and the Gem Fuel recipe.||
+谜底： ||[工头]并不愿意让我们使用激光炮，但[大碴]的社交手腕可不是开玩笑的。布置好[激光炮]和[传送门]，使得激光可以打到[赌场]上。在赌场右边的墙外布置好[炸弹]后，大碴会启动激光炮——在炸开保险柜后，你就可以拿钱跑路了！用这笔巨款买下[雨林宝石]和[宝石能源配方]。||
 
-### MagiTech Gem (Pink)
+### MRI宝石（粉）
 
-Go to the 9th tile and talk to the voice on the reflection pool.
+在[滑块9]与[许愿池]对话。
 
-谜底： ||Use the Scroll of Realigning to put all the MRI back together. Turn in the artifact by advancing the dialogue at the reflection pool.||
+谜底： ||使用[对齐卷轴]将MRI地图复原。你已经修复了整个世界，现在可以将[古遗物]交给[许愿池]并解锁最后一块宝石了。||
 
 ## 滑块1
 
-Grab the Ocean Gem, put it in the machine, then talk to Alchemist Muta to get a nifty Gem Transporter and the first Slider.
+拿到[海洋宝石]并将它放入[炼金炉]。与[炼金术士谬塔]对话来拿到一个[宝石传送器]，还有[滑块1]。
 
-谜底： ||Go past the Gem Fuel machine, pick up the Ocean Gem, and use it near the machine to place it in. Talk to Muta and pick up the Gem Transporter, then pick up the Ocean Gem again.||
+谜底： ||走过[炼金炉]，并捡起[海洋宝石]。与[炼金炉]交互来把宝石放进里面。与[谬塔]对话并拿到[宝石传送器]——你需要再次拾起[海洋宝石]来完成传送器的功能演示。||
 
 ## 滑块2
 
-A portal appears; where might it lead? Explore the past to find the next Slider.
+一个[传送门]出现了——它通向哪里呢？探索[过去]并拿到下一张滑块。
 
-谜底： ||You can find Chad in the top-left of the past version of the map.||
+谜底： ||你可以在地图[过去]的左上角找到[大碴]||
 
 ## 滑块3
 
-By studying fossils from the Impact Zone, MRI scientists have created a super laser! In order to test it out, you'll need to explode a rock and retrieve some oil.
+MRI的研究员们仔细观察了撞击坑区域的[化石]并“琢磨”出了一座[超级激光炮]！要真正看到它的威力，你需要找到一些[油]，还有一大块用来爆破的[石头]。
 
-提示： ||Dropping the Anchor on a tile causes a desync -- it locks the tile in place, but enables you to move the tile in the other dimension.||
+提示： ||将[船锚]掷到一张滑块上就可以导致[时间分裂]——你当前时间的滑块会被定在原地，但“另一个时间”的滑块还是可以随便移动的。||
 
-谜底： ||Move the laser to the right side of the grid with the portal in the center. Drop the Anchor on the laser tile, take the portal into the past, and move the past laser tile around to the left of the portal. Talk to the bomb sign to blow up the rock. Pick up the Oil, and bring it back to the scientist on the laser tile.||
+谜底： ||从地图[现在]开始，将[激光炮]移动到[传送门滑块]的右边，并将[船锚]掷到[激光炮滑块]上。穿越到[过去]并将[激光炮滑块（过去）]移动到[传送门]左边。与[爆破标识]对话并炸掉石块。捡起[油]，并将它交给[激光炮滑块（现在）]旁的科学家。||
 
 ## 滑块4
 
