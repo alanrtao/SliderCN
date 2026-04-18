@@ -869,7 +869,7 @@ ________________
 
 [小镇宝石]在[激光炮滑块]的右上角，不过它被锁在一个密室里面——密室大门的开关在密室[里面]，该怎么办呢？
 
-提示： ||“同一件”物品的[当前]状态会被它的[过去]影响——游戏会特意标注出适用于这种“时间纠缠”现象的物品。||
+提示： ||这一关的一些物品会被[时间纠缠]影响：同一种物品的[过去]版本会影响[现在]的版本。游戏会标注出这些被[纠缠]的物品。||
 
 谜底： ||时间穿越到过去并从[传送门滑块]拾起[导电球]——导电球的[粉色]边框表示它是一个[过去]的物品。将导电球放到[激光炮滑块]右上角打开着的密室里面。回到现在后，可以看到导电球（[黄色]边框，表示它是一个[现在]的物品）已经在密室里并将大门的开关激活了。（注：如果你已经意外发现了[时间分裂]机制，请不要在这个谜题中激活它）
 
@@ -921,29 +921,29 @@ MRI的研究员们仔细观察了撞击坑区域的[化石]并“琢磨”出了
 
 ## 滑块4
 
-Head into the museum, and you'll find the Curator. He tells you a tale of two wizards who died in combat over a shield generator, which is now preserved in the museum. If things had ended differently, perhaps there would be some other remnant from the battle. Can you change history?
+在[博物馆]中找到[馆长]，他会和你讲一个故事：古代的两名巫师为了争一个[法术护盾]而同归于尽，而这把护盾就在博物馆中保存着。如果回到过去，你能改变这场决斗的结果么？
 
-提示： ||To get access to the present shield generator, give one of the wizards the shield generator in the past.||
+提示： ||要获得[法术护盾（当前）]，你必须先回到过去并将过去的法术护盾交给任意一名巫师。||
 
-谜底： ||On the past museum tile, move the pink shield generator to either one of the wizard's boxes. That wizard will win the duel, creating a gem which is preserved in the museum. Go to the present museum tile, grab the present shield generator from the upper floor of the museum, and bring it to the other wizard. On Run back to the museum and talk to the curator and pick up the Mountory Gem while you're at it (Poor curator. His worries came true).||
+谜底： ||从[博物馆（过去）]开始，将[法术护盾（过去）]放到任意巫师旁的箱子里——有了护盾的帮助，那一名巫师会赢得对决，并在决斗后的未来最终做出一块[宝石]——那块宝石会存放在[现在]的[博物馆]中。从[现在]的[博物馆]中拿到[法术护盾（现在）]，并回到过去将它交给另一名巫师——这样两人就会平局。回到[博物馆（现在）]并和馆长对话以解锁[山脉+工厂宝石]。（很可惜，馆长的担忧成真了）||
 
 ## 滑块5
 
-On the new tile, there's a VERY hungry worker, who isn't satisfied with just one burger. It's become entangled with the very first burger ever created, which you'll need to steal.
+新解锁的滑块上，有一名[非常饥饿的工人]——仅仅一个[汉堡]是不能满足他的。注意：这个汉堡与历史上第一个汉堡发生了[时空纠缠]！
 
-提示一: ||While you can bring present entangled items to the past, you can't bring past items to the present without the present version disappearing. That is, unless you could break the rules of time...||
+提示一: ||你可以将被纠缠物品的[现在]版本带回过去。但如果将[过去]的版本带到现在，现在的版本则会消失！——除非你知道一种“打破时间准则”的方法……||
 
-提示二: ||If either entangled item is on a desync tile, no pesky time continuity rules apply||
+提示二: ||如果被[纠缠]物品的任意版本正处在被[时间分裂]的滑块上，那一个版本不会被纠缠效应影响。||
 
-谜底： ||Anchor the Hungry Worker's tile down, swap to the past and activate a desync by moving the past tile to a different location. The past burger should now have a lightning effect. Take the past burger and place it on the table next to the hungry worker. When both burgers are near the worker, he will give you 滑块6||
+谜底： ||朝[饥饿工人]脚下的滑块掷下[船锚]。穿越到[过去]并移动对应的滑块来触发[时间分裂]。在过去的[汉堡]会被一个“闪电”标识标注，这说明它暂时和纠缠的对象[断开]了。将[汉堡（过去）]带回现在，并交给工人——他会吃掉两个汉堡并交给你[滑块6]。||
 
 ## 滑块6
 
-The castle on the past version of the new tile holds the next Slider piece. The only bridge to get there is broken, and a shroom-hatted wizard is somehow afraid of mushrooms?
+新解锁的滑块的[过去]版本上有一座城堡，不过唯一通向城堡的吊桥断掉了，而且有一个带着“蘑菇帽子”的[巫师]说自己害怕蘑菇？
 
-提示： ||Hitting the mushrooms with the laser will cause them to shrink.||
+提示： ||对[蘑菇]使用[激光炮]会让它们收缩起来。||
 
-谜底： ||Line up the castle and the bridge in one row, and the portal and the laser in another row. Anchor the present portal slider, and move the past portal tile to start a desync.  Move the past portal slider to the same row as the castle. Talk to the shroom-hatted wizard and cross the bridge into the castle.||
+谜底： ||将[城堡]与[吊桥]拼到一起，并在另一行布置好[传送门]和[激光炮]。将[传送门（现在）]用[船锚]定住，并移动[传送门（过去）]以引发[时间分裂]。将[传送门（过去）]移动到[城堡]的同一行，激光会集中城堡并“消灭”上面的蘑菇。与[蘑菇帽子巫师]对话并降下吊桥、进入城堡。||
 
 ## 滑块7
 
@@ -965,17 +965,17 @@ Oil #4 (Present Mirror Tile) 谜底： || first line up the rocket, hungry worke
 
 滑块8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the entangled lever interactions to get inside.
 
-提示： ||Don't forget about the Anchor!||
+提示： ||别忘了[船锚]!||
 
 谜底： ||Flip the lever in the past so that the outer door is open. Place the Anchor on the present vault tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the past tile back, or pick up the Anchor while still inside the outer door. This will shut the outer door and open the inner one. Flip the switch to get out.||
 
 ## 滑块9
 
-Collect all the gems except the MagiTech Gem, then talk to Alchemist Muta to get the final Slider! You're probably missing the Jungle one, but make sure to check the Gem section above.
+集齐[MRI宝石]之外的所有宝石，然后与[炼金术士谬塔]对话来解锁最终的滑块！你很有可能还没有解锁[雨林宝石]——请参照上面关于[魔法宝石]的部分。
 
-## Blast Off!
+## 上天！
 
-What a journey! Once you've collected all the Gems, talk to Alchemist Muta to get the Gem Fuel pumping to the rocket. Interact with the door near the launchpad, and you'll be on your way to being reunited with your cat! 
+多么传奇的一场旅行！收集到所有[宝石]之后，与[炼金术士谬塔]对话并将[宝石燃料]输送进火箭中。与发射台边的大门交互，你就可以登上火箭并找到你失落在太空里的猫猫了！
 
 感谢您游玩《滑块世界》！
 
