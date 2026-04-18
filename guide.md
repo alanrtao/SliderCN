@@ -947,27 +947,27 @@ MRI的研究员们仔细观察了撞击坑区域的[化石]并“琢磨”出了
 
 ## 滑块7
 
-Below the rocket which you'll be riding, an engineer needs four Oils for reserve fuel. Find them inside explodable rocks and nearby.
+在[火箭]边上，有一名[工程师]会告诉你发射火箭需要四桶[油]——有些被藏在石头里面，而其他则散落在四周。
 
-提示一: ||There's one oil hiding on the top right of the rocket launchpad.||
+提示一: ||[火箭发射塔]的右上方藏着一桶油||
 
-提示二: ||The other two oils are inside explodable rocks: one in the past and the other in the present.||
+提示二: ||另外有两桶油在可以被炸碎的石块中：一个在[过去]，一个在[现在]。||
 
-提示三: ||To explode the rock in the present, you'll need to pass the laser through the portal twice.||
+提示三: ||要炸掉[现在]的石块，你需要让[激光]穿过[传送门]“两次”。||
 
-Oil #2 (Present Rocket Tile) 谜底： || Oil #2 is in a pile of supplies on the top right of the rocket tile.||
+油#2([火箭滑块（现在）])谜底： ||油#2藏在火箭滑块的右上放。||
 
-Oil #3 (Past Rocket Tile) 谜底： || Line up the rocket, portal, and laser tiles from left to right, then blow up the rock in the past rocket tile.||
+油#3([火箭滑块（过去）])谜底： ||将[火箭]，[传送门]，和[激光炮]从左到右排成一行，并开启激光来炸掉[火箭滑块（过去）]上的石头。||
 
-Oil #4 (Present Mirror Tile) 谜底： || first line up the rocket, hungry worker tile, and laser on the bottom row, and anchor the present laser tile. The laser should reflect upwards in the middle. Place the portal in the middle of the left side with the museum above it, then place the present explodable rock in the top right corner. Move to the past. There should be a path to desync the past laser tile and move it to the center of the top row. Move the portal one tile right to the center and the rocket up one tile. The laser should start on the bottom right, reflect up into the portal in the middle, loop counter-clockwise in the past, and come out the right side of the present portal. Go explode the present rock and return to the rocket engineer near the launchpad.||
+油#4（[镜子滑块（现在）]）谜底： ||首先，将[火箭滑块]，[饥饿工人滑块]，和[激光炮滑块]从左到右摆放到地图最下方的一行——这样[激光]就会顺着中间列向上折射。将[传送门滑块]放到中间行左边，[博物馆滑块]放置到左上角，并将[石头滑块（现在）]放在地图右上角。用[船锚]定住[激光炮滑块（现在）]，并穿越到[过去]。你接下来需要在[激光炮滑块（过去）]触发[时间分裂]，并将它移到地图中上方——要完成这个布置，你需要先将[传送门（过去）]向右移动一格，并将[火箭滑块（过去）]向上移动一格，最后再去移动[激光炮滑块（过去）]。布置完成后，你会发现激光会从[现在]的右下角开始，向上折射进入传送门，在[过去]做逆时针旋转，并最终朝右边离开[传送门（现在)]、击中石头。||
 
 ## 滑块8
 
-滑块8 can be found trapped behind a similar puzzle to the Caves Gem on the tile with two buildings on it. Use the entangled lever interactions to get inside.
+在[有两个建筑]的滑块上，你可以看见[滑块8]被困在与[洞穴宝石]谜题相似的密室中。用[被纠缠的开关]来进入密室。
 
 提示： ||别忘了[船锚]!||
 
-谜底： ||Flip the lever in the past so that the outer door is open. Place the Anchor on the present vault tile. Go back to the past, desync the tile by moving it, flip the switch so that the inner door is open, then go back to the present. Walk through the outer door, then resync by holding the keyboard bind for preview down and shifting the past tile back, or pick up the Anchor while still inside the outer door. This will shut the outer door and open the inner one. Flip the switch to get out.||
+谜底： ||在[过去]打开开关，这样可以打开密室[外侧]的门。回到[现在]，并将[船锚]掷到[密室滑块]上。再次穿越到[过去]，移动密室滑块并触发[时间分裂]，接着关上开关并打开密室[内侧]的门。再次回到[现在]，走过外侧门并捡起[船锚]以结束时间分裂。（另一种解法是：打开[地图]界面并按住[切换]键来操纵过去的滑块，将[密室滑块（过去）]移动到[密室滑块（现在）]的位置上，它们就会重新合并！）这会关掉外侧的门并打开内侧的门。打开开关，并走出密室。||
 
 ## 滑块9
 
